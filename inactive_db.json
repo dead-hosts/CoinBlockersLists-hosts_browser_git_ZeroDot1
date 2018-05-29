@@ -307,9 +307,7 @@
             "www.minr.pw",
             "www.monero.crypto-pool.fr",
             "www.mutuza.win",
-            "www.pool.cryptonoter.com"
-        ],
-        "to_test": [
+            "www.pool.cryptonoter.com",
             "www.test.cryptonoter.com",
             "www.ws.freebitco.in",
             "www.wsnew.freebitco.in",
@@ -318,7 +316,9 @@
             "xml.mining.best",
             "xmr10.crypto-pool.fr",
             "xmrm.browsermine.com",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
             "2ledhenone.com"
         ]
     }
