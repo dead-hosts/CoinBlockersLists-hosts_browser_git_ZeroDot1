@@ -306,9 +306,7 @@
             "www.assetscdn.stream",
             "www.cloudcdn.gdn",
             "www.cloudcoins.co",
-            "www.interestingz.pw"
-        ],
-        "to_test": [
+            "www.interestingz.pw",
             "www.minr.pw",
             "www.monero.crypto-pool.fr",
             "www.mutuza.win",
@@ -321,7 +319,9 @@
             "xml.mining.best",
             "xmr10.crypto-pool.fr",
             "xmrm.browsermine.com",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
             "2ledhenone.com"
         ]
     }
