@@ -199,9 +199,7 @@
             "ws016.hemnes.win",
             "ws017.hemnes.win",
             "ws018.hemnes.win",
-            "ws019.hemnes.win"
-        ],
-        "to_test": [
+            "ws019.hemnes.win",
             "ws020.hemnes.win",
             "ws021.hemnes.win",
             "ws022.hemnes.win",
@@ -322,7 +320,9 @@
             "xdn.cpufan.club",
             "xml.mining.best",
             "xmr10.crypto-pool.fr",
-            "xmrm.browsermine.com",
+            "xmrm.browsermine.com"
+        ],
+        "to_test": [
             "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "2ledhenone.com"
         ]
