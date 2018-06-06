@@ -193,10 +193,7 @@
             "ws011.hemnes.win",
             "ws012.hemnes.win",
             "ws013.hemnes.win",
-            "ws014.hemnes.win"
-        ],
-        "to_test": [
-            "lib.xmrm.pw",
+            "ws014.hemnes.win",
             "ws015.hemnes.win",
             "ws016.hemnes.win",
             "ws017.hemnes.win",
@@ -317,7 +314,10 @@
             "www.test.cryptonoter.com",
             "www.ws.freebitco.in",
             "www.wsnew.freebitco.in",
-            "www.xmrm.pw",
+            "www.xmrm.pw"
+        ],
+        "to_test": [
+            "lib.xmrm.pw",
             "xdn.cpufan.club",
             "xml.mining.best",
             "xmr10.crypto-pool.fr",
