@@ -2,7 +2,7 @@ env:
   global:
     - secure: BphyZphHbrf0jaNF06rKVlLrydcfvxucux+bgj6036WRb3LBPDviUldEWjrKUp9Lxut+9s2pvxB/AJtBKk9fuF6M5claUhvdLAWXobNwzFk9FVqpV+XQ0GqxgRvERkeqIpyuM/rQaBcGlAWybjBuRJYuBz2AwKaAW0bLu6CznCNYtn5rT0Z/WJWnqc38BTLo6MAWbbAoMP6hjJdueU1fYhSXjX3A8XL0curfEtMOaprrFu4+YqPHDUOU69V59+fV80F6R0PS8wrMBaktfEDJMEN10Pi8m+vpSKhd+04mp5Wn0PmVJ//ZZMwoK+MDb0tS4HPx3GFL0Nn7awXGiADSTeHwAPOQgJ1A6qpFAcyxg2w0R6+Mawnx7X9HYvXWNsLSLNggk68XVcz6PS6H7YlAMTmpTP1XTWDB4lzJoyyPUaz517XHH36CALH2UoCMXZGWmSb2rKK0AFhvO2wr/FkH+0f4TC2j3BTr0yLhazNio49305Aj3pp83cIQQtiLfUy733gNCPINdRslgxH+rwRz/Rht2Fd2OY13SO/1wRAcq2DsUuihJxP1R3B5CgwAO6PZV+hcS4tqhgeE1zMTzUnRCk/eEoTmQLv32vRvzOHIgxRkwaya7bX8LziNEhiVRuZ0lrGDL/K5fDawfUMV5hlYjQkxrgq2brRiIykwCHDfsdU=
     - GIT_NAME: Travis CI
-    - GIT_EMAIL: funilrys@outlook.com
+    - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/CoinBlockersLists_git_ZeroDot1
     - GIT_BRANCH: master
 
