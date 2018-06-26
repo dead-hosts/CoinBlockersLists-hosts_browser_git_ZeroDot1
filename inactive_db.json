@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
-        "1529928125": [
-            "marcycoin.org",
+        "1530014527": [
             "mataharirama.xyz",
             "mercy.ga",
             "mhiobjnirs.gq",
@@ -32,6 +31,7 @@
             "p3.assetscdn.stream",
             "p3.interestingz.pw",
             "pasoherb.gq",
+            "play.video.estream.nu/",
             "pool.cloudcoins.co",
             "pool.coinlab.biz",
             "pool.cryptonoter.com",
@@ -49,7 +49,6 @@
             "sass.cryptoloot.pro",
             "sen-to-zdrowie.ml",
             "siteverification.online",
-            "smectapop12.pl",
             "stone.cryptoloot.pro",
             "sumo.cryptonoter.com",
             "test.cryptonoter.com",
@@ -62,7 +61,10 @@
             "wc3-soft.sbhmn-miner.com",
             "wckp.sbhmn-miner.com",
             "web-master.sbhmn-miner.com",
-            "web.clod.pw",
+            "web.clod.pw"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "web.minr.pw",
             "webdisk.monerominer.rocks",
             "webmail.monerominer.rocks",
@@ -318,10 +320,7 @@
             "gate.hws.ru",
             "go2.mercy.ga",
             "graft.monerise.com",
-            "gustaver.ddns.ne"
-        ],
-        "to_test": [
-            "play.video.estream.nu/",
+            "gustaver.ddns.ne",
             "hhb123.tk",
             "img.jsecoin.com",
             "interestingz.pw",
