@@ -177,9 +177,7 @@
             "siteverification.online",
             "stone.cryptoloot.pro",
             "sumo.cryptonoter.com",
-            "test.cryptonoter.com"
-        ],
-        "to_test": [
+            "test.cryptonoter.com",
             "tor.monerise.com",
             "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
@@ -249,7 +247,9 @@
             "ws2.360caa42.space",
             "ws2.370cabd5.space",
             "ws2.3c0cb3b4.space",
-            "ws2.3d0cb547.space",
+            "ws2.3d0cb547.space"
+        ],
+        "to_test": [
             "ws3.1beb2a44.space",
             "ws3.300ca0d0.space",
             "ws3.310ca263.space",
