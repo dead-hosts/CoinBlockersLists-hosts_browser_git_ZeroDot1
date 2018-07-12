@@ -178,12 +178,7 @@
             "test.cryptonoter.com",
             "tor.monerise.com",
             "us-stratum.viaxmr.com",
-            "us.cfcnet.gdn"
-        ],
-        "to_test": [
-            "2ledhenone.com",
-            "Free4Faucet.com",
-            "us1.monerise.com",
+            "us.cfcnet.gdn",
             "us2.monerise.com",
             "video.estream.nu",
             "wc3-soft.sbhmn-miner.com",
@@ -256,7 +251,12 @@
             "ws3.320ca3f6.space",
             "ws3.330ca589.space",
             "ws3.340ca71c.space",
-            "ws3.360caa42.space",
+            "ws3.360caa42.space"
+        ],
+        "to_test": [
+            "2ledhenone.com",
+            "Free4Faucet.com",
+            "us1.monerise.com",
             "ws3.370cabd5.space",
             "ws3.3c0cb3b4.space",
             "ws3.3d0cb547.space",
