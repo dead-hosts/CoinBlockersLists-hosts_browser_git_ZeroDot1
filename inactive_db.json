@@ -107,11 +107,7 @@
             "graft.monerise.com",
             "gustaver.ddns.ne",
             "hhb123.tk",
-            "img.jsecoin.com"
-        ],
-        "to_test": [
-            "us1.monerise.com",
-            "bewhoyouare.gq/*",
+            "img.jsecoin.com",
             "interestingz.pw",
             "js.ftp0118.info",
             "laferia.cr",
@@ -182,6 +178,7 @@
             "tor.monerise.com",
             "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
+            "us1.monerise.com",
             "us2.monerise.com",
             "video.estream.nu",
             "wc3-soft.sbhmn-miner.com",
@@ -189,7 +186,10 @@
             "web-master.sbhmn-miner.com",
             "web.clod.pw",
             "web.minr.pw",
-            "webdisk.monerominer.rocks",
+            "webdisk.monerominer.rocks"
+        ],
+        "to_test": [
+            "bewhoyouare.gq/*",
             "webmail.monerominer.rocks",
             "wijzeman.sbhmn-miner.com",
             "witkom.sbhmn-miner.com",
