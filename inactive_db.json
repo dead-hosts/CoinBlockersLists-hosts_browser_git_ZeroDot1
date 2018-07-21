@@ -1,11 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
-        "1532088184": [
-            "aeros02.tk",
-            "aeros03.tk",
-            "aeros04.tk",
-            "aeros05.tk",
-            "aeros06.tk",
+        "1532174584": [
             "aeros07.tk",
             "aeros08.tk",
             "aeros09.tk",
@@ -39,6 +34,7 @@
             "auto.monerise.com",
             "avualrhg9p0.bid",
             "bewhoyouare.gq",
+            "bewhoyouare.gq/*",
             "capitain.noblock.pro",
             "cdjs.online",
             "cdn.ajcryptominer.com",
@@ -83,6 +79,7 @@
             "files.fortrader.ru",
             "flophous.cf",
             "fr1.monerise.com",
+            "Free4Faucet.com",
             "ftp.coinlab.biz",
             "ftp.directprimal.com",
             "gasolina.ml",
@@ -93,7 +90,14 @@
             "hash.minexmr.stream",
             "hhb123.tk",
             "img.jsecoin.com",
-            "interestingz.pw",
+            "interestingz.pw"
+        ],
+        "to_test": [
+            "aeros02.tk",
+            "aeros03.tk",
+            "aeros04.tk",
+            "aeros05.tk",
+            "aeros06.tk",
             "js.ftp0118.info",
             "lib.bmst.pw",
             "listat.biz",
@@ -322,9 +326,8 @@
             "xmr10.crypto-pool.fr",
             "xmrm.browsermine.com",
             "zjemch.ru",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "2ledhenone.com",
             "ablen01.tk",
             "ablen02.tk",
             "ablen03.tk",
@@ -339,10 +342,7 @@
             "ablen12.tk",
             "adrenali.gq",
             "adzjzewsma.cf",
-            "aeros01.tk",
-            "bewhoyouare.gq/*",
-            "Free4Faucet.com",
-            "2ledhenone.com"
+            "aeros01.tk"
         ]
     }
 }
