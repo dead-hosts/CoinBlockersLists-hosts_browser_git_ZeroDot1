@@ -176,15 +176,14 @@
             "siteverification.online",
             "stone.cryptoloot.pro",
             "sumo.cryptonoter.com",
-            "test.cryptonoter.com"
-        ],
-        "to_test": [
+            "test.cryptonoter.com",
             "tor.monerise.com",
             "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
             "us1.monerise.com",
             "us2.monerise.com",
             "video.estream.nu",
+            "vzhjnorkudcxbiy.com",
             "wc3-soft.sbhmn-miner.com",
             "wckp.sbhmn-miner.com",
             "web-master.sbhmn-miner.com",
@@ -264,7 +263,9 @@
             "ws4.300ca0d0.space",
             "ws4.310ca263.space",
             "ws4.320ca3f6.space",
-            "ws4.330ca589.space",
+            "ws4.330ca589.space"
+        ],
+        "to_test": [
             "ws4.340ca71c.space",
             "ws4.360caa42.space",
             "ws4.370cabd5.space",
