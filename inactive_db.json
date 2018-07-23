@@ -157,11 +157,8 @@
             "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
             "us1.monerise.com",
-            "us2.monerise.com"
-        ],
-        "to_test": [
+            "us2.monerise.com",
             "video.estream.nu",
-            "vzhjnorkudcxbiy.com",
             "wc3-soft.sbhmn-miner.com",
             "wckp.sbhmn-miner.com",
             "web-master.sbhmn-miner.com",
@@ -251,7 +248,9 @@
             "ws5.1beb2a44.space",
             "ws5.300ca0d0.space",
             "ws5.310ca263.space",
-            "ws5.320ca3f6.space",
+            "ws5.320ca3f6.space"
+        ],
+        "to_test": [
             "ws5.330ca589.space",
             "ws5.340ca71c.space",
             "ws5.360caa42.space",
