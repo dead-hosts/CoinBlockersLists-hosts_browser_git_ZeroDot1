@@ -155,9 +155,7 @@
             "stone.cryptoloot.pro",
             "subloader.cf",
             "sumo.cryptonoter.com",
-            "test.cryptonoter.com"
-        ],
-        "to_test": [
+            "test.cryptonoter.com",
             "tor.monerise.com",
             "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
@@ -239,7 +237,9 @@
             "ws3.370cabd5.space",
             "ws3.3c0cb3b4.space",
             "ws3.3d0cb547.space",
-            "ws3.bmnr.pw",
+            "ws3.bmnr.pw"
+        ],
+        "to_test": [
             "ws4.1beb2a44.space",
             "ws4.300ca0d0.space",
             "ws4.310ca263.space",
