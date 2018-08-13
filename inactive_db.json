@@ -206,10 +206,7 @@
             "www.ajcryptominer.com",
             "www.analytics.blue",
             "www.api.browsermine.com",
-            "www.assetscdn.stream"
-        ],
-        "to_test": [
-            "ws019.hemnes.win",
+            "www.assetscdn.stream",
             "www.bmcm.pw",
             "www.bmnr.pw",
             "www.bmpx.pw",
@@ -233,7 +230,6 @@
             "www.mmpool.org",
             "www.monerise.com",
             "www.monero.crypto-pool.fr",
-            "www.mylovelymommy.tk",
             "www.new.browsermine.com",
             "www.old.browsermine.com",
             "www.p.tidafors.xyz",
@@ -244,7 +240,10 @@
             "www.pool2.coinimp.com",
             "www.tazm9p7tso.trade",
             "www.test.cryptonoter.com",
-            "www.tidafors.xyz",
+            "www.tidafors.xyz"
+        ],
+        "to_test": [
+            "ws019.hemnes.win",
             "www.webminerpool.com",
             "www.ws.freebitco.in",
             "www.ws.tidafors.xyz",
