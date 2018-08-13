@@ -84,10 +84,7 @@
             "ws017.hemnes.win",
             "ws017.ws.tidafors.xyz",
             "ws018.hemnes.win",
-            "ws018.ws.tidafors.xyz"
-        ],
-        "to_test": [
-            "ws019.hemnes.win",
+            "ws018.ws.tidafors.xyz",
             "ws019.ws.tidafors.xyz",
             "ws020.hemnes.win",
             "ws020.ws.tidafors.xyz",
@@ -209,7 +206,10 @@
             "www.ajcryptominer.com",
             "www.analytics.blue",
             "www.api.browsermine.com",
-            "www.assetscdn.stream",
+            "www.assetscdn.stream"
+        ],
+        "to_test": [
+            "ws019.hemnes.win",
             "www.bmcm.pw",
             "www.bmnr.pw",
             "www.bmpx.pw",
