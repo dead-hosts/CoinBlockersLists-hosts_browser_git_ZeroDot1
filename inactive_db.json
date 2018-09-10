@@ -388,9 +388,7 @@
             "xmrm.browsermine.com",
             "xsecurity.fblaster.com",
             "zjemch.ru",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "2ledhenone.com",
             "6ow9rhxtolls.gq",
             "ad.jsecoin.com",
@@ -425,7 +423,6 @@
             "aster18prx.nl",
             "auto.monerise.com",
             "avualrhg9p0.bid",
-            "berserkpl.net.pl",
             "beta.monerise.com",
             "bewhoyouare.gq",
             "bewhoyouare.gq/*",
@@ -433,14 +430,15 @@
             "cdjs.online",
             "cdn.ajcryptominer.com",
             "cdn.cloudcoins.co",
-            "cdn.cookiescript.info",
             "cdnjs.cloudflane.com",
             "cm1.xmrminingproxy.com",
             "coinimp.com/scripts",
             "coinpirate.cf",
             "community.monerise.com",
             "cookiescript.infos",
-            "cpanel.monerominer.rocks",
+            "cpanel.monerominer.rocks"
+        ],
+        "1536582691": [
             "d-ns.ga",
             "dashboard.monerise.com",
             "devappgrant.space",
@@ -474,7 +472,9 @@
             "graft.monerise.com",
             "gustaver.ddns.ne",
             "hallaert.online",
-            "hash.minexmr.stream",
+            "hash.minexmr.stream"
+        ],
+        "to_test": [
             "subloader.cf",
             "sumo.cryptonoter.com",
             "tainiesonline.pw",
