@@ -1,15 +1,15 @@
 env:
   global:
-    - secure: 1vYliNlSK6KKeQxiRGBRI27P07o2QdL6PXJlBaWdBHLo9MGeRUQ1VUGHuVq0GMjGoPjrxHlzGNePZ4fez8gZaOmfe4gxVSV3xzILsFr6FDYFpAAiHOH97fVjCQhH9cdOLuBEx6boH1lJtz+mZ4mDaA9DpsakyeZK/dsXAIF0kwekrOdk06RO0XZndZQGr5fetRCc1JZIaV5sU98bGNWvB2q2b5atqKY7uMfH5jpdYUafDmz5OHlCEWQwN+gAL/tPvI07rO8UVZjjNj8XOCcNZa18kTp9O5HnxKMy7DmZwwSRXTZZsydN3qOOkNHZBde6ZbONZvl/HajaEk/xjlP2DPbCNkRnVy5Ykm9TE5NxudeTxkJzjcBe4vcfN1B4WywDhOKFMvHme7rFyQAMr+d+0brlfrCEffgifhOH1OJOU2THBOFUJdpgqWpPU1H9skDaCa1VFyLn+X19VD7x7XpqQMU5smHbfLyv5yuljwfjXM2uvgP/tWLHLkeoEnmNmYjIQkq18WlHrMYy/MvLAZ1OTTPgEjs/2hkzFU0+8e6VPJPeHsKSbc+bxztNx2HIIZKigNS/M1hTa+HirMr3tdruMmegPplNICS+JS+oQLiAI1QqJEL+yPt98chQhiNn26Uumq1mfkAyO8Ocx6AIl/2gRhBpHe4vDeMS1fp3/jYf9m4=
+    - secure: lvB0+gAKJe5luNfda/Ok/ygpDf5/9ayN3b9XAKa5gqFX9nFCGmk4UEJ1ndTBwbuMk+32563svkm7aCml3ik6GGzpKC7sqXPIEwl1N13J/kxB+XY1de6LSv+tWH84cmbHBa6MZRmMcJvOBTSm0StYg/rIcM0j65P4Te08pFSVMuN+1ldjqRoZ31EcFfnqJwHYhDHGRuhNMdelqgjMNPQ6jaAhspWvGgvcF0CeY6+uicGFtglQvfyOPk2FwlRBUMX/A9ErIs1Bb+SnwmUbDzWTDJQfj/1Stu0CyN8PtjEyKlLKDcOMiZCkuDTTMIee+2pEk8euX5qt6G5q7RSvKbiMJrwde2958HiNNS4oG60B8yBFOhiYVw5N917hcddoo2bUeoyRcpPJ1Ntol9+IGrvGIWiEQ3irrpOAwTxTpDEichonRbDNNVQ40M0UlFfDnzJ5Adv1RkOotlsP+Eis4/fCmnT7iqAjX4WKD5cNsmWW3jYOfmTmoi8fqrqSYU8cdN71yYluXoeQx+TOE1xTANfaPxiA6SQAScnf+gWxXXC725hkSog1RdnMUerfGnMv80Dem13aH8btisfMWHOgP/cX3ejjW5tjeILIbj5vMsIVpILvFkbGAo747135EyY/+PuY0FMZjE6emVhH3eO2JPtePC70dKXzcYOTM2HBVCp7MVc=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
-    - TRAVIS_REPO_SLUG: dead-hosts/CoinBlockersLists_git_ZeroDot1
+    - TRAVIS_REPO_SLUG: dead-hosts/CoinBlockersLists-hosts_browser_git_ZeroDot1
     - GIT_BRANCH: master
 
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
