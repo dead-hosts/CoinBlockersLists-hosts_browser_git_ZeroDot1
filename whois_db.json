@@ -1730,6 +1730,21 @@
             "expiration_date": "15-apr-2019",
             "state": "future"
         },
+        "msg-2.me": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "munero.me": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "mutuza.win": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
         "mwor.gq": {
             "epoch": "1572739200",
             "expiration_date": "03-nov-2019",
@@ -1878,6 +1893,11 @@
         "ny7f6goy.bid": {
             "epoch": "1543795200",
             "expiration_date": "03-dec-2018",
+            "state": "future"
+        },
+        "oei1.gq": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
             "state": "future"
         },
         "offerreality.com": {
@@ -2178,7 +2198,7 @@
         "seasonaloffers.club": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "secumine.net": {
             "epoch": "1566777600",
@@ -2243,6 +2263,11 @@
         "sm3na.com": {
             "epoch": "1553731200",
             "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "smectapop12.pl": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
             "state": "future"
         },
         "snahome.com": {
@@ -2518,6 +2543,11 @@
         "update-your-pc.info": {
             "epoch": "1592179200",
             "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
+        "upgraderservices.cf": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
             "state": "future"
         },
         "uzljra.ru": {
