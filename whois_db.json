@@ -63,7 +63,7 @@
         "ad-miner.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "adbtc.top": {
             "epoch": "1567555200",
@@ -1508,7 +1508,7 @@
         "jsccnn.com": {
             "epoch": "1541635200",
             "expiration_date": "08-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jscdndel.com": {
             "epoch": "1570665600",
