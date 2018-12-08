@@ -1238,7 +1238,7 @@
         "gridiogrid.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hashforcash.us": {
             "epoch": "1569628800",
@@ -1796,9 +1796,9 @@
             "state": "future"
         },
         "minemytraffic.com": {
-            "epoch": "1537488000",
-            "expiration_date": "21-sep-2018",
-            "state": "past"
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "minerad.com": {
             "epoch": "1547683200",
