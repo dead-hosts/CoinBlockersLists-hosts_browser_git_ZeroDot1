@@ -2528,7 +2528,7 @@
         "static-cnt.bid": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "statistic.date": {
             "epoch": "1544572800",
@@ -2666,8 +2666,8 @@
             "state": "future"
         },
         "thewise.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "todogecoin.biz": {
@@ -2866,8 +2866,8 @@
             "state": "future"
         },
         "wasm.stream": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "wasm24.ru": {
@@ -2876,8 +2876,8 @@
             "state": "future"
         },
         "webassembly.stream": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "webmine.cz": {
