@@ -818,7 +818,7 @@
         "digxmr.com": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "directprimal.com": {
             "epoch": "1572739200",
@@ -1148,7 +1148,7 @@
         "g-content.bid": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "g1thub.com": {
             "epoch": "1566000000",
@@ -1508,7 +1508,7 @@
         "jquery-uim.download": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "jqwww.download": {
             "epoch": "1553817600",
