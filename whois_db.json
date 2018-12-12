@@ -2533,7 +2533,7 @@
         "statistic.date": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "statpipe.ru": {
             "epoch": "1571443200",
@@ -2921,8 +2921,8 @@
             "state": "future"
         },
         "whathyx.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "whysoserius.club": {
