@@ -455,9 +455,7 @@
             "xmrm.browsermine.com",
             "xsecurity.fblaster.com",
             "zjemch.ru",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "1beb2a44.space",
             "2ledhenone.com",
             "300ca0d0.space",
@@ -496,6 +494,7 @@
             "api.3c0cb3b4.space",
             "api.3d0cb547.space",
             "api.aeon.hashvault.pro",
+            "api-backup.viaxmr.com",
             "api.intense.hashvault.pro",
             "api.inwemo.com",
             "api.l33tsite.info",
@@ -503,6 +502,7 @@
             "api.ppoi.org",
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
+            "api.viaxmr.com",
             "aster18prx.nl",
             "avualrhg9p0.bid",
             "bauersagtnein.myeffect.net",
@@ -522,7 +522,6 @@
             "cody.services",
             "cookiescript.infos",
             "cpanel.monerominer.rocks",
-            "d-ns.ga",
             "darking05.tk",
             "demo.webxmr.com",
             "depttake.ga",
@@ -531,6 +530,7 @@
             "dev.ratingtoplist.com",
             "digger.cryptobara.com",
             "dle-news.pw",
+            "d-ns.ga",
             "doubleclick1.xyz",
             "doubleclick2.xyz",
             "doubleclick3.xyz",
@@ -547,13 +547,17 @@
             "ffinwwfpqi.gq",
             "ffjk.space",
             "files.fortrader.ru",
-            "flighty.win",
+            "flighty.win"
+        ],
+        "1544707386": [
             "ftp.coinhive-manager.com",
             "ftp.coinlab.biz",
             "ftp.directprimal.com",
             "ftp.freecontent.info",
             "lib.bmst.pw",
-            "likeminer.nablabee.com",
+            "likeminer.nablabee.com"
+        ],
+        "to_test": [
             "ws.l33tsite.info",
             "ws.tidafors.xyz",
             "ws1.1beb2a44.space",
