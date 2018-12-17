@@ -481,9 +481,7 @@
             "xmr.mining.best",
             "xsecurity.fblaster.com",
             "zjemch.ru",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "1beb2a44.space",
             "2ledhenone.com",
             "300ca0d0.space",
@@ -526,6 +524,7 @@
             "api.inwemo.com",
             "api.l33tsite.info",
             "api.monero.hashvault.pro",
+            "api.ppoi.org",
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
             "aster18prx.nl",
@@ -547,14 +546,16 @@
             "cody.services",
             "cookiescript.infos",
             "cpanel.monerominer.rocks",
-            "d-ns.ga",
             "darking05.tk",
             "demo.webxmr.com",
             "depttake.ga",
             "dev.coinlab.biz",
             "dev.fortrader.ru",
-            "dev.ratingtoplist.com",
+            "dev.ratingtoplist.com"
+        ],
+        "1545053028": [
             "digger.cryptobara.com",
+            "d-ns.ga",
             "doubleclick1.xyz",
             "doubleclick2.xyz",
             "doubleclick3.xyz",
@@ -581,7 +582,9 @@
             "marcycoin.org",
             "megabanners.cf",
             "mercy.ga",
-            "mhiobjnirs.gq",
+            "mhiobjnirs.gq"
+        ],
+        "to_test": [
             "mine2-party.nablabee.com",
             "miner.nablabee.com",
             "ws02.ppoi.org",
