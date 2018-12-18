@@ -494,9 +494,7 @@
             "www.ws5.bmnr.pw",
             "www.ws.freebitco.in",
             "www.wsnew.freebitco.in",
-            "www.wss.nablabee.com"
-        ],
-        "to_test": [
+            "www.wss.nablabee.com",
             "1beb2a44.space",
             "2ledhenone.com",
             "300ca0d0.space",
@@ -560,8 +558,8 @@
             "cody.services",
             "cookiescript.infos",
             "cpanel.monerominer.rocks",
-            "d-ns.ga",
             "digger.cryptobara.com",
+            "d-ns.ga",
             "doubleclick1.xyz",
             "doubleclick2.xyz",
             "doubleclick3.xyz",
@@ -580,7 +578,9 @@
             "ftp.coinhive-manager.com",
             "ftp.coinlab.biz",
             "ftp.directprimal.com",
-            "ftp.freecontent.info",
+            "ftp.freecontent.info"
+        ],
+        "to_test": [
             "ws01.coinlab.biz",
             "ws010.hemnes.win",
             "ws010.ws.tidafors.xyz",
