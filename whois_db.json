@@ -143,7 +143,7 @@
         "analytics.blue": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "andlache.com": {
             "epoch": "1547769600",
@@ -608,7 +608,7 @@
         "coinhub.win": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "coinimp.com": {
             "epoch": "1574121600",
