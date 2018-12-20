@@ -1953,12 +1953,12 @@
         "myoffers.bid": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "myoffers.party": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "myregeneaf.com": {
             "epoch": "1569369600",
@@ -2733,7 +2733,7 @@
         "uebawtz7.me": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ugmfvqsu.ru": {
             "epoch": "1564963200",
