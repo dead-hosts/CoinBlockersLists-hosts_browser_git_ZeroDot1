@@ -966,8 +966,8 @@
             "state": "future"
         },
         "financeforum.ru": {
-            "epoch": "1551139200",
-            "expiration_date": "26-feb-2019",
+            "epoch": "1582675200",
+            "expiration_date": "26-feb-2020",
             "state": "future"
         },
         "firmware.center": {
@@ -1903,6 +1903,11 @@
         "monkeyminer.net": {
             "epoch": "1572912000",
             "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "moonbit.co.in": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
             "state": "future"
         },
         "moonify.io": {
