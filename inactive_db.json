@@ -813,9 +813,8 @@
             "p1.interestingz.pw",
             "p2.interestingz.pw",
             "p3.interestingz.pw",
-            "pan.whathyx.com"
-        ],
-        "to_test": [
+            "pan.whathyx.com",
+            "ws50.crypto.csgocpu.com",
             "ws5.1beb2a44.space",
             "ws5.300ca0d0.space",
             "ws5.310ca263.space",
@@ -827,7 +826,6 @@
             "ws5.3c0cb3b4.space",
             "ws5.3d0cb547.space",
             "ws5.bmnr.pw",
-            "ws50.crypto.csgocpu.com",
             "ws6.1beb2a44.space",
             "ws6.310ca263.space",
             "ws6.320ca3f6.space",
@@ -864,7 +862,8 @@
             "ws9.360caa42.space",
             "ws9.3c0cb3b4.space",
             "ws9.3d0cb547.space"
-        ]
+        ],
+        "to_test": []
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
         "1536582691": [
