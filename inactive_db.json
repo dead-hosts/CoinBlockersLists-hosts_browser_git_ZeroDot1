@@ -713,9 +713,7 @@
             "xmrm.pw",
             "xsecurity.fblaster.com",
             "zjemch.ru",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "1beb2a44.space",
             "1q2w3.fun",
             "2ledhenone.com",
@@ -797,6 +795,7 @@
             "cdn.streambeam.io",
             "cdnfile.xyz",
             "certificates.freecontent.win",
+            "cfcdist.gdn",
             "cfcnet.gdn",
             "chainblock.science",
             "charlie.noblock.pro",
@@ -819,6 +818,7 @@
             "cvp7.asvoxod.ru",
             "cvp8.asvoxod.ru",
             "d-ns.ga",
+            "d.cfcdist.gdn",
             "d.cfcnet.gdn",
             "d.cfcnet.top",
             "darking05.tk",
@@ -888,7 +888,9 @@
             "lib.xmrm.pw",
             "livelyoffers.club",
             "losital.ru",
-            "m2.cdn-jquery.host",
+            "m2.cdn-jquery.host"
+        ],
+        "to_test": [
             "m3.cdn-jquery.host",
             "m4.cdn-jquery.host",
             "m5.cdn-jquery.host",
