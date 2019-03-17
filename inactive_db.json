@@ -577,10 +577,7 @@
             "server.adless.io",
             "silver.crypto.csgocpu.com",
             "site.freecontent.com",
-            "siteverification.online"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "siteverification.online",
             "siteverification.site",
             "smurf.crypto.csgocpu.com",
             "srcu.pw",
@@ -601,7 +598,9 @@
             "test.minr.pw",
             "testnet.webxmr.com",
             "thathislitt.ru",
-            "ullnot.download",
+            "ullnot.download"
+        ],
+        "1552832927": [
             "us.cfcnet.gdn",
             "us.cfcnet.top",
             "us1.cfcnet.gdn",
@@ -902,7 +901,10 @@
             "www.cryptocoinabout.com",
             "www.cryptoloot.pro",
             "www.cryptonoter.com",
-            "www.ctlrnwbv.ru",
+            "www.ctlrnwbv.ru"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "www4.2giga.link",
             "www49.playercdn.net"
         ]
