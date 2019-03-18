@@ -700,10 +700,7 @@
             "m4.cdn-jquery.host",
             "m5.cdn-jquery.host",
             "ma.herphemiste.com",
-            "main.minero.cc"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "main.minero.cc",
             "mataharirama.xyz",
             "megabanners.cf",
             "mercy.ga",
@@ -810,7 +807,10 @@
             "srcu.pw",
             "sss.www.freecontent.date",
             "st.kjli.fi",
-            "staging.webxmr.com",
+            "staging.webxmr.com"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "static-cnt.bid",
             "static-net.nut.cc",
             "statistic.date",
