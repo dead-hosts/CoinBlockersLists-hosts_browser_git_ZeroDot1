@@ -512,10 +512,7 @@
             "siteverification.online",
             "siteverification.site",
             "smurf.crypto.csgocpu.com",
-            "srcu.pw"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "srcu.pw",
             "sss.www.freecontent.date",
             "st.kjli.fi",
             "staging.webxmr.com",
@@ -902,7 +899,10 @@
             "www.ltstyov.ru",
             "www.mataharirama.xyz",
             "www.mebablo.com",
-            "www.megabanners.cf",
+            "www.megabanners.cf"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "www4.2giga.link",
             "www49.playercdn.net"
         ]
