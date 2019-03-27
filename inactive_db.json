@@ -215,10 +215,7 @@
             "m4.cdn-jquery.host",
             "m5.cdn-jquery.host",
             "ma.herphemiste.com",
-            "main.minero.cc"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "main.minero.cc",
             "mataharirama.xyz",
             "megabanners.cf",
             "mercy.ga",
@@ -358,7 +355,10 @@
             "s3.video.estream.nu",
             "s3.videos.videos.vidto.me",
             "s3.vidtod.me",
-            "sass.cryptoloot.pro",
+            "sass.cryptoloot.pro"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "sea.cryptoloot.pro",
             "seasonaloffers.club",
             "seed-1.nimiq.net",
