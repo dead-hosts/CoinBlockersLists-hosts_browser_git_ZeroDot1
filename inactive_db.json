@@ -976,10 +976,7 @@
             "m4.cdn-jquery.host",
             "m5.cdn-jquery.host",
             "ma.herphemiste.com",
-            "main.minero.cc"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "main.minero.cc",
             "mataharirama.xyz",
             "megabanners.cf",
             "mercy.ga",
@@ -1094,6 +1091,9 @@
             "proxy-pol-1.inf.nimiq.net",
             "proxy-pol-2.inf.nimiq.net",
             "proxy.ajcryptominer.com"
+        ],
+        "to_test": [
+            "marcycoin.org"
         ]
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
