@@ -743,10 +743,7 @@
             "m4.cdn-jquery.host",
             "m5.cdn-jquery.host",
             "ma.herphemiste.com",
-            "main.minero.cc"
-        ],
-        "to_test": [
-            "marcycoin.org",
+            "main.minero.cc",
             "mataharirama.xyz",
             "megabanners.cf",
             "mercy.ga",
@@ -893,7 +890,10 @@
             "sea.cryptoloot.pro",
             "seasonaloffers.club",
             "seed-1.nimiq.net",
-            "seed-10.nimiq.net",
+            "seed-10.nimiq.net"
+        ],
+        "to_test": [
+            "marcycoin.org",
             "seed-11.nimiq.net",
             "seed-12.nimiq.net",
             "seed-13.nimiq.net",
