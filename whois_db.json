@@ -506,9 +506,9 @@
             "state": "future"
         },
         "cfcdist.gdn": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
-            "state": "past"
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
         },
         "cfcdist.loan": {
             "epoch": "1550793600",
@@ -893,7 +893,7 @@
         "de-mi-nis-ner.info": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "de-mi-nis-ner2.info": {
             "epoch": "1556150400",
