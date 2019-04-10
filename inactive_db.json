@@ -943,11 +943,7 @@
             "seed-14.nimiq.net",
             "seed-15.nimiq.net",
             "seed-16.nimiq.net",
-            "seed-17.nimiq.net"
-        ],
-        "to_test": [
-            "seed-18.nimiq.net",
-            "seed-19.nimiq.net",
+            "seed-17.nimiq.net",
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
             "seed-3.nimiq.net",
@@ -1109,7 +1105,11 @@
             "ws018.www.datasecu.download",
             "ws019.ws.tidafors.xyz",
             "ws019.www.datasecu.download",
-            "ws020-proxy-ajcryptominer.ajplugins.com",
+            "ws020-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
+            "seed-18.nimiq.net",
+            "seed-19.nimiq.net",
             "www4.2giga.link",
             "www49.playercdn.net"
         ]
