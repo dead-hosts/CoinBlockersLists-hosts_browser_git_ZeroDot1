@@ -947,9 +947,7 @@
             "seed-18.nimiq.net",
             "seed-19.nimiq.net",
             "seed-2.nimiq.net",
-            "seed-20.nimiq.net"
-        ],
-        "to_test": [
+            "seed-20.nimiq.net",
             "seed-3.nimiq.net",
             "seed-4.nimiq.net",
             "seed-5.nimiq.net",
@@ -1114,7 +1112,9 @@
             "ws020.ws.tidafors.xyz",
             "ws020.www.datasecu.download",
             "ws021.ws.tidafors.xyz",
-            "ws021.www.datasecu.download",
+            "ws021.www.datasecu.download"
+        ],
+        "to_test": [
             "www4.2giga.link",
             "www49.playercdn.net"
         ]
