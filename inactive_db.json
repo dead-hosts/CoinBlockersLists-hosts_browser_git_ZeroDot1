@@ -831,14 +831,7 @@
             "ws017-proxy-ajcryptominer.ajplugins.com",
             "ws017.ws.tidafors.xyz",
             "ws017.www.datasecu.download",
-            "ws018-proxy-ajcryptominer.ajplugins.com"
-        ],
-        "to_test": [
-            "seed-14.nimiq.net",
-            "ws018.ws.tidafors.xyz",
-            "ws018.www.datasecu.download",
-            "ws019.ws.tidafors.xyz",
-            "ws019.www.datasecu.download",
+            "ws018-proxy-ajcryptominer.ajplugins.com",
             "ws02.1q2w3.me",
             "ws020-proxy-ajcryptominer.ajplugins.com",
             "ws020.ws.tidafors.xyz",
@@ -1095,7 +1088,9 @@
             "www.ftzivuesohvebj.ru",
             "www.gitgrub.pro",
             "www.gobba.myeffect.net",
-            "www.hallaert.online",
+            "www.hallaert.online"
+        ],
+        "1555254250": [
             "www.hatcalter.com",
             "www.hbeuwgqt.ru",
             "www.hegrinhar.com",
@@ -1114,8 +1109,17 @@
             "www.hrfziiddxa.ru",
             "www.igdxzzeglrlqm.ru",
             "www.ihdvilappuxpgiv.ru",
+            "www.secumine.net",
+            "www.verresof.com",
             "www4.2giga.link",
             "www49.playercdn.net"
+        ],
+        "to_test": [
+            "seed-14.nimiq.net",
+            "ws018.ws.tidafors.xyz",
+            "ws018.www.datasecu.download",
+            "ws019.ws.tidafors.xyz",
+            "ws019.www.datasecu.download"
         ]
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
