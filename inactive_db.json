@@ -540,9 +540,7 @@
             "mmfb2.ht",
             "mon-deu-1.inf.nimiq.net",
             "mon-deu-2.inf.nimiq.net",
-            "mon-deu-3.inf.nimiq.net"
-        ],
-        "to_test": [
+            "mon-deu-3.inf.nimiq.net",
             "mon-fra-1.inf.nimiq.net",
             "mon-fra-2.inf.nimiq.net",
             "mon-gbr-1.inf.nimiq.net",
@@ -617,7 +615,6 @@
             "pool.sumokoin.hashvault.pro",
             "pool2.coinimp.com",
             "power.tainiesonline.pw",
-            "proj2018.xyz",
             "proxy-ajcryptominer.ajplugins.com",
             "proxy-can-1.inf.nimiq.net",
             "proxy-deu-1.inf.nimiq.net",
@@ -667,7 +664,9 @@
             "seed-10.nimiq.net",
             "seed-11.nimiq.net",
             "seed-12.nimiq.net",
-            "seed-13.nimiq.net",
+            "seed-13.nimiq.net"
+        ],
+        "to_test": [
             "seed-14.nimiq.net",
             "seed-15.nimiq.net",
             "seed-16.nimiq.net",
