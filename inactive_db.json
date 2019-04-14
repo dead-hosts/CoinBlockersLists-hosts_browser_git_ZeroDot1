@@ -664,10 +664,7 @@
             "seed-10.nimiq.net",
             "seed-11.nimiq.net",
             "seed-12.nimiq.net",
-            "seed-13.nimiq.net"
-        ],
-        "to_test": [
-            "seed-14.nimiq.net",
+            "seed-13.nimiq.net",
             "seed-15.nimiq.net",
             "seed-16.nimiq.net",
             "seed-17.nimiq.net",
@@ -834,7 +831,10 @@
             "ws017-proxy-ajcryptominer.ajplugins.com",
             "ws017.ws.tidafors.xyz",
             "ws017.www.datasecu.download",
-            "ws018-proxy-ajcryptominer.ajplugins.com",
+            "ws018-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
+            "seed-14.nimiq.net",
             "ws018.ws.tidafors.xyz",
             "ws018.www.datasecu.download",
             "ws019.ws.tidafors.xyz",
