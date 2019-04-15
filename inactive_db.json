@@ -586,9 +586,7 @@
             "seed-19.nimiq.net",
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
-            "seed-3.nimiq.net"
-        ],
-        "to_test": [
+            "seed-3.nimiq.net",
             "seed-4.nimiq.net",
             "seed-5.nimiq.net",
             "seed-6.nimiq.net",
@@ -628,6 +626,7 @@
             "staging.webxmr.com",
             "static-cnt.bid",
             "static-net.nut.cc",
+            "staticsfs.host",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -680,6 +679,7 @@
             "whanganui.nimiqpool.com",
             "whchsvlxch.site",
             "whysoserius.cl",
+            "whysoserius.club",
             "wijzeman.sbhmn-miner.com",
             "wildianing.ru",
             "witkom.sbhmn-miner.com",
@@ -767,7 +767,9 @@
             "ws024-proxy-ajcryptominer.ajplugins.com",
             "ws024.ws.tidafors.xyz",
             "ws024.www.datasecu.download",
-            "ws025-proxy-ajcryptominer.ajplugins.com",
+            "ws025-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
             "ws025.ws.tidafors.xyz",
             "ws025.www.datasecu.download",
             "ws026-proxy-ajcryptominer.ajplugins.com",
