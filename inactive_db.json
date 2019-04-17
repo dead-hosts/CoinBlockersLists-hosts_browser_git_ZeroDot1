@@ -538,14 +538,10 @@
             "miner-deu-6.inf.nimiq.net",
             "miner-deu-7.inf.nimiq.net",
             "miner-deu-8.inf.nimiq.net",
-            "miner.cinemafacil.com"
-        ],
-        "to_test": [
+            "miner.cinemafacil.com",
             "miner.pr0gramm.com",
-            "minercry.pt",
             "minexmr.st",
             "minr.browsermine.com",
-            "minr.pw",
             "mmfb2.ht",
             "mon-deu-1.inf.nimiq.net",
             "mon-deu-2.inf.nimiq.net",
@@ -562,7 +558,6 @@
             "myoffers.bid",
             "myoffers.party",
             "nddmcconmqsy.ru",
-            "new.minr.pw",
             "ningtoldrop.ru",
             "nitsche.top",
             "node.cfcdist.gd",
@@ -673,7 +668,10 @@
             "seasonaloffers.club",
             "seed-1.nimiq.net",
             "seed-10.nimiq.net",
-            "seed-11.nimiq.net",
+            "seed-11.nimiq.net"
+        ],
+        "to_test": [
+            "minercry.pt",
             "seed-12.nimiq.net",
             "seed-13.nimiq.net",
             "seed-14.nimiq.net",
