@@ -668,11 +668,7 @@
             "seasonaloffers.club",
             "seed-1.nimiq.net",
             "seed-10.nimiq.net",
-            "seed-11.nimiq.net"
-        ],
-        "to_test": [
-            "minercry.pt",
-            "seed-12.nimiq.net",
+            "seed-11.nimiq.net",
             "seed-13.nimiq.net",
             "seed-14.nimiq.net",
             "seed-15.nimiq.net",
@@ -736,7 +732,6 @@
             "terethat.ru",
             "test.cdn-jquery.host",
             "test.cryptonoter.com",
-            "test.minr.pw",
             "testnet.webxmr.com",
             "tgtvbngp.ru",
             "thathislitt.ru",
@@ -768,7 +763,6 @@
             "web-master.sbhmn-miner.com",
             "web.clod.pw",
             "web.dle-news.pw",
-            "web.minr.pw",
             "web.stati.bid",
             "webassembly.st",
             "webdisk.monerominer.rocks",
@@ -835,7 +829,11 @@
             "ws013-proxy-ajcryptominer.ajplugins.com",
             "ws013.ws.tidafors.xyz",
             "ws013.www.datasecu.download",
-            "ws014-proxy-ajcryptominer.ajplugins.com",
+            "ws014-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
+            "minercry.pt",
+            "seed-12.nimiq.net",
             "ws014.ws.tidafors.xyz",
             "ws014.www.datasecu.download",
             "ws015.ws.tidafors.xyz",
