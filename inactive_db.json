@@ -730,9 +730,7 @@
             "seed-19.nimiq.net",
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
-            "seed-3.nimiq.net"
-        ],
-        "to_test": [
+            "seed-3.nimiq.net",
             "seed-4.nimiq.net",
             "seed-5.nimiq.net",
             "seed-6.nimiq.net",
@@ -771,7 +769,6 @@
             "st.kjli.fi",
             "staging.webxmr.com",
             "static-cnt.bid",
-            "static-net.nut.cc",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -796,6 +793,7 @@
             "udqgbokvzbnqkf.ru",
             "ullnot.download",
             "ulnawoyyzbljc.ru",
+            "us-stratum.viaxmr.com",
             "us.cf",
             "us.cfcnet.gdn",
             "us.cfcnet.to",
@@ -929,7 +927,9 @@
             "ws029.ws.tidafors.xyz",
             "ws03.1q2w3.me",
             "ws030.ws.tidafors.xyz",
-            "ws031-proxy-ajcryptominer.ajplugins.com",
+            "ws031-proxy-ajcryptominer.ajplugins.com"
+        ],
+        "to_test": [
             "ws031.ws.tidafors.xyz",
             "ws032-proxy-ajcryptominer.ajplugins.com",
             "ws032.ws.tidafors.xyz",
