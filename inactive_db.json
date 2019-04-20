@@ -716,9 +716,7 @@
             "seed-20.nimiq.net",
             "seed-3.nimiq.net",
             "seed-4.nimiq.net",
-            "seed-5.nimiq.net"
-        ],
-        "to_test": [
+            "seed-5.nimiq.net",
             "seed-6.nimiq.net",
             "seed-7.nimiq.net",
             "seed-8.nimiq.net",
@@ -755,6 +753,7 @@
             "st.kjli.fi",
             "staging.webxmr.com",
             "static-cnt.bid",
+            "static-net.nut.cc",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -795,6 +794,7 @@
             "w.freecontent.com",
             "wallet.brominer.com",
             "wasm24.ru",
+            "wbmwss.beetv.net",
             "wc3-soft.sbhmn-miner.com",
             "wckp.sbhmn-miner.com",
             "web-master.sbhmn-miner.com",
@@ -984,7 +984,9 @@
             "ws5.370cabd5.space",
             "ws5.3c0cb3b4.space",
             "ws5.3d0cb547.space",
-            "ws5.bmnr.pw",
+            "ws5.bmnr.pw"
+        ],
+        "to_test": [
             "ws50.crypto.csgocpu.com",
             "ws6.1beb2a44.space",
             "ws6.310ca263.space",
