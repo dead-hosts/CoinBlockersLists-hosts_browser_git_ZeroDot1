@@ -424,10 +424,7 @@
             "seasonaloffers.club",
             "seattle01.monero.hashvault.pro",
             "seed-1.nimiq.net",
-            "seed-10.nimiq.net"
-        ],
-        "to_test": [
-            "seed-11.nimiq.net",
+            "seed-10.nimiq.net",
             "seed-12.nimiq.net",
             "seed-13.nimiq.net",
             "seed-14.nimiq.net",
@@ -479,7 +476,7 @@
             "staging.webxmr.com",
             "stati.bid",
             "static-cnt.bid",
-            "static-net.nut.cc",
+            "staticsfs.host",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -611,7 +608,10 @@
             "ws02.1q2w3.me",
             "ws020-proxy-ajcryptominer.ajplugins.com",
             "ws020.ws.tidafors.xyz",
-            "ws020.www.datasecu.download",
+            "ws020.www.datasecu.download"
+        ],
+        "to_test": [
+            "seed-11.nimiq.net",
             "ws021.ws.tidafors.xyz",
             "ws021.www.datasecu.download",
             "ws022-proxy-ajcryptominer.ajplugins.com",
