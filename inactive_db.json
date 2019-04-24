@@ -833,9 +833,7 @@
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
             "seed-3.nimiq.net",
-            "seed-4.nimiq.net"
-        ],
-        "to_test": [
+            "seed-4.nimiq.net",
             "seed-5.nimiq.net",
             "seed-6.nimiq.net",
             "seed-7.nimiq.net",
@@ -1065,7 +1063,9 @@
             "ws2.360caa42.space",
             "ws2.370cabd5.space",
             "ws2.3c0cb3b4.space",
-            "ws2.3d0cb547.space",
+            "ws2.3d0cb547.space"
+        ],
+        "to_test": [
             "ws2.stati.bid",
             "ws2.statistic.date",
             "ws23.crypto.csgocpu.com",
