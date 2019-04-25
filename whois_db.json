@@ -683,7 +683,7 @@
         "coin-services.info": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "coinblind.com": {
             "epoch": "1569369600",
@@ -943,7 +943,7 @@
         "de-mi-nis-ner2.info": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "de-ner-mi-nis4.info": {
             "epoch": "1562025600",
@@ -1718,7 +1718,7 @@
         "istlandoll.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ivuovhsn.ru": {
             "epoch": "1556841600",
@@ -2213,7 +2213,7 @@
         "money-maker-default.info": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "money-maker-script.info": {
             "epoch": "1556841600",
