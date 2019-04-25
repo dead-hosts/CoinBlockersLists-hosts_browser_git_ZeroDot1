@@ -434,9 +434,7 @@
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
             "seed-3.nimiq.net",
-            "seed-4.nimiq.net"
-        ],
-        "to_test": [
+            "seed-4.nimiq.net",
             "seed-5.nimiq.net",
             "seed-6.nimiq.net",
             "seed-7.nimiq.net",
@@ -476,7 +474,6 @@
             "staging.webxmr.com",
             "stati.bid",
             "static-cnt.bid",
-            "staticsfs.host",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -695,7 +692,9 @@
             "ws4.3c0cb3b4.space",
             "ws4.3d0cb547.space",
             "ws4.bmnr.pw",
-            "ws42.crypto.csgocpu.com",
+            "ws42.crypto.csgocpu.com"
+        ],
+        "to_test": [
             "ws48.crypto.csgocpu.com",
             "ws49.crypto.csgocpu.com",
             "ws5.1beb2a44.space",

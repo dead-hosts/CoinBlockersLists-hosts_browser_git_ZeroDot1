@@ -2898,7 +2898,7 @@
         "skencituer.com": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "sm3na.com": {
             "epoch": "1585353600",
@@ -2991,9 +2991,9 @@
             "state": "past"
         },
         "staticsfs.host": {
-            "epoch": "1549238400",
-            "expiration_date": "04-feb-2019",
-            "state": "past"
+            "epoch": "1650758400",
+            "expiration_date": "24-apr-2022",
+            "state": "future"
         },
         "statistic.date": {
             "epoch": "1544572800",
