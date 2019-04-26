@@ -440,9 +440,7 @@
             "seed-5.nimiq.net",
             "seed-6.nimiq.net",
             "seed-7.nimiq.net",
-            "seed-8.nimiq.net"
-        ],
-        "to_test": [
+            "seed-8.nimiq.net",
             "seed-9.nimiq.net",
             "seed-can-1.inf.nimiq.net",
             "seed-can-2.inf.nimiq.net",
@@ -804,7 +802,9 @@
             "www.cloudmediacdn.com",
             "www.cndhit.xyz",
             "www.cody.services",
-            "www.coihive.com",
+            "www.coihive.com"
+        ],
+        "to_test": [
             "www.coinhive-proxy.party",
             "www.coinhiver.com",
             "www.coinhove.com",
