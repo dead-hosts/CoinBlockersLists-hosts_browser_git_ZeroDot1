@@ -674,9 +674,7 @@
             "mon-fra-1.inf.nimiq.net",
             "mon-fra-2.inf.nimiq.net",
             "mon-gbr-1.inf.nimiq.net",
-            "monerominer.ro"
-        ],
-        "to_test": [
+            "monerominer.ro",
             "moscow05.electroneum.hashvault.pro",
             "mutuza.win",
             "my-retrospace.sbhmn-miner.com",
@@ -810,7 +808,9 @@
             "seed-16.nimiq.net",
             "seed-17.nimiq.net",
             "seed-18.nimiq.net",
-            "seed-19.nimiq.net",
+            "seed-19.nimiq.net"
+        ],
+        "to_test": [
             "seed-2.nimiq.net",
             "seed-20.nimiq.net",
             "seed-3.nimiq.net",
