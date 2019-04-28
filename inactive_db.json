@@ -761,11 +761,7 @@
             "seed-12.nimiq.net",
             "seed-13.nimiq.net",
             "seed-14.nimiq.net",
-            "seed-15.nimiq.net"
-        ],
-        "to_test": [
-            "mmfb2.ht",
-            "seed-16.nimiq.net",
+            "seed-15.nimiq.net",
             "seed-17.nimiq.net",
             "seed-18.nimiq.net",
             "seed-19.nimiq.net",
@@ -812,7 +808,6 @@
             "staging.webxmr.com",
             "stati.bid",
             "static-cnt.bid",
-            "static-net.nut.cc",
             "statistic.date",
             "stone.cryptoloot.pro",
             "subloader.cf",
@@ -1072,7 +1067,11 @@
             "ws8.360caa42.space",
             "ws8.370cabd5.space",
             "ws8.3c0cb3b4.space",
-            "ws8.3d0cb547.space",
+            "ws8.3d0cb547.space"
+        ],
+        "to_test": [
+            "mmfb2.ht",
+            "seed-16.nimiq.net",
             "ws9.1beb2a44.space",
             "ws9.300ca0d0.space",
             "ws9.310ca263.space",
