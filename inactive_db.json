@@ -793,10 +793,7 @@
             "www.cloudmediacdn.com",
             "www.cndhit.xyz",
             "www.cody.services",
-            "www.coihive.com"
-        ],
-        "to_test": [
-            "open-hive-server-1.pp.ua",
+            "www.coihive.com",
             "www.coinhive-proxy.party",
             "www.coinhiver.com",
             "www.coinhove.com",
@@ -848,7 +845,6 @@
             "www.freshrefreshnerer186rb.info",
             "www.fruitice.realnetwrk.com",
             "www.ftzivuesohvebj.ru",
-            "www.gitgrub.pro",
             "www.gnrdomimplementation.com",
             "www.gobba.myeffect.net",
             "www.hatcalter.com",
@@ -878,6 +874,7 @@
             "www.jhfdmiwcgnty.ru",
             "www.jqassets.do",
             "www.jqcdn.do",
+            "www.jqcdn.download",
             "www.jqrcdn.do",
             "www.jquerrycdn.do",
             "www.jquery-cdn.do",
@@ -946,7 +943,6 @@
             "www.pcejuyhjucmkiny.ru",
             "www.pearno.com",
             "www.pertosj.ru",
-            "www.play.intellecthosting.net",
             "www.plexcoin.info",
             "www.pocketgolf.host",
             "www.pool.bmnr.pw",
@@ -968,13 +964,13 @@
             "www.rowherthat.ru",
             "www.salamaleyum.com",
             "www.secumine.net",
-            "www.silimbompom.com",
             "www.siteverification.site",
             "www.snahome.com",
             "www.sptlkiyjsglayc.ru",
             "www.srcu.pw",
             "www.stat0808.info",
             "www.stati.bid",
+            "www.static-net.nut.cc",
             "www.stats.cryptotab.net",
             "www.svivqrhrh.ru",
             "www.synconnector.com",
@@ -1116,8 +1112,6 @@
             "www.zivbxion.ru",
             "www.ziykrgc.ru",
             "www.zzqhsrg.ru",
-            "www4.2giga.link",
-            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1138,6 +1132,11 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
+        ],
+        "to_test": [
+            "open-hive-server-1.pp.ua",
+            "www4.2giga.link",
+            "www49.playercdn.net"
         ]
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
