@@ -371,9 +371,7 @@
             "proxy-ajcryptominer.ajplugins.com",
             "proxy-can-1.inf.nimiq.net",
             "proxy-deu-1.inf.nimiq.net",
-            "proxy-deu-2.inf.nimiq.net"
-        ],
-        "to_test": [
+            "proxy-deu-2.inf.nimiq.net",
             "proxy-fra-1.inf.nimiq.net",
             "proxy-fra-2.inf.nimiq.net",
             "proxy-fra-3.inf.nimiq.net",
@@ -381,7 +379,6 @@
             "proxy-gbr-2.inf.nimiq.net",
             "proxy-pol-1.inf.nimiq.net",
             "proxy-pol-2.inf.nimiq.net",
-            "proxy.ajcryptominer.com",
             "prsrjdr.ru",
             "reservedoffers.cl",
             "reservedoffers.club",
@@ -564,7 +561,10 @@
             "ws004.www.datasecu.download",
             "ws005-proxy-ajcryptominer.ajplugins.com",
             "ws005.ws.tidafors.xyz",
-            "ws005.www.datasecu.download",
+            "ws005.www.datasecu.download"
+        ],
+        "to_test": [
+            "proxy.ajcryptominer.com",
             "ws006-proxy-ajcryptominer.ajplugins.com",
             "ws006.ws.tidafors.xyz",
             "ws006.www.datasecu.download",
