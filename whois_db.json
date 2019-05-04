@@ -173,7 +173,7 @@
         "amhixwqagiz.ru": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "analytics.blue": {
             "epoch": "1576627200",
@@ -1096,9 +1096,9 @@
             "state": "future"
         },
         "estream.nu": {
-            "epoch": "1550275200",
-            "expiration_date": "16-feb-2019",
-            "state": "past"
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
         },
         "et-code.ru": {
             "epoch": "1576972800",
@@ -1458,7 +1458,7 @@
         "goodkino.biz": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "googleanalytcs.com": {
             "epoch": "1577059200",
