@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_browser_git_ZeroDot1/CoinBlockerLists.list": {
-        "1556980387": [
+        "1557066837": [
             "1beb2a44.space",
             "1q2w3.fun",
             "2giga.do",
@@ -17,7 +17,6 @@
             "64uq73u7ug.webcam",
             "6ow9rhxtolls.gq",
             "a-o.ni",
-            "aba.ae",
             "ablen02.tk",
             "ablen04.tk",
             "ablen12.tk",
@@ -222,7 +221,9 @@
             "img.jsecoin.com",
             "intactoffers.cl",
             "intactoffers.club",
-            "irrrymucwxjl.ru",
+            "irrrymucwxjl.ru"
+        ],
+        "to_test": [
             "jasmine.noblock.pro",
             "jquery-cdn.download",
             "jquery-uim.do",
@@ -369,6 +370,9 @@
             "plexcoin.info",
             "pon.ewtuyytdf45.com",
             "pool.cloudcoins.co",
+            "pool.coinimp.com",
+            "pool.coinlab.biz",
+            "pool.coinrail.io",
             "pool.cryptonoter.com",
             "pool.hws.ru",
             "pool.intense.hashvault.pro",
@@ -376,6 +380,7 @@
             "pool.nimiqchain.info",
             "pool.porkypool.com",
             "pool.sumokoin.hashvault.pro",
+            "pool2.coinimp.com",
             "power.tainiesonline.pw",
             "proxy-ajcryptominer.ajplugins.com",
             "proxy-can-1.inf.nimiq.net",
@@ -526,6 +531,7 @@
             "web.stati.bid",
             "webassembly.st",
             "webdisk.monerominer.rocks",
+            "webmail.monerominer.rocks",
             "whanganui.nimiqpool.com",
             "whchsvlxch.site",
             "whysoserius.cl",
@@ -1247,6 +1253,8 @@
             "www.zivbxion.ru",
             "www.ziykrgc.ru",
             "www.zzqhsrg.ru",
+            "www4.2giga.link",
+            "www49.playercdn.net",
             "x.browsermine.com",
             "xmr.co",
             "xmr.coinlab.biz",
@@ -1267,15 +1275,6 @@
             "zymerget.pa",
             "zymerget.st",
             "zzqhsrg.ru"
-        ],
-        "to_test": [
-            "pool.coinimp.com",
-            "pool.coinlab.biz",
-            "pool.coinrail.io",
-            "pool2.coinimp.com",
-            "webmail.monerominer.rocks",
-            "www4.2giga.link",
-            "www49.playercdn.net"
         ]
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
