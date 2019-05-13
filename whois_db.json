@@ -1768,7 +1768,7 @@
         "jqr-cdn.download": {
             "epoch": "1557705600",
             "expiration_date": "13-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "jqrcdn.download": {
             "epoch": "1556582400",
@@ -1896,9 +1896,9 @@
             "state": "future"
         },
         "jwduahujge.ru": {
-            "epoch": "1556928000",
-            "expiration_date": "04-may-2019",
-            "state": "past"
+            "epoch": "1592006400",
+            "expiration_date": "13-jun-2020",
+            "state": "future"
         },
         "jwwhsqz.ru": {
             "epoch": "1558224000",
@@ -2286,9 +2286,9 @@
             "state": "future"
         },
         "myadstats.com": {
-            "epoch": "1557619200",
-            "expiration_date": "12-may-2019",
-            "state": "past"
+            "epoch": "1589241600",
+            "expiration_date": "12-may-2020",
+            "state": "future"
         },
         "myoffers.bid": {
             "epoch": "1545264000",
