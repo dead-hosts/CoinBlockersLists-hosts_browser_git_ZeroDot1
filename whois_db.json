@@ -1600,12 +1600,12 @@
         "state": "past"
     },
     "hostingcloud.bid": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
     "hostingcloud.date": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1615,12 +1615,12 @@
         "state": "past"
     },
     "hostingcloud.faith": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
     "hostingcloud.loan": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1835,12 +1835,12 @@
         "state": "future"
     },
     "jshosting.bid": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
     "jshosting.date": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1850,7 +1850,7 @@
         "state": "past"
     },
     "jshosting.loan": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1865,7 +1865,7 @@
         "state": "past"
     },
     "jshosting.review": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1875,12 +1875,12 @@
         "state": "past"
     },
     "jshosting.trade": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
     "jshosting.win": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -2155,9 +2155,9 @@
         "state": "future"
     },
     "minexmr.stream": {
-        "epoch": "1557878400",
+        "epoch": 1557878400,
         "expiration_date": "15-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "mining.best": {
         "epoch": "1580169600",
@@ -2260,8 +2260,8 @@
         "state": "future"
     },
     "morningdigit.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "msdns.online": {
@@ -2587,6 +2587,11 @@
     "pirata.pw": {
         "epoch": "1577059200",
         "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "pirataibay.in": {
+        "epoch": 1560384000,
+        "expiration_date": "13-jun-2019",
         "state": "future"
     },
     "pirateahoy.net": {
