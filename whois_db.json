@@ -2490,9 +2490,9 @@
         "state": "future"
     },
     "omine.org": {
-        "epoch": "1559174400",
+        "epoch": 1559174400,
         "expiration_date": "30-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "onlinereserchstatistics.online": {
         "epoch": "1566777600",
