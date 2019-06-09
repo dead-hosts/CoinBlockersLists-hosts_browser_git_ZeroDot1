@@ -1615,7 +1615,7 @@
         "state": "past"
     },
     "hostingcloud.download": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
@@ -1790,7 +1790,7 @@
         "state": "past"
     },
     "jquerrycdn.download": {
-        "epoch": "1554768000",
+        "epoch": 1554768000,
         "expiration_date": "09-apr-2019",
         "state": "past"
     },
@@ -1850,7 +1850,7 @@
         "state": "past"
     },
     "jshosting.download": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1860,12 +1860,12 @@
         "state": "past"
     },
     "jshosting.party": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
     "jshosting.racing": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -1990,9 +1990,9 @@
         "state": "future"
     },
     "laferia.cr": {
-        "epoch": "1557446400",
-        "expiration_date": "10-may-2019",
-        "state": "past"
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
     },
     "laserveradedomaina.com": {
         "epoch": "1564876800",
