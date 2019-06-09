@@ -535,9 +535,9 @@
         "state": "past"
     },
     "cdn-analytics.pl": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "cdn-code.host": {
         "epoch": "1549238400",
@@ -850,9 +850,9 @@
         "state": "future"
     },
     "cpufan.club": {
-        "epoch": "1544140800",
-        "expiration_date": "07-dec-2018",
-        "state": "past"
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
     },
     "cqfnvznw.info": {
         "epoch": "1569024000",
@@ -935,9 +935,9 @@
         "state": "past"
     },
     "datasecu.download": {
-        "epoch": "1546041600",
-        "expiration_date": "29-dec-2018",
-        "state": "past"
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
     },
     "dataservices.download": {
         "epoch": "1544832000",
@@ -1195,8 +1195,8 @@
         "state": "future"
     },
     "fili.tv": {
-        "epoch": "1559520000",
-        "expiration_date": "03-jun-2019",
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "financeforum.ru": {
@@ -1407,6 +1407,11 @@
     "g1thub.com": {
         "epoch": "1566000000",
         "expiration_date": "17-aug-2019",
+        "state": "future"
+    },
+    "gasolina.ml": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "gay-hotvideo.net": {
@@ -1775,12 +1780,12 @@
         "state": "future"
     },
     "jqr-cdn.download": {
-        "epoch": "1557705600",
+        "epoch": 1557705600,
         "expiration_date": "13-may-2019",
         "state": "past"
     },
     "jqrcdn.download": {
-        "epoch": "1556582400",
+        "epoch": 1556582400,
         "expiration_date": "30-apr-2019",
         "state": "past"
     },
