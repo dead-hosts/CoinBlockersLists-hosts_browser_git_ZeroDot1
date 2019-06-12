@@ -1905,9 +1905,9 @@
         "state": "future"
     },
     "juststatic.info": {
-        "epoch": "1560297600",
+        "epoch": 1560297600,
         "expiration_date": "12-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "jwduahujge.ru": {
         "epoch": "1592006400",
@@ -2070,9 +2070,9 @@
         "state": "future"
     },
     "malictuiar.com": {
-        "epoch": 1560211200,
-        "expiration_date": "11-jun-2019",
-        "state": "past"
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
     },
     "mataharirama.xyz": {
         "epoch": "1571961600",
