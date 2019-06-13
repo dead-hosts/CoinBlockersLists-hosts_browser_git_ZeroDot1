@@ -2597,12 +2597,12 @@
     "pirataibay.in": {
         "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pirateahoy.net": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "piratebay.tel": {
         "epoch": "1577059200",
