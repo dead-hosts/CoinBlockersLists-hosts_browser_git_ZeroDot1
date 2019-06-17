@@ -1290,9 +1290,9 @@
         "state": "future"
     },
     "free4faucet.com": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "freebitco.in": {
         "epoch": "1760054400",
@@ -1500,9 +1500,9 @@
         "state": "future"
     },
     "gridcash.net": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "gridiogrid.com": {
         "epoch": "1575763200",
