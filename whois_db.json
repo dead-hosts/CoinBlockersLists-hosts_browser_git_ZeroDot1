@@ -745,9 +745,9 @@
         "state": "future"
     },
     "coinhive.org": {
-        "epoch": "1561593600",
+        "epoch": 1561593600,
         "expiration_date": "27-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinhiveproxy.com": {
         "epoch": "1572998400",
