@@ -2145,13 +2145,13 @@
         "state": "future"
     },
     "minerclaim.net": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "minero.cc": {
-        "epoch": "1562284800",
-        "expiration_date": "05-jul-2019",
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "minero.pw": {
@@ -2190,9 +2190,9 @@
         "state": "future"
     },
     "mmc.center": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "mmpool.org": {
         "epoch": "1585612800",
@@ -2260,8 +2260,8 @@
         "state": "future"
     },
     "moonbit.co.in": {
-        "epoch": "1561939200",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "moonify.io": {
@@ -2345,13 +2345,13 @@
         "state": "future"
     },
     "najsiejfnc.win": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "nametraff.com": {
-        "epoch": "1563580800",
-        "expiration_date": "20-jul-2019",
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "nathetsof.com": {
@@ -2410,13 +2410,13 @@
         "state": "future"
     },
     "nimiq.watch": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1624147200,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "nimiqpool.com": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "nimiqtest.net": {
@@ -2425,8 +2425,8 @@
         "state": "future"
     },
     "ninaning.com": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "ningtoldrop.ru": {
@@ -2460,8 +2460,8 @@
         "state": "future"
     },
     "nullrefexcep.com": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "ny7f6goy.bid": {
@@ -2475,9 +2475,9 @@
         "state": "future"
     },
     "offerreality.com": {
-        "epoch": "1563494400",
+        "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "ogondkskyahxa.ru": {
         "epoch": "1557014400",
@@ -2560,9 +2560,9 @@
         "state": "future"
     },
     "pdheuryopd.loan": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "pearno.com": {
         "epoch": "1579824000",
@@ -2660,9 +2660,9 @@
         "state": "future"
     },
     "proofly.win": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "proxy4life.org": {
         "epoch": "1577059200",
@@ -2715,8 +2715,8 @@
         "state": "future"
     },
     "questionfly.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "r8nu86wg.me": {
@@ -2760,13 +2760,13 @@
         "state": "future"
     },
     "refreshnerer27.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "refreshnerer27rb.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "refunevent.com": {
@@ -2785,9 +2785,9 @@
         "state": "future"
     },
     "reservedoffers.club": {
-        "epoch": "1542067200",
-        "expiration_date": "13-nov-2018",
-        "state": "past"
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
     },
     "retadint.com": {
         "epoch": "1578700800",
