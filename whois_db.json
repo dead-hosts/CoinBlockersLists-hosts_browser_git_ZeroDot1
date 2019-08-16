@@ -2755,9 +2755,9 @@
         "state": "future"
     },
     "reauthenticator.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "refreshnerer27.info": {
         "epoch": 1593648000,
