@@ -525,9 +525,9 @@
         "state": "future"
     },
     "cashbeet.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ccvwtdtwyu.trade": {
         "epoch": 1562803200,
@@ -1175,9 +1175,9 @@
         "state": "future"
     },
     "f1tbit.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "fatisin.ru": {
         "epoch": 1594080000,
@@ -1415,9 +1415,9 @@
         "state": "future"
     },
     "g1thub.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "gasolina.ml": {
         "epoch": 1590710400,
