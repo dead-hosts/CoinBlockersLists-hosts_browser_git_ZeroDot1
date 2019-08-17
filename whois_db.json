@@ -2755,9 +2755,9 @@
         "state": "future"
     },
     "reauthenticator.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "refreshnerer27.info": {
         "epoch": 1593648000,
@@ -2890,9 +2890,9 @@
         "state": "future"
     },
     "serv1swork.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "service4refresh.info": {
         "epoch": "1586044800",
@@ -3050,9 +3050,9 @@
         "state": "future"
     },
     "str1kee.com": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "streamdream.ws": {
         "epoch": 1597190400,
