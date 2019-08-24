@@ -690,9 +690,9 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": "1566604800",
+        "epoch": 1566604800,
         "expiration_date": "24-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "coin-service.com": {
         "epoch": "1572480000",
