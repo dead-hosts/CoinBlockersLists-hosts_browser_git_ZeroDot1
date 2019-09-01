@@ -2520,9 +2520,9 @@
         "state": "future"
     },
     "openkatalog.com": {
-        "epoch": "1567296000",
+        "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "openload.co": {
         "epoch": "1564358400",
