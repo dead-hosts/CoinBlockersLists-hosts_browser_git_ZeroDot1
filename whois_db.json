@@ -75,8 +75,8 @@
         "state": "future"
     },
     "adbtc.top": {
-        "epoch": "1567555200",
-        "expiration_date": "04-sep-2019",
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "adless.io": {
@@ -1235,9 +1235,9 @@
         "state": "future"
     },
     "flightsy.bid": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
     },
     "flightsy.date": {
         "epoch": 1560816000,
@@ -1245,9 +1245,9 @@
         "state": "past"
     },
     "flightsy.win": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
     },
     "flightzy.bid": {
         "epoch": 1560816000,
