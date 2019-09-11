@@ -830,9 +830,9 @@
         "state": "future"
     },
     "coingive.com": {
-        "epoch": "1568160000",
+        "epoch": 1568160000,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinhive-manager.com": {
         "epoch": "1570838400",
