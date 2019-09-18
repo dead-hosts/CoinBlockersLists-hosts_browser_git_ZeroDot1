@@ -1235,9 +1235,9 @@
         "state": "past"
     },
     "easyhash.io": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "easypc.io": {
         "epoch": 1591315200,
@@ -1680,8 +1680,8 @@
         "state": "future"
     },
     "goldoffer.online": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "goodkino.biz": {
