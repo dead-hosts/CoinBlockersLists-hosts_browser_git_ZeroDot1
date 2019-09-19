@@ -225,19 +225,19 @@
         "state": "future"
     },
     "anybest.host": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "anybest.pw": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "anybest.site": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "anybest.space": {
         "epoch": "1568851200",
@@ -1235,9 +1235,9 @@
         "state": "past"
     },
     "easyhash.io": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
-        "state": "past"
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
     },
     "easypc.io": {
         "epoch": 1591315200,
@@ -2410,9 +2410,9 @@
         "state": "future"
     },
     "mighbest.site": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "minecrunch.co": {
         "epoch": "1571961600",
