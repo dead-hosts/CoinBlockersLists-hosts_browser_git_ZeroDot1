@@ -120,8 +120,8 @@
         "state": "past"
     },
     "afminer.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "ahoyhyperbay.com": {
@@ -2690,9 +2690,9 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": "1568937600",
+        "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "nerdorium.org": {
         "epoch": 1598832000,
