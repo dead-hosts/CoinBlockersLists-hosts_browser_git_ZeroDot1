@@ -2405,14 +2405,14 @@
         "state": "future"
     },
     "mighbest.pw": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "mighbest.site": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "minecrunch.co": {
         "epoch": "1571961600",
@@ -2690,9 +2690,9 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
-        "state": "past"
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
     },
     "nerdorium.org": {
         "epoch": 1598832000,
