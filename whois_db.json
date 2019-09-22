@@ -555,9 +555,9 @@
         "state": "future"
     },
     "brominer.com": {
-        "epoch": "1569110400",
+        "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "browsermine.com": {
         "epoch": 1600646400,
@@ -685,8 +685,8 @@
         "state": "past"
     },
     "cieh.mx": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "clgserv.pro": {
