@@ -2525,9 +2525,9 @@
         "state": "future"
     },
     "monero-miner.net": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "monerominer.rocks": {
         "epoch": "1569715200",
