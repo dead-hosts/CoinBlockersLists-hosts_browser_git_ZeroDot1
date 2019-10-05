@@ -911,7 +911,9 @@
             "seed-11.nimiq.com",
             "seed-11.nimiq.network",
             "seed-11.nimiq-network.com",
-            "seed-12.nimiq.com"
+            "seed-12.nimiq.com",
+            "seed-12.nimiq.network",
+            "seed-12.nimiq-network.com"
         ],
         "INACTIVE": [
             "1beb2a44.space",
@@ -1486,7 +1488,8 @@
             "seattle01.monero.hashvault.pro",
             "secumine.net",
             "seed-10.nimiq.net",
-            "seed-11.nimiq.net"
+            "seed-11.nimiq.net",
+            "seed-12.nimiq.net"
         ],
         "INVALID": [
             "cookiescript.infos"
