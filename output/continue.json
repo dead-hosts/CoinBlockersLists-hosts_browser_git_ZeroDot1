@@ -798,7 +798,9 @@
             "proxy-deu-1.inf.nimiq.network",
             "proxy-deu-2.inf.nimiq.network",
             "proxyfl.info",
-            "proxy-fra-1.inf.nimiq.network"
+            "proxy-fra-1.inf.nimiq.network",
+            "proxy-fra-2.inf.nimiq.network",
+            "proxy-fra-3.inf.nimiq.network"
         ],
         "INACTIVE": [
             "1beb2a44.space",
@@ -1295,7 +1297,9 @@
             "proxy-can-1.inf.nimiq.net",
             "proxy-deu-1.inf.nimiq.net",
             "proxy-deu-2.inf.nimiq.net",
-            "proxy-fra-1.inf.nimiq.net"
+            "proxy-fra-1.inf.nimiq.net",
+            "proxy-fra-2.inf.nimiq.net",
+            "proxy-fra-3.inf.nimiq.net"
         ],
         "INVALID": [
             "cookiescript.infos"
