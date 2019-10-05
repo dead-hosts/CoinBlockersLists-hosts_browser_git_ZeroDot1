@@ -800,7 +800,9 @@
             "proxyfl.info",
             "proxy-fra-1.inf.nimiq.network",
             "proxy-fra-2.inf.nimiq.network",
-            "proxy-fra-3.inf.nimiq.network"
+            "proxy-fra-3.inf.nimiq.network",
+            "proxy-gbr-1.inf.nimiq.network",
+            "proxy-gbr-2.inf.nimiq.network"
         ],
         "INACTIVE": [
             "1beb2a44.space",
@@ -1299,7 +1301,9 @@
             "proxy-deu-2.inf.nimiq.net",
             "proxy-fra-1.inf.nimiq.net",
             "proxy-fra-2.inf.nimiq.net",
-            "proxy-fra-3.inf.nimiq.net"
+            "proxy-fra-3.inf.nimiq.net",
+            "proxy-gbr-1.inf.nimiq.net",
+            "proxy-gbr-2.inf.nimiq.net"
         ],
         "INVALID": [
             "cookiescript.infos"

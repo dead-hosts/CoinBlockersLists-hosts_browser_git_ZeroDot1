@@ -1657,8 +1657,6 @@
         "1569863400": {},
         "1570031915": {
             "p.tidafors.xyz": "INACTIVE",
-            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
             "proxy-pol-1.inf.nimiq.net": "INACTIVE",
             "proxy-pol-2.inf.nimiq.net": "INACTIVE",
             "proxy.mytestminer.xyz": "INACTIVE",
@@ -3021,6 +3019,8 @@
             "proxy-fra-1.inf.nimiq.net": "INACTIVE",
             "proxy-fra-2.inf.nimiq.net": "INACTIVE",
             "proxy-fra-3.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
             "proxy.ajcryptominer.com": "INACTIVE"
         }
     },
