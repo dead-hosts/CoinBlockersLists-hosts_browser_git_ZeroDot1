@@ -935,7 +935,9 @@
             "seed-19.nimiq.com",
             "seed-19.nimiq.network",
             "seed-19.nimiq-network.com",
-            "seed-1.nimiq.com"
+            "seed-1.nimiq.com",
+            "seed-1.nimiq.network",
+            "seed-1.nimiq-network.com"
         ],
         "INACTIVE": [
             "1beb2a44.space",
@@ -1518,7 +1520,8 @@
             "seed-16.nimiq.net",
             "seed-17.nimiq.net",
             "seed-18.nimiq.net",
-            "seed-19.nimiq.net"
+            "seed-19.nimiq.net",
+            "seed-1.nimiq.net"
         ],
         "INVALID": [
             "cookiescript.infos"
