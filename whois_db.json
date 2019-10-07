@@ -3340,9 +3340,9 @@
         "state": "future"
     },
     "sparechange.io": {
-        "epoch": "1570406400",
+        "epoch": 1570406400,
         "expiration_date": "07-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "sparnove.com": {
         "epoch": "1578182400",
