@@ -1415,29 +1415,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_browser_git_ZeroDot1/domains.list": {
-        "1565643178": {},
-        "1565796800": {},
-        "1565883212": {},
-        "1565969747": {},
-        "1566056428": {},
-        "1566144835": {},
-        "1566231376": {},
-        "1566403935": {},
-        "1566575106": {},
-        "1566662819": {},
-        "1566834638": {},
-        "1566922204": {},
-        "1567093432": {},
-        "1567180796": {},
-        "1567267880": {},
-        "1567440693": {},
-        "1567611795": {},
-        "1567699841": {},
-        "1567871370": {},
-        "1568044302": {},
-        "1568130866": {},
-        "1568217936": {},
-        "1568305015": {},
         "1568391439": {
             "ad.s.a-ads.com": "INACTIVE",
             "ad001.a-ads.com": "INACTIVE",
@@ -1639,23 +1616,6 @@
             "www3.a-ads.com": "INACTIVE",
             "zec-bitcore1.trezor.io": "INACTIVE"
         },
-        "1568562554": {},
-        "1568648983": {},
-        "1568735407": {},
-        "1568822108": {},
-        "1568908948": {},
-        "1568995403": {},
-        "1569082406": {},
-        "1569168973": {},
-        "1569255549": {},
-        "1569342545": {},
-        "1569429027": {},
-        "1569516130": {},
-        "1569602581": {},
-        "1569689980": {},
-        "1569776470": {},
-        "1569863400": {},
-        "1570031915": {},
         "1570121031": {
             "coinhive-proxy.party": "INACTIVE",
             "coinrail.io": "INACTIVE",
@@ -3029,6 +2989,15 @@
             "cm1.xmrminingproxy.com": "INACTIVE",
             "cndhit.xyz": "INACTIVE",
             "cnt.statistic.date": "INACTIVE"
+        },
+        "1570663327": {
+            "ctroneum.crypto-webminer.com": "INACTIVE"
+        },
+        "1570663355": {
+            "db.xmrpool.net": "INACTIVE"
+        },
+        "1570663359": {
+            "de.moneroocean.stream": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
