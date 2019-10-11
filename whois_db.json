@@ -295,9 +295,9 @@
         "state": "future"
     },
     "authedmine.com": {
-        "epoch": "1570752000",
+        "epoch": 1570752000,
         "expiration_date": "11-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "authedwebmine.cz": {
         "epoch": "1571616000",
