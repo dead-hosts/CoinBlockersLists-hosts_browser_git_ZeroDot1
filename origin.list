@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-09-10 03:34:13
+# Last modified: 2019-10-10 07:34
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -1878,6 +1878,8 @@
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
 0.0.0.0 webminepool.tk
+0.0.0.0 webminer.c3pool.com
+0.0.0.0 webminer.cryptonote.club
 0.0.0.0 webminer.minergate.com
 0.0.0.0 webminer.pro
 0.0.0.0 webminerpool.com
