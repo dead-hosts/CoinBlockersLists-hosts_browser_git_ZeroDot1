@@ -1355,9 +1355,9 @@
         "state": "future"
     },
     "exdynsrv.com": {
-        "epoch": "1571529600",
+        "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "f1tbit.com": {
         "epoch": 1597622400,
@@ -2835,9 +2835,9 @@
         "state": "future"
     },
     "onvid.club": {
-        "epoch": "1571529600",
+        "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "openkatalog.com": {
         "epoch": 1598918400,
