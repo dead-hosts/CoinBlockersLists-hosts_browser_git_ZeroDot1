@@ -1525,9 +1525,9 @@
         "state": "future"
     },
     "freecontent.info": {
-        "epoch": "1572912000",
+        "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "freecontent.loan": {
         "epoch": "1547856000",
