@@ -2635,9 +2635,9 @@
         "state": "future"
     },
     "myoffers.bid": {
-        "epoch": "1545264000",
-        "expiration_date": "20-dec-2018",
-        "state": "past"
+        "epoch": 1669766400.0,
+        "expiration_date": "30-nov-2022",
+        "state": "future"
     },
     "myoffers.party": {
         "epoch": "1545264000",
