@@ -540,13 +540,13 @@
         "state": "future"
     },
     "bmpx.pw": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "bmst.pw": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "bowithow.com": {
@@ -597,7 +597,7 @@
     "candid.zone": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "capodannoinversilia.com": {
         "epoch": 1582070400.0,
@@ -1070,8 +1070,8 @@
         "state": "future"
     },
     "cryptotab.net": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "csgocpu.com": {
@@ -1302,7 +1302,7 @@
     "etacontent.com": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "eth-pocket.com": {
         "epoch": 1605830400.0,
@@ -2457,7 +2457,7 @@
     "minero.pw": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "minescripts.info": {
         "epoch": 1580342400.0,
