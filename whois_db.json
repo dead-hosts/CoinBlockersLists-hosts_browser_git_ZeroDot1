@@ -680,9 +680,9 @@
         "state": "future"
     },
     "chmproxy.bid": {
-        "epoch": "1549065600",
-        "expiration_date": "02-feb-2019",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "cieh.mx": {
         "epoch": 1600732800.0,
