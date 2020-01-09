@@ -957,7 +957,7 @@
     "coinwebmining.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "coinworker.com": {
         "epoch": 1604275200.0,
@@ -2612,7 +2612,7 @@
     "my-rigs.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "myadstats.com": {
         "epoch": 1589241600.0,
