@@ -422,7 +422,7 @@
     "best-cdn.pl": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bestcoinsignals.com": {
         "epoch": 1584489600.0,
@@ -445,8 +445,8 @@
         "state": "future"
     },
     "bewaslac.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "bezoglasa.online": {
