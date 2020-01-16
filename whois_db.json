@@ -157,7 +157,7 @@
     "ajcryptominer.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ajplugins.com": {
         "epoch": 1593561600.0,
@@ -790,9 +790,9 @@
         "state": "future"
     },
     "coin-service.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "coin-services.info": {
         "epoch": 1587772800.0,
