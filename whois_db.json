@@ -155,9 +155,9 @@
         "state": "past"
     },
     "ajcryptominer.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
-        "state": "past"
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "state": "future"
     },
     "ajplugins.com": {
         "epoch": 1593561600.0,
@@ -2437,7 +2437,7 @@
     "minerad.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "minerboard.com": {
         "epoch": 1603152000,
