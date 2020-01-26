@@ -87,7 +87,7 @@
     "ad-miner.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adbtc.top": {
         "epoch": 1599177600.0,
@@ -1020,8 +1020,8 @@
         "state": "future"
     },
     "crypto-pool.fr": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1643155200.0,
+        "expiration_date": "26-jan-2022",
         "state": "future"
     },
     "crypto-webminer.com": {
