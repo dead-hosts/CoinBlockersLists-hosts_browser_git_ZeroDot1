@@ -2300,12 +2300,7 @@
             "www.rm.cointraffic.io": "INACTIVE",
             "www.shop.simplemining.net": "INACTIVE"
         },
-        "1579545049": {
-            "seed-deu-4.inf.nimiq.net": "INACTIVE",
-            "seed-fra-1.inf.nimiq.net": "INACTIVE"
-        },
         "1579545050": {
-            "seed-fra-2.inf.nimiq.net": "INACTIVE",
             "seed-fra-3.inf.nimiq.net": "INACTIVE",
             "seed-fra-4.inf.nimiq.net": "INACTIVE",
             "seed-fra-5.inf.nimiq.net": "INACTIVE",
@@ -2390,9 +2385,6 @@
             "vxelkrhl.info": "INACTIVE",
             "vzzexalcirfgrf.ru": "INACTIVE",
             "w.freecontent.com": "INACTIVE"
-        },
-        "1580141259": {
-            "nebabrop.com": "INACTIVE"
         },
         "1580145162": {
             "nodes.viaxmr.com": "INACTIVE",
@@ -3098,6 +3090,14 @@
         },
         "1580225102": {
             "seed-20.nimiq-network.com": "INACTIVE"
+        },
+        "1580228949": {
+            "nebabrop.com": "INACTIVE"
+        },
+        "1580228950": {
+            "seed-deu-4.inf.nimiq.net": "INACTIVE",
+            "seed-fra-1.inf.nimiq.net": "INACTIVE",
+            "seed-fra-2.inf.nimiq.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
