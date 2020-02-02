@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="devise-layout-html">
-<script nonce="s7XKxXs1/MQEeW8AuHp3TQ==">
+<script nonce="mHqVrUYHKfkDXXbdeMcwdQ==">
 //<![CDATA[
 if (window.location.hash === '#register-pane') {
   window.location.replace("/users/sign_up")
@@ -33,7 +33,7 @@ if (window.location.hash === '#register-pane') {
 
 
 <link rel="stylesheet" media="all" href="https://assets.gitlab-static.net/assets/highlight/themes/white-3144068cf4f603d290f553b653926358ddcd02493b9728f62417682657fc58c0.css" />
-<script nonce="s7XKxXs1/MQEeW8AuHp3TQ==">
+<script nonce="mHqVrUYHKfkDXXbdeMcwdQ==">
 //<![CDATA[
 window.gon={};
 //]]>
@@ -46,8 +46,8 @@ window.gon={};
 <script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.new.994c8c5b.chunk.js" defer="defer"></script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="quvvuPFWOHhUtg3rnlezEaqZsQjhaNvXllwg28LsukaO4iryRQzG7dNi92pt958TtFIHbxxEbLhRjv+85kAhGg==" />
-<meta name="csp-nonce" content="s7XKxXs1/MQEeW8AuHp3TQ==" />
+<meta name="csrf-token" content="j3XFL0wbXUgBkpYbrU6x5Li9hlMSJtZMF6W3uN7H4VL6Cckopan/95YHw4RZIHaixMore/SFnoXqzmL5/Qy9MA==" />
+<meta name="csp-nonce" content="mHqVrUYHKfkDXXbdeMcwdQ==" />
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#474D57" name="theme-color">
@@ -61,7 +61,7 @@ window.gon={};
 
 
 
-<script nonce="s7XKxXs1/MQEeW8AuHp3TQ==">
+<script nonce="mHqVrUYHKfkDXXbdeMcwdQ==">
 //<![CDATA[
 ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
 p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
@@ -77,7 +77,7 @@ window.snowplowOptions = {"namespace":"gl","hostname":"snowplow.trx.gitlab.net",
 
 <body class="application gl-browser-generic gl-platform-other login-page navless ui-indigo" data-page="sessions:new" data-qa-selector="login_page">
 
-<script nonce="s7XKxXs1/MQEeW8AuHp3TQ==">
+<script nonce="mHqVrUYHKfkDXXbdeMcwdQ==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isGeneric":true,"isOther":true};
@@ -125,7 +125,7 @@ GitLab.com
 <div class="tab-content">
 <div class="login-box tab-pane active" id="login-pane" role="tabpanel">
 <div class="login-body">
-<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kWaFKQRshFQypEsaTal47EwFRC0H4tWWDeqTXRjROOG1b0BjsDZ6wbVwsZu+CVTuUs7ySvrOYvnKOEw6PH2jvQ==" /><div class="form-group">
+<form class="new_user gl-show-field-errors" id="new_user" aria-live="assertive" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="EUhIN3nSBom0v/UMypaZRImIfZFKbE25eaPX6UOy63JkNEQwkGCkNiMqoJM++F4C9f/QuazPBXCEyAKoYHm3EA==" /><div class="form-group">
 <label for="user_login" class="label-bold">Username or email</label>
 <input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-qa-selector="login_field" type="text" name="user[login]" id="user_login" />
 </div>
@@ -156,10 +156,10 @@ Don&#39;t have an account yet?
 
 <div class="tab-pane login-box" id="register-pane" role="tabpanel">
 <div class="login-body">
-<form class="new_new_user gl-show-field-errors" id="new_new_user" aria-live="assertive" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="itKknKARL/x74ZjCvbvnZVpNFq9SPQVCfdcUtvmtb/+u22HWFEvRafw1YkNOG8tnRIagyK8Rsi26BcvR3QH0ow==" /><div class="devise-errors">
+<form class="new_new_user gl-show-field-errors" id="new_new_user" aria-live="assertive" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="KlEOc7Q1iZ92oXSyUcJoka9TzrJy/H0V9OLMJkJsClFfLQJ0XYcrIOE0IS2lrK/X0yRjmpRfNdwJiRlnYadWMw==" /><div class="devise-errors">
 
 </div>
-<div class="firstname_1580664636"><style media="screen">.firstname_1580664636 {position:absolute!important;top:-9999px;left:-9999px;}</style><label for="firstname">If you are human, please ignore this field.</label><input type="text" name="firstname" id="firstname" autocomplete="off" tabindex="-1" /></div>
+<div class="lastname_1580667385"><style media="screen">.lastname_1580667385 {position:absolute!important;top:-9999px;left:-9999px;}</style><label for="lastname">If you are human, please ignore this field.</label><input type="text" name="lastname" id="lastname" autocomplete="off" tabindex="-1" /></div>
 <div class="name form-group">
 <label class="label-bold" for="new_user_name">Full name</label>
 <input class="form-control top js-block-emoji js-validate-length" data-max-length="255" data-max-length-message="Name is too long (maximum is 255 characters)." data-qa-selector="new_user_name_field" required="required" title="This field is required." type="text" name="new_user[name]" id="new_user_name" />
