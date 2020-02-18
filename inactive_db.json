@@ -2951,18 +2951,7 @@
         "1581899904": {
             "seed-1.nimiq.net": "INACTIVE"
         },
-        "1581949830": {
-            "ftp.coinhive-manager.com": "INACTIVE"
-        },
         "1581949832": {
-            "proxy.ajcryptominer.com": "INACTIVE",
-            "proxy.mytestminer.xyz": "INACTIVE",
-            "prsrjdr.ru": "INACTIVE",
-            "px1.papoto.com": "INACTIVE",
-            "px2.papoto.com": "INACTIVE",
-            "pzoifaum.info": "INACTIVE",
-            "qlzwfzfatjth.ru": "INACTIVE",
-            "qpmsybxqvlje.ru": "INACTIVE",
             "r8nu86wg.me": "INACTIVE",
             "rctfgrazkha.ru": "INACTIVE",
             "s01.hostcontent.li": "INACTIVE",
@@ -3632,6 +3621,19 @@
             "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
             "proxy-pol-1.inf.nimiq.net": "INACTIVE",
             "proxy-pol-2.inf.nimiq.net": "INACTIVE"
+        },
+        "1582037876": {
+            "ftp.coinhive-manager.com": "INACTIVE"
+        },
+        "1582037878": {
+            "proxy.ajcryptominer.com": "INACTIVE",
+            "proxy.mytestminer.xyz": "INACTIVE",
+            "prsrjdr.ru": "INACTIVE",
+            "px1.papoto.com": "INACTIVE",
+            "px2.papoto.com": "INACTIVE",
+            "pzoifaum.info": "INACTIVE",
+            "qlzwfzfatjth.ru": "INACTIVE",
+            "qpmsybxqvlje.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
