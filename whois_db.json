@@ -27,7 +27,7 @@
     "1q2w3.website": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "1safe.link": {
         "epoch": 1599264000,
@@ -3025,9 +3025,9 @@
         "state": "future"
     },
     "proxytpb.pw": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
-        "state": "past"
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
     },
     "prsrjdr.ru": {
         "epoch": "1555286400",
