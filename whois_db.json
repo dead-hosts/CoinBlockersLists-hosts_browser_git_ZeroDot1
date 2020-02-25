@@ -122,7 +122,7 @@
     "afminer.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ahoyhyperbay.com": {
         "epoch": 1603584000.0,
@@ -2077,7 +2077,7 @@
     "jsccnn.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "jscdndel.com": {
         "epoch": 1602288000.0,
