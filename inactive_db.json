@@ -2938,9 +2938,6 @@
             "seed-15.nimiq.net": "INACTIVE"
         },
         "1583502087": {
-            "miner-6.team.nimiq.agency": "INACTIVE",
-            "miner-9.team.nimiq.ag": "INACTIVE",
-            "miner-deu-4.inf.nimiq.net": "INACTIVE",
             "miner.nablabee.com": "INACTIVE",
             "miner.oozing.co": "INACTIVE",
             "minexmr.st": "INACTIVE",
@@ -2952,20 +2949,6 @@
         },
         "1583506341": {
             "nkxdyorwbt.com": "INACTIVE"
-        },
-        "1583518654": {
-            "miner-5.team.nimiq.agency": "INACTIVE",
-            "miner-6.team.nimiq.ag": "INACTIVE",
-            "miner-7.team.nimiq.ag": "INACTIVE",
-            "miner-7.team.nimiq.agency": "INACTIVE",
-            "miner-8.team.nimiq.ag": "INACTIVE",
-            "miner-8.team.nimiq.agency": "INACTIVE",
-            "miner-9.team.nimiq.agency": "INACTIVE"
-        },
-        "1583518655": {
-            "miner-deu-1.inf.nimiq.net": "INACTIVE",
-            "miner-deu-2.inf.nimiq.net": "INACTIVE",
-            "miner-deu-3.inf.nimiq.net": "INACTIVE"
         },
         "1583519565": {
             "rack.cryptaloot.pro": "INACTIVE",
@@ -3655,6 +3638,23 @@
             "miner-4.team.nimiq.ag": "INACTIVE",
             "miner-4.team.nimiq.agency": "INACTIVE",
             "miner-5.team.nimiq.ag": "INACTIVE"
+        },
+        "1583628615": {
+            "miner-5.team.nimiq.agency": "INACTIVE",
+            "miner-6.team.nimiq.ag": "INACTIVE",
+            "miner-6.team.nimiq.agency": "INACTIVE",
+            "miner-7.team.nimiq.ag": "INACTIVE",
+            "miner-7.team.nimiq.agency": "INACTIVE"
+        },
+        "1583628616": {
+            "miner-8.team.nimiq.ag": "INACTIVE",
+            "miner-8.team.nimiq.agency": "INACTIVE",
+            "miner-9.team.nimiq.ag": "INACTIVE",
+            "miner-9.team.nimiq.agency": "INACTIVE",
+            "miner-deu-1.inf.nimiq.net": "INACTIVE",
+            "miner-deu-2.inf.nimiq.net": "INACTIVE",
+            "miner-deu-3.inf.nimiq.net": "INACTIVE",
+            "miner-deu-4.inf.nimiq.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
