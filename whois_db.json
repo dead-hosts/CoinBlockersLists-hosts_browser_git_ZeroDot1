@@ -1422,7 +1422,7 @@
     "flashx.co": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "flashx.pw": {
         "epoch": 1606780800.0,
@@ -2390,8 +2390,8 @@
         "state": "future"
     },
     "mepirtedic.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "mfio.cf": {
