@@ -2948,22 +2948,6 @@
         "1584009883": {
             "seed-11.nimiq.net": "INACTIVE"
         },
-        "1584025679": {
-            "proxy-gbr-2.inf.nimiq.net": "INACTIVE"
-        },
-        "1584029626": {
-            "lookvision.info": "INACTIVE",
-            "m3.cdn-jquery.host": "INACTIVE",
-            "ma.herphemiste.com": "INACTIVE",
-            "mataharirama.xyz": "INACTIVE"
-        },
-        "1584029627": {
-            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
-            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
-            "proxy.ajcryptominer.com": "INACTIVE",
-            "proxy.mytestminer.xyz": "INACTIVE",
-            "prsrjdr.ru": "INACTIVE"
-        },
         "1584033836": {
             "px1.papoto.com": "INACTIVE",
             "px2.papoto.com": "INACTIVE",
@@ -3634,6 +3618,22 @@
             "proxy-fra-2.inf.nimiq.net": "INACTIVE",
             "proxy-fra-3.inf.nimiq.net": "INACTIVE",
             "proxy-gbr-1.inf.nimiq.net": "INACTIVE"
+        },
+        "1584118467": {
+            "lookvision.info": "INACTIVE",
+            "m3.cdn-jquery.host": "INACTIVE",
+            "ma.herphemiste.com": "INACTIVE"
+        },
+        "1584118468": {
+            "mataharirama.xyz": "INACTIVE",
+            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
+            "proxy.ajcryptominer.com": "INACTIVE"
+        },
+        "1584118469": {
+            "proxy.mytestminer.xyz": "INACTIVE",
+            "prsrjdr.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
