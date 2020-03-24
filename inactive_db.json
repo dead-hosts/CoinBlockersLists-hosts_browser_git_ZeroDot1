@@ -2976,30 +2976,7 @@
             "s003.papoto.com": "INACTIVE",
             "s01.hostcontent.li": "INACTIVE"
         },
-        "1584923023": {
-            "lookvision.info": "INACTIVE",
-            "m3.cdn-jquery.host": "INACTIVE",
-            "ma.herphemiste.com": "INACTIVE",
-            "mataharirama.xyz": "INACTIVE"
-        },
-        "1584923024": {
-            "proofly.win": "INACTIVE",
-            "proxy-can-1.inf.nimiq.net": "INACTIVE",
-            "proxy-deu-1.inf.nimiq.net": "INACTIVE",
-            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-2.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-3.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-2.inf.nimiq.net": "INACTIVE"
-        },
         "1584927065": {
-            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
-            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
-            "proxy.ajcryptominer.com": "INACTIVE",
-            "proxy.mytestminer.xyz": "INACTIVE",
-            "prsrjdr.ru": "INACTIVE",
-            "px1.papoto.com": "INACTIVE",
             "px2.papoto.com": "INACTIVE",
             "pzoifaum.info": "INACTIVE",
             "qlzwfzfatjth.ru": "INACTIVE",
@@ -3618,6 +3595,31 @@
             "pool.sumokoin.hashvault.pro": "INACTIVE",
             "pool2.coinimp.com": "INACTIVE",
             "power.tainiesonline.pw": "INACTIVE"
+        },
+        "1585013650": {
+            "lookvision.info": "INACTIVE"
+        },
+        "1585013651": {
+            "m3.cdn-jquery.host": "INACTIVE",
+            "ma.herphemiste.com": "INACTIVE",
+            "mataharirama.xyz": "INACTIVE"
+        },
+        "1585013652": {
+            "proofly.win": "INACTIVE",
+            "proxy-can-1.inf.nimiq.net": "INACTIVE",
+            "proxy-deu-1.inf.nimiq.net": "INACTIVE",
+            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-2.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-3.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
+            "proxy.ajcryptominer.com": "INACTIVE",
+            "proxy.mytestminer.xyz": "INACTIVE",
+            "prsrjdr.ru": "INACTIVE",
+            "px1.papoto.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
