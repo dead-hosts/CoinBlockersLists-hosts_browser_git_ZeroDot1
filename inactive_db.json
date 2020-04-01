@@ -3030,13 +3030,7 @@
         "1585536276": {
             "rottenwhorememe.cf": "INACTIVE"
         },
-        "1585678297": {
-            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-2.inf.nimiq.net": "INACTIVE"
-        },
         "1585691456": {
-            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
-            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
             "proxy.ajcryptominer.com": "INACTIVE",
             "proxy.mytestminer.xyz": "INACTIVE",
             "prsrjdr.ru": "INACTIVE",
@@ -3651,6 +3645,12 @@
             "m5.cdn-jquery.host": "INACTIVE",
             "main.minero.cc": "INACTIVE",
             "marcycoin.org": "INACTIVE"
+        },
+        "1585782479": {
+            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-2.inf.nimiq.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists_git_ZeroDot1/CoinBlockerLists.list": {
