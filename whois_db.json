@@ -732,7 +732,7 @@
     "cloudcdn.gdn": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cloudcoins.co": {
         "epoch": 1600992000.0,
@@ -1735,9 +1735,9 @@
         "state": "future"
     },
     "hallaert.online": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
-        "state": "past"
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
     },
     "hashcoin.io": {
         "epoch": 1595376000,
@@ -2495,9 +2495,9 @@
         "state": "future"
     },
     "minr.pw": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
-        "state": "past"
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
     },
     "mmc.center": {
         "epoch": 1561420800,
