@@ -10642,6 +10642,13 @@
             "last_retested_at_iso": "2020-04-26T18:19:14.590397",
             "status": "INACTIVE"
         },
+        "community.monerise.com": {
+            "included_at_epoch": 1587992161.347804,
+            "included_at_iso": "2020-04-27T12:56:01.347804",
+            "last_retested_at_epoch": 1587992161.347804,
+            "last_retested_at_iso": "2020-04-27T12:56:01.347804",
+            "status": "INACTIVE"
+        },
         "cookiescript.infos": {
             "included_at_epoch": 1587176845.0,
             "included_at_iso": "2020-04-18T02:27:25",
