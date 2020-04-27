@@ -10467,6 +10467,13 @@
             "last_retested_at_iso": "2020-04-26T18:19:13.445448",
             "status": "INACTIVE"
         },
+        "cfceu.duckdns.org": {
+            "included_at_epoch": 1587971589.257537,
+            "included_at_iso": "2020-04-27T07:13:09.257537",
+            "last_retested_at_epoch": 1587971589.257537,
+            "last_retested_at_iso": "2020-04-27T07:13:09.257537",
+            "status": "INACTIVE"
+        },
         "cfcnet.gdn": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
@@ -11032,6 +11039,13 @@
             "included_at_iso": "2020-04-18T02:27:26",
             "last_retested_at_epoch": 1587927362.829312,
             "last_retested_at_iso": "2020-04-26T18:56:02.829312",
+            "status": "INACTIVE"
+        },
+        "europe.monerise.com": {
+            "included_at_epoch": 1587971590.04588,
+            "included_at_iso": "2020-04-27T07:13:10.045880",
+            "last_retested_at_epoch": 1587971590.04588,
+            "last_retested_at_iso": "2020-04-27T07:13:10.045880",
             "status": "INACTIVE"
         },
         "evengparme.com": {
