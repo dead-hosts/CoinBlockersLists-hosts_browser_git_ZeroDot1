@@ -9501,6 +9501,20 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_browser_git_ZeroDot1/domains.list": {
+        "007.0x1f4b0.com": {
+            "included_at_epoch": 1588079616.107108,
+            "included_at_iso": "2020-04-28T13:13:36.107108",
+            "last_retested_at_epoch": 1588079616.107108,
+            "last_retested_at_iso": "2020-04-28T13:13:36.107108",
+            "status": "INACTIVE"
+        },
+        "008.0x1f4b0.com": {
+            "included_at_epoch": 1588079616.14321,
+            "included_at_iso": "2020-04-28T13:13:36.143210",
+            "last_retested_at_epoch": 1588079616.14321,
+            "last_retested_at_iso": "2020-04-28T13:13:36.143210",
+            "status": "INACTIVE"
+        },
         "0aqpqdju.me": {
             "included_at_epoch": 1587181193.0,
             "included_at_iso": "2020-04-18T03:39:53",
@@ -10654,13 +10668,6 @@
             "included_at_iso": "2020-04-18T02:27:25",
             "last_retested_at_epoch": 1588012192.792873,
             "last_retested_at_iso": "2020-04-27T18:29:52.792873",
-            "status": "INACTIVE"
-        },
-        "community.monerise.com": {
-            "included_at_epoch": 1587992161.347804,
-            "included_at_iso": "2020-04-27T12:56:01.347804",
-            "last_retested_at_epoch": 1587992161.347804,
-            "last_retested_at_iso": "2020-04-27T12:56:01.347804",
             "status": "INACTIVE"
         },
         "cookiescript.infos": {
