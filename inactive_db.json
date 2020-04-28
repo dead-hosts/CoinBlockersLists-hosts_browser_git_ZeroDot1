@@ -11916,6 +11916,13 @@
             "last_retested_at_iso": "2020-04-28T21:34:09.391722",
             "status": "INACTIVE"
         },
+        "m1.monerise.com": {
+            "included_at_epoch": 1588113841.529286,
+            "included_at_iso": "2020-04-28T22:44:01.529286",
+            "last_retested_at_epoch": 1588113841.529286,
+            "last_retested_at_iso": "2020-04-28T22:44:01.529286",
+            "status": "INACTIVE"
+        },
         "m1.stream.vidzi.tv": {
             "included_at_epoch": 1587203299.0,
             "included_at_iso": "2020-04-18T09:48:19",
@@ -12626,92 +12633,92 @@
         "nitsche.top": {
             "included_at_epoch": 1587203300.0,
             "included_at_iso": "2020-04-18T09:48:20",
-            "last_retested_at_epoch": 1588021819.471858,
-            "last_retested_at_iso": "2020-04-27T21:10:19.471858",
+            "last_retested_at_epoch": 1588113842.170799,
+            "last_retested_at_iso": "2020-04-28T22:44:02.170799",
             "status": "INACTIVE"
         },
         "nkxdyorwbt.com": {
             "included_at_epoch": 1587121551.0,
             "included_at_iso": "2020-04-17T11:05:51",
-            "last_retested_at_epoch": 1588021819.510922,
-            "last_retested_at_iso": "2020-04-27T21:10:19.510922",
+            "last_retested_at_epoch": 1588113842.139215,
+            "last_retested_at_iso": "2020-04-28T22:44:02.139215",
             "status": "INACTIVE"
         },
         "node.cfcdist.gd": {
             "included_at_epoch": 1587121551.0,
             "included_at_iso": "2020-04-17T11:05:51",
-            "last_retested_at_epoch": 1588021819.552936,
-            "last_retested_at_iso": "2020-04-27T21:10:19.552936",
+            "last_retested_at_epoch": 1588113842.216157,
+            "last_retested_at_iso": "2020-04-28T22:44:02.216157",
             "status": "INACTIVE"
         },
         "node.cfcdist.gdn": {
             "included_at_epoch": 1587121551.0,
             "included_at_iso": "2020-04-17T11:05:51",
-            "last_retested_at_epoch": 1588021819.586799,
-            "last_retested_at_iso": "2020-04-27T21:10:19.586799",
+            "last_retested_at_epoch": 1588113842.24771,
+            "last_retested_at_iso": "2020-04-28T22:44:02.247710",
             "status": "INACTIVE"
         },
         "node.philpool.com": {
             "included_at_epoch": 1587148361.0,
             "included_at_iso": "2020-04-17T18:32:41",
-            "last_retested_at_epoch": 1588021819.618065,
-            "last_retested_at_iso": "2020-04-27T21:10:19.618065",
+            "last_retested_at_epoch": 1588113842.283758,
+            "last_retested_at_iso": "2020-04-28T22:44:02.283758",
             "status": "INACTIVE"
         },
         "node.viaxmr.com": {
             "included_at_epoch": 1587148361.0,
             "included_at_iso": "2020-04-17T18:32:41",
-            "last_retested_at_epoch": 1588021819.652942,
-            "last_retested_at_iso": "2020-04-27T21:10:19.652942",
+            "last_retested_at_epoch": 1588113842.315246,
+            "last_retested_at_iso": "2020-04-28T22:44:02.315246",
             "status": "INACTIVE"
         },
         "nodes.viaxmr.com": {
             "included_at_epoch": 1587153882.0,
             "included_at_iso": "2020-04-17T20:04:42",
-            "last_retested_at_epoch": 1588021819.685661,
-            "last_retested_at_iso": "2020-04-27T21:10:19.685661",
+            "last_retested_at_epoch": 1588113842.382964,
+            "last_retested_at_iso": "2020-04-28T22:44:02.382964",
             "status": "INACTIVE"
         },
         "noobnoob.ro": {
             "included_at_epoch": 1587148361.0,
             "included_at_iso": "2020-04-17T18:32:41",
-            "last_retested_at_epoch": 1588021819.717039,
-            "last_retested_at_iso": "2020-04-27T21:10:19.717039",
+            "last_retested_at_epoch": 1588113842.350691,
+            "last_retested_at_iso": "2020-04-28T22:44:02.350691",
             "status": "INACTIVE"
         },
         "novaminers.tk": {
             "included_at_epoch": 1587148361.0,
             "included_at_iso": "2020-04-17T18:32:41",
-            "last_retested_at_epoch": 1588021819.764729,
-            "last_retested_at_iso": "2020-04-27T21:10:19.764729",
+            "last_retested_at_epoch": 1588113842.433293,
+            "last_retested_at_iso": "2020-04-28T22:44:02.433293",
             "status": "INACTIVE"
         },
         "npdaqy6x1j.me": {
             "included_at_epoch": 1587149564.0,
             "included_at_iso": "2020-04-17T18:52:44",
-            "last_retested_at_epoch": 1588026294.231405,
-            "last_retested_at_iso": "2020-04-27T22:24:54.231405",
+            "last_retested_at_epoch": 1588113842.464974,
+            "last_retested_at_iso": "2020-04-28T22:44:02.464974",
             "status": "INACTIVE"
         },
         "ns.hws.ru": {
             "included_at_epoch": 1587932150.983145,
             "included_at_iso": "2020-04-26T20:15:50.983145",
-            "last_retested_at_epoch": 1588026294.264759,
-            "last_retested_at_iso": "2020-04-27T22:24:54.264759",
+            "last_retested_at_epoch": 1588113842.497567,
+            "last_retested_at_iso": "2020-04-28T22:44:02.497567",
             "status": "INACTIVE"
         },
         "ns0.freecontent.com": {
             "included_at_epoch": 1587149564.0,
             "included_at_iso": "2020-04-17T18:52:44",
-            "last_retested_at_epoch": 1588026294.296416,
-            "last_retested_at_iso": "2020-04-27T22:24:54.296416",
+            "last_retested_at_epoch": 1588113842.56369,
+            "last_retested_at_iso": "2020-04-28T22:44:02.563690",
             "status": "INACTIVE"
         },
         "ns1.freecontent.com": {
             "included_at_epoch": 1587153882.0,
             "included_at_iso": "2020-04-17T20:04:42",
-            "last_retested_at_epoch": 1588026294.360573,
-            "last_retested_at_iso": "2020-04-27T22:24:54.360573",
+            "last_retested_at_epoch": 1588113842.530748,
+            "last_retested_at_iso": "2020-04-28T22:44:02.530748",
             "status": "INACTIVE"
         },
         "ns1.mutuza.win": {
