@@ -10138,6 +10138,13 @@
             "last_retested_at_iso": "2020-04-27T18:29:49.804858",
             "status": "INACTIVE"
         },
+        "auto.monerise.com": {
+            "included_at_epoch": 1588038120.629131,
+            "included_at_iso": "2020-04-28T01:42:00.629131",
+            "last_retested_at_epoch": 1588038120.629131,
+            "last_retested_at_iso": "2020-04-28T01:42:00.629131",
+            "status": "INACTIVE"
+        },
         "avualrhg9p.bid": {
             "included_at_epoch": 1587176843.0,
             "included_at_iso": "2020-04-18T02:27:23",
@@ -11930,6 +11937,13 @@
             "last_retested_at_iso": "2020-04-27T21:10:15.613831",
             "status": "INACTIVE"
         },
+        "lumanajaska.ml": {
+            "included_at_epoch": 1588038122.788932,
+            "included_at_iso": "2020-04-28T01:42:02.788932",
+            "last_retested_at_epoch": 1588038122.788932,
+            "last_retested_at_iso": "2020-04-28T01:42:02.788932",
+            "status": "INACTIVE"
+        },
         "m.anyfiles.ovh": {
             "included_at_epoch": 1587181197.0,
             "included_at_iso": "2020-04-18T03:39:57",
@@ -13249,50 +13263,50 @@
         "pool.coinblind.com": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.302948,
-            "last_retested_at_iso": "2020-04-26T22:17:44.302948",
+            "last_retested_at_epoch": 1588038123.771283,
+            "last_retested_at_iso": "2020-04-28T01:42:03.771283",
             "status": "INACTIVE"
         },
         "pool.coinimp.com": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.364757,
-            "last_retested_at_iso": "2020-04-26T22:17:44.364757",
+            "last_retested_at_epoch": 1588038123.737665,
+            "last_retested_at_iso": "2020-04-28T01:42:03.737665",
             "status": "INACTIVE"
         },
         "pool.coinrail.io": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.398169,
-            "last_retested_at_iso": "2020-04-26T22:17:44.398169",
+            "last_retested_at_epoch": 1588038123.807839,
+            "last_retested_at_iso": "2020-04-28T01:42:03.807839",
             "status": "INACTIVE"
         },
         "pool.cryptonoter.com": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.428696,
-            "last_retested_at_iso": "2020-04-26T22:17:44.428696",
+            "last_retested_at_epoch": 1588038123.842769,
+            "last_retested_at_iso": "2020-04-28T01:42:03.842769",
             "status": "INACTIVE"
         },
         "pool.electroneum.hashvault.pro": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.460457,
-            "last_retested_at_iso": "2020-04-26T22:17:44.460457",
+            "last_retested_at_epoch": 1588038123.875522,
+            "last_retested_at_iso": "2020-04-28T01:42:03.875522",
             "status": "INACTIVE"
         },
         "pool.etn.spacepools.org": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1587939464.493372,
-            "last_retested_at_iso": "2020-04-26T22:17:44.493372",
+            "last_retested_at_epoch": 1588038123.909675,
+            "last_retested_at_iso": "2020-04-28T01:42:03.909675",
             "status": "INACTIVE"
         },
         "pool.hws.ru": {
             "included_at_epoch": 1587939464.556294,
             "included_at_iso": "2020-04-26T22:17:44.556294",
-            "last_retested_at_epoch": 1587939464.556294,
-            "last_retested_at_iso": "2020-04-26T22:17:44.556294",
+            "last_retested_at_epoch": 1588038123.946572,
+            "last_retested_at_iso": "2020-04-28T01:42:03.946572",
             "status": "INACTIVE"
         },
         "pool.intense.hashvault.pro": {
