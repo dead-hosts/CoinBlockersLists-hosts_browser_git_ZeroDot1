@@ -12539,6 +12539,13 @@
             "last_retested_at_iso": "2020-04-27T21:10:18.635708",
             "status": "INACTIVE"
         },
+        "monero.monerise.com": {
+            "included_at_epoch": 1588096751.146541,
+            "included_at_iso": "2020-04-28T17:59:11.146541",
+            "last_retested_at_epoch": 1588096751.146541,
+            "last_retested_at_iso": "2020-04-28T17:59:11.146541",
+            "status": "INACTIVE"
+        },
         "monerominer.ro": {
             "included_at_epoch": 1587185605.0,
             "included_at_iso": "2020-04-18T04:53:25",
@@ -12964,13 +12971,6 @@
             "included_at_iso": "2020-04-18T00:00:19",
             "last_retested_at_epoch": 1588030324.536688,
             "last_retested_at_iso": "2020-04-27T23:32:04.536688",
-            "status": "INACTIVE"
-        },
-        "piratenbucht.eu": {
-            "included_at_epoch": 1588008342.224179,
-            "included_at_iso": "2020-04-27T17:25:42.224179",
-            "last_retested_at_epoch": 1588008342.224179,
-            "last_retested_at_iso": "2020-04-27T17:25:42.224179",
             "status": "INACTIVE"
         },
         "pirateproxy.cl": {
