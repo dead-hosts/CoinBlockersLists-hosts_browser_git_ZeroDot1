@@ -10145,13 +10145,6 @@
             "last_retested_at_iso": "2020-04-28T19:12:17.033559",
             "status": "INACTIVE"
         },
-        "auto.monerise.com": {
-            "included_at_epoch": 1588038120.629131,
-            "included_at_iso": "2020-04-28T01:42:00.629131",
-            "last_retested_at_epoch": 1588038120.629131,
-            "last_retested_at_iso": "2020-04-28T01:42:00.629131",
-            "status": "INACTIVE"
-        },
         "avualrhg9p.bid": {
             "included_at_epoch": 1587176843.0,
             "included_at_iso": "2020-04-18T02:27:23",
@@ -11902,13 +11895,6 @@
             "last_retested_at_iso": "2020-04-28T21:34:09.307910",
             "status": "INACTIVE"
         },
-        "lumanajaska.ml": {
-            "included_at_epoch": 1588038122.788932,
-            "included_at_iso": "2020-04-28T01:42:02.788932",
-            "last_retested_at_epoch": 1588038122.788932,
-            "last_retested_at_iso": "2020-04-28T01:42:02.788932",
-            "status": "INACTIVE"
-        },
         "m.anyfiles.ovh": {
             "included_at_epoch": 1587181197.0,
             "included_at_iso": "2020-04-18T03:39:57",
@@ -13039,120 +13025,120 @@
         "play.play.es": {
             "included_at_epoch": 1586990841.0,
             "included_at_iso": "2020-04-15T22:47:21",
-            "last_retested_at_epoch": 1588030324.959646,
-            "last_retested_at_iso": "2020-04-27T23:32:04.959646",
+            "last_retested_at_epoch": 1588125437.30601,
+            "last_retested_at_iso": "2020-04-29T01:57:17.306010",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.pw": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.224371,
-            "last_retested_at_iso": "2020-04-28T00:34:49.224371",
+            "last_retested_at_epoch": 1588125437.341644,
+            "last_retested_at_iso": "2020-04-29T01:57:17.341644",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.st": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.293568,
-            "last_retested_at_iso": "2020-04-28T00:34:49.293568",
+            "last_retested_at_epoch": 1588125437.372649,
+            "last_retested_at_iso": "2020-04-29T01:57:17.372649",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.stream": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.261421,
-            "last_retested_at_iso": "2020-04-28T00:34:49.261421",
+            "last_retested_at_epoch": 1588125437.436617,
+            "last_retested_at_iso": "2020-04-29T01:57:17.436617",
             "status": "INACTIVE"
         },
         "play.play.vidzi.tv": {
             "included_at_epoch": 1586670979.0,
             "included_at_iso": "2020-04-12T05:56:19",
-            "last_retested_at_epoch": 1588034089.32978,
-            "last_retested_at_iso": "2020-04-28T00:34:49.329780",
+            "last_retested_at_epoch": 1588125437.404591,
+            "last_retested_at_iso": "2020-04-29T01:57:17.404591",
             "status": "INACTIVE"
         },
         "play.power.tainiesonline.pw": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.366343,
-            "last_retested_at_iso": "2020-04-28T00:34:49.366343",
+            "last_retested_at_epoch": 1588125437.473036,
+            "last_retested_at_iso": "2020-04-29T01:57:17.473036",
             "status": "INACTIVE"
         },
         "play.s01.vidtod.me": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.401675,
-            "last_retested_at_iso": "2020-04-28T00:34:49.401675",
+            "last_retested_at_epoch": 1588125437.505787,
+            "last_retested_at_iso": "2020-04-29T01:57:17.505787",
             "status": "INACTIVE"
         },
         "play.s02.vidtod.me": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.43539,
-            "last_retested_at_iso": "2020-04-28T00:34:49.435390",
+            "last_retested_at_epoch": 1588125437.538016,
+            "last_retested_at_iso": "2020-04-29T01:57:17.538016",
             "status": "INACTIVE"
         },
         "play.star.dexim.space": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.468323,
-            "last_retested_at_iso": "2020-04-28T00:34:49.468323",
+            "last_retested_at_epoch": 1588125437.602831,
+            "last_retested_at_iso": "2020-04-29T01:57:17.602831",
             "status": "INACTIVE"
         },
         "play.stat.miraben.pw": {
             "included_at_epoch": 1586653287.0,
             "included_at_iso": "2020-04-12T01:01:27",
-            "last_retested_at_epoch": 1588034089.504846,
-            "last_retested_at_iso": "2020-04-28T00:34:49.504846",
+            "last_retested_at_epoch": 1588125437.571934,
+            "last_retested_at_iso": "2020-04-29T01:57:17.571934",
             "status": "INACTIVE"
         },
         "play.stream.vidzi.tv": {
             "included_at_epoch": 1586670979.0,
             "included_at_iso": "2020-04-12T05:56:19",
-            "last_retested_at_epoch": 1588034089.543234,
-            "last_retested_at_iso": "2020-04-28T00:34:49.543234",
+            "last_retested_at_epoch": 1588125437.63481,
+            "last_retested_at_iso": "2020-04-29T01:57:17.634810",
             "status": "INACTIVE"
         },
         "play.tainiesonline.pw": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1588034089.575254,
-            "last_retested_at_iso": "2020-04-28T00:34:49.575254",
+            "last_retested_at_epoch": 1588125437.670062,
+            "last_retested_at_iso": "2020-04-29T01:57:17.670062",
             "status": "INACTIVE"
         },
         "play.tainiesonline.stream": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1588034089.609468,
-            "last_retested_at_iso": "2020-04-28T00:34:49.609468",
+            "last_retested_at_epoch": 1588125437.702828,
+            "last_retested_at_iso": "2020-04-29T01:57:17.702828",
             "status": "INACTIVE"
         },
         "play.vb.wearesaudis.net": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1588034089.645471,
-            "last_retested_at_iso": "2020-04-28T00:34:49.645471",
+            "last_retested_at_epoch": 1588125437.735532,
+            "last_retested_at_iso": "2020-04-29T01:57:17.735532",
             "status": "INACTIVE"
         },
         "play.video2.stream.vidzi.tv": {
             "included_at_epoch": 1586670979.0,
             "included_at_iso": "2020-04-12T05:56:19",
-            "last_retested_at_epoch": 1588034089.678124,
-            "last_retested_at_iso": "2020-04-28T00:34:49.678124",
+            "last_retested_at_epoch": 1588125437.768027,
+            "last_retested_at_iso": "2020-04-29T01:57:17.768027",
             "status": "INACTIVE"
         },
         "play.vidzi.tv": {
             "included_at_epoch": 1586670979.0,
             "included_at_iso": "2020-04-12T05:56:19",
-            "last_retested_at_epoch": 1588034089.717341,
-            "last_retested_at_iso": "2020-04-28T00:34:49.717341",
+            "last_retested_at_epoch": 1588125437.80127,
+            "last_retested_at_iso": "2020-04-29T01:57:17.801270",
             "status": "INACTIVE"
         },
         "play.wm.yololike.space": {
             "included_at_epoch": 1586657694.0,
             "included_at_iso": "2020-04-12T02:14:54",
-            "last_retested_at_epoch": 1588034089.750882,
-            "last_retested_at_iso": "2020-04-28T00:34:49.750882",
+            "last_retested_at_epoch": 1588125437.833894,
+            "last_retested_at_iso": "2020-04-29T01:57:17.833894",
             "status": "INACTIVE"
         },
         "play.www.intellecthosting.net": {
