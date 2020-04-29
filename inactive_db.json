@@ -10481,6 +10481,13 @@
             "last_retested_at_iso": "2020-04-28T19:12:18.921524",
             "status": "INACTIVE"
         },
+        "cfcs1.duckdns.org": {
+            "included_at_epoch": 1588171903.05036,
+            "included_at_iso": "2020-04-29T14:51:43.050360",
+            "last_retested_at_epoch": 1588171903.05036,
+            "last_retested_at_iso": "2020-04-29T14:51:43.050360",
+            "status": "INACTIVE"
+        },
         "ch.browsermine.com": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
