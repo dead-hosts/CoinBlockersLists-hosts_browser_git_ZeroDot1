@@ -11020,6 +11020,13 @@
             "last_retested_at_iso": "2020-04-28T20:22:59.268565",
             "status": "INACTIVE"
         },
+        "eu.monerise.com": {
+            "included_at_epoch": 1588137513.660025,
+            "included_at_iso": "2020-04-29T05:18:33.660025",
+            "last_retested_at_epoch": 1588137513.660025,
+            "last_retested_at_iso": "2020-04-29T05:18:33.660025",
+            "status": "INACTIVE"
+        },
         "eu1.cfcnet.gdn": {
             "included_at_epoch": 1587176846.0,
             "included_at_iso": "2020-04-18T02:27:26",
@@ -13354,15 +13361,15 @@
         "proxy-fra-2.inf.nimiq.net": {
             "included_at_epoch": 1586662362.0,
             "included_at_iso": "2020-04-12T03:32:42",
-            "last_retested_at_epoch": 1588042311.054612,
-            "last_retested_at_iso": "2020-04-28T02:51:51.054612",
+            "last_retested_at_epoch": 1588137515.629958,
+            "last_retested_at_iso": "2020-04-29T05:18:35.629958",
             "status": "INACTIVE"
         },
         "proxy-fra-3.inf.nimiq.net": {
             "included_at_epoch": 1586666689.0,
             "included_at_iso": "2020-04-12T04:44:49",
-            "last_retested_at_epoch": 1588042311.088841,
-            "last_retested_at_iso": "2020-04-28T02:51:51.088841",
+            "last_retested_at_epoch": 1588137515.66379,
+            "last_retested_at_iso": "2020-04-29T05:18:35.663790",
             "status": "INACTIVE"
         },
         "proxy-gbr-1.inf.nimiq.net": {
