@@ -10481,6 +10481,13 @@
             "last_retested_at_iso": "2020-04-30T12:08:37.476565",
             "status": "INACTIVE"
         },
+        "cfcdist.gdn": {
+            "included_at_epoch": 1588296514.30027,
+            "included_at_iso": "2020-05-01T01:28:34.300270",
+            "last_retested_at_epoch": 1588296514.30027,
+            "last_retested_at_iso": "2020-05-01T01:28:34.300270",
+            "status": "INACTIVE"
+        },
         "cfcnet.gdn": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
@@ -13592,22 +13599,22 @@
         "s03.hostcontent.li": {
             "included_at_epoch": 1586579559.0,
             "included_at_iso": "2020-04-11T04:32:39",
-            "last_retested_at_epoch": 1586579559.0,
-            "last_retested_at_iso": "2020-04-11T04:32:39",
+            "last_retested_at_epoch": 1588296517.182029,
+            "last_retested_at_iso": "2020-05-01T01:28:37.182029",
             "status": "INACTIVE"
         },
         "s04.hostcontent.li": {
             "included_at_epoch": 1586579559.0,
             "included_at_iso": "2020-04-11T04:32:39",
-            "last_retested_at_epoch": 1586579559.0,
-            "last_retested_at_iso": "2020-04-11T04:32:39",
+            "last_retested_at_epoch": 1588296517.218582,
+            "last_retested_at_iso": "2020-05-01T01:28:37.218582",
             "status": "INACTIVE"
         },
         "s05.hostcontent.li": {
             "included_at_epoch": 1586579559.0,
             "included_at_iso": "2020-04-11T04:32:39",
-            "last_retested_at_epoch": 1586579559.0,
-            "last_retested_at_iso": "2020-04-11T04:32:39",
+            "last_retested_at_epoch": 1588296517.250981,
+            "last_retested_at_iso": "2020-05-01T01:28:37.250981",
             "status": "INACTIVE"
         },
         "s06.hostcontent.li": {
