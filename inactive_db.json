@@ -11664,6 +11664,13 @@
             "last_retested_at_iso": "2020-04-30T13:10:03.649789",
             "status": "INACTIVE"
         },
+        "js.ftp0118.info": {
+            "included_at_epoch": 1588335411.700728,
+            "included_at_iso": "2020-05-01T12:16:51.700728",
+            "last_retested_at_epoch": 1588335411.700728,
+            "last_retested_at_iso": "2020-05-01T12:16:51.700728",
+            "status": "INACTIVE"
+        },
         "js.pascal1.science": {
             "included_at_epoch": 1587181196.0,
             "included_at_iso": "2020-04-18T03:39:56",
@@ -13823,36 +13830,50 @@
         "s3.malictuiar.com": {
             "included_at_epoch": 1586428041.0,
             "included_at_iso": "2020-04-09T10:27:21",
-            "last_retested_at_epoch": 1586428041.0,
-            "last_retested_at_iso": "2020-04-09T10:27:21",
+            "last_retested_at_epoch": 1588335413.092449,
+            "last_retested_at_iso": "2020-05-01T12:16:53.092449",
             "status": "INACTIVE"
         },
         "s3.myregeneaf.com": {
             "included_at_epoch": 1586428041.0,
             "included_at_iso": "2020-04-09T10:27:21",
-            "last_retested_at_epoch": 1586428041.0,
-            "last_retested_at_iso": "2020-04-09T10:27:21",
+            "last_retested_at_epoch": 1588335413.125058,
+            "last_retested_at_iso": "2020-05-01T12:16:53.125058",
             "status": "INACTIVE"
         },
         "s3.play.tainiesonline.pw": {
             "included_at_epoch": 1586428041.0,
             "included_at_iso": "2020-04-09T10:27:21",
-            "last_retested_at_epoch": 1586428041.0,
-            "last_retested_at_iso": "2020-04-09T10:27:21",
+            "last_retested_at_epoch": 1588335413.16096,
+            "last_retested_at_iso": "2020-05-01T12:16:53.160960",
+            "status": "INACTIVE"
+        },
+        "s3.play.vidzi.tv": {
+            "included_at_epoch": 1588335413.191964,
+            "included_at_iso": "2020-05-01T12:16:53.191964",
+            "last_retested_at_epoch": 1588335413.191964,
+            "last_retested_at_iso": "2020-05-01T12:16:53.191964",
             "status": "INACTIVE"
         },
         "s3.thersprens.com": {
             "included_at_epoch": 1586428041.0,
             "included_at_iso": "2020-04-09T10:27:21",
-            "last_retested_at_epoch": 1586428041.0,
-            "last_retested_at_iso": "2020-04-09T10:27:21",
+            "last_retested_at_epoch": 1588335413.230155,
+            "last_retested_at_iso": "2020-05-01T12:16:53.230155",
+            "status": "INACTIVE"
+        },
+        "s3.video2.stream.vidzi.tv": {
+            "included_at_epoch": 1588335413.262966,
+            "included_at_iso": "2020-05-01T12:16:53.262966",
+            "last_retested_at_epoch": 1588335413.262966,
+            "last_retested_at_iso": "2020-05-01T12:16:53.262966",
             "status": "INACTIVE"
         },
         "s3.vidtod.me": {
             "included_at_epoch": 1586428041.0,
             "included_at_iso": "2020-04-09T10:27:21",
-            "last_retested_at_epoch": 1586428041.0,
-            "last_retested_at_iso": "2020-04-09T10:27:21",
+            "last_retested_at_epoch": 1588335413.295569,
+            "last_retested_at_iso": "2020-05-01T12:16:53.295569",
             "status": "INACTIVE"
         }
     },
