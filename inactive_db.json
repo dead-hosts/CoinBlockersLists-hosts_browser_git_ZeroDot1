@@ -14247,6 +14247,13 @@
             "last_retested_at_iso": "2020-05-03T18:39:54.446197",
             "status": "INACTIVE"
         },
+        "sentemanactri.com": {
+            "included_at_epoch": 1588615936.510515,
+            "included_at_iso": "2020-05-04T18:12:16.510515",
+            "last_retested_at_epoch": 1588615936.510515,
+            "last_retested_at_iso": "2020-05-04T18:12:16.510515",
+            "status": "INACTIVE"
+        },
         "server.jsecoin.com": {
             "included_at_epoch": 1588350804.188158,
             "included_at_iso": "2020-05-01T16:33:24.188158",
@@ -14595,6 +14602,13 @@
             "included_at_iso": "2020-05-01T16:33:26.438706",
             "last_retested_at_epoch": 1588532308.179928,
             "last_retested_at_iso": "2020-05-03T18:58:28.179928",
+            "status": "INACTIVE"
+        },
+        "tokyodrift.ga": {
+            "included_at_epoch": 1588615937.053518,
+            "included_at_iso": "2020-05-04T18:12:17.053518",
+            "last_retested_at_epoch": 1588615937.053518,
+            "last_retested_at_iso": "2020-05-04T18:12:17.053518",
             "status": "INACTIVE"
         },
         "tpbpiratbay.cl": {
