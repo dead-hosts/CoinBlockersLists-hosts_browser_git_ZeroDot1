@@ -14387,6 +14387,13 @@
             "last_retested_at_iso": "2020-05-05T19:03:19.771556",
             "status": "INACTIVE"
         },
+        "static-02.flu.cc": {
+            "included_at_epoch": 1588788784.659591,
+            "included_at_iso": "2020-05-06T18:13:04.659591",
+            "last_retested_at_epoch": 1588788784.659591,
+            "last_retested_at_iso": "2020-05-06T18:13:04.659591",
+            "status": "INACTIVE"
+        },
         "static.hk.rs": {
             "included_at_epoch": 1588350804.948924,
             "included_at_iso": "2020-05-01T16:33:24.948924",
