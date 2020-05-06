@@ -10831,6 +10831,13 @@
             "last_retested_at_iso": "2020-05-05T18:07:00.599624",
             "status": "INACTIVE"
         },
+        "dero.monerise.com": {
+            "included_at_epoch": 1588788072.764873,
+            "included_at_iso": "2020-05-06T18:01:12.764873",
+            "last_retested_at_epoch": 1588788072.764873,
+            "last_retested_at_iso": "2020-05-06T18:01:12.764873",
+            "status": "INACTIVE"
+        },
         "dev.fortrader.ru": {
             "included_at_epoch": 1587176846.0,
             "included_at_iso": "2020-04-18T02:27:26",
@@ -11998,6 +12005,13 @@
             "included_at_iso": "2020-04-18T03:39:57",
             "last_retested_at_epoch": 1588703222.127191,
             "last_retested_at_iso": "2020-05-05T18:27:02.127191",
+            "status": "INACTIVE"
+        },
+        "min.imageflux.cf": {
+            "included_at_epoch": 1588788074.05214,
+            "included_at_iso": "2020-05-06T18:01:14.052140",
+            "last_retested_at_epoch": 1588788074.05214,
+            "last_retested_at_iso": "2020-05-06T18:01:14.052140",
             "status": "INACTIVE"
         },
         "miner-1.team.nimiq.ag": {
