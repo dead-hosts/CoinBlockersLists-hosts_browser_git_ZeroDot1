@@ -865,8 +865,8 @@
         "state": "future"
     },
     "coinhive.net": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "coinhive.org": {
@@ -2265,8 +2265,8 @@
         "state": "future"
     },
     "laferia.cr": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "laserveradedomaina.com": {
@@ -2492,7 +2492,7 @@
     "mining711.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "minr.pw": {
         "epoch": 1618531200.0,
