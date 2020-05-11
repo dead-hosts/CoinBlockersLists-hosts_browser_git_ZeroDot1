@@ -10481,6 +10481,13 @@
             "last_retested_at_iso": "2020-05-10T18:31:40.315633",
             "status": "INACTIVE"
         },
+        "cfcdist.loan": {
+            "included_at_epoch": 1589220388.295909,
+            "included_at_iso": "2020-05-11T18:06:28.295909",
+            "last_retested_at_epoch": 1589220388.295909,
+            "last_retested_at_iso": "2020-05-11T18:06:28.295909",
+            "status": "INACTIVE"
+        },
         "cfcnet.gdn": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
