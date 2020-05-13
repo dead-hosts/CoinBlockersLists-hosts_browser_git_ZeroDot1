@@ -10439,6 +10439,13 @@
             "last_retested_at_iso": "2020-05-12T18:04:44.162293",
             "status": "INACTIVE"
         },
+        "cdn.static-cnt.bid": {
+            "included_at_epoch": 1589393471.642924,
+            "included_at_iso": "2020-05-13T18:11:11.642924",
+            "last_retested_at_epoch": 1589393471.642924,
+            "last_retested_at_iso": "2020-05-13T18:11:11.642924",
+            "status": "INACTIVE"
+        },
         "cdn.streambeam.io": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
@@ -12952,6 +12959,13 @@
             "last_retested_at_iso": "2020-05-12T18:28:55.027133",
             "status": "INACTIVE"
         },
+        "play.estream.nu": {
+            "included_at_epoch": 1589393474.188758,
+            "included_at_iso": "2020-05-13T18:11:14.188758",
+            "last_retested_at_epoch": 1589393474.188758,
+            "last_retested_at_iso": "2020-05-13T18:11:14.188758",
+            "status": "INACTIVE"
+        },
         "play.flowplayer.space": {
             "included_at_epoch": 1586990841.0,
             "included_at_iso": "2020-04-15T22:47:21",
@@ -13013,6 +13027,13 @@
             "included_at_iso": "2020-04-15T22:47:21",
             "last_retested_at_epoch": 1589308135.418444,
             "last_retested_at_iso": "2020-05-12T18:28:55.418444",
+            "status": "INACTIVE"
+        },
+        "play.play.estream.nu": {
+            "included_at_epoch": 1589393474.249076,
+            "included_at_iso": "2020-05-13T18:11:14.249076",
+            "last_retested_at_epoch": 1589393474.249076,
+            "last_retested_at_iso": "2020-05-13T18:11:14.249076",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.pw": {
@@ -13104,6 +13125,13 @@
             "included_at_iso": "2020-05-10T18:15:10.864177",
             "last_retested_at_epoch": 1589308863.261737,
             "last_retested_at_iso": "2020-05-12T18:41:03.261737",
+            "status": "INACTIVE"
+        },
+        "play.video.estream.nu": {
+            "included_at_epoch": 1589393474.310629,
+            "included_at_iso": "2020-05-13T18:11:14.310629",
+            "last_retested_at_epoch": 1589393474.310629,
+            "last_retested_at_iso": "2020-05-13T18:11:14.310629",
             "status": "INACTIVE"
         },
         "play.video2.stream.vidzi.tv": {
