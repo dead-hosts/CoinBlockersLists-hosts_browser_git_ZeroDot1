@@ -10439,13 +10439,6 @@
             "last_retested_at_iso": "2020-05-13T18:23:08.869793",
             "status": "INACTIVE"
         },
-        "cdn.static-cnt.bid": {
-            "included_at_epoch": 1589393471.642924,
-            "included_at_iso": "2020-05-13T18:11:11.642924",
-            "last_retested_at_epoch": 1589393471.642924,
-            "last_retested_at_iso": "2020-05-13T18:11:11.642924",
-            "status": "INACTIVE"
-        },
         "cdn.streambeam.io": {
             "included_at_epoch": 1587176844.0,
             "included_at_iso": "2020-04-18T02:27:24",
@@ -12962,8 +12955,8 @@
         "play.estream.nu": {
             "included_at_epoch": 1589393474.188758,
             "included_at_iso": "2020-05-13T18:11:14.188758",
-            "last_retested_at_epoch": 1589393474.188758,
-            "last_retested_at_iso": "2020-05-13T18:11:14.188758",
+            "last_retested_at_epoch": 1589480698.35261,
+            "last_retested_at_iso": "2020-05-14T18:24:58.352610",
             "status": "INACTIVE"
         },
         "play.flowplayer.space": {
@@ -13032,8 +13025,8 @@
         "play.play.estream.nu": {
             "included_at_epoch": 1589393474.249076,
             "included_at_iso": "2020-05-13T18:11:14.249076",
-            "last_retested_at_epoch": 1589393474.249076,
-            "last_retested_at_iso": "2020-05-13T18:11:14.249076",
+            "last_retested_at_epoch": 1589480698.440193,
+            "last_retested_at_iso": "2020-05-14T18:24:58.440193",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.pw": {
@@ -13130,8 +13123,8 @@
         "play.video.estream.nu": {
             "included_at_epoch": 1589393474.310629,
             "included_at_iso": "2020-05-13T18:11:14.310629",
-            "last_retested_at_epoch": 1589393474.310629,
-            "last_retested_at_iso": "2020-05-13T18:11:14.310629",
+            "last_retested_at_epoch": 1589480698.483884,
+            "last_retested_at_iso": "2020-05-14T18:24:58.483884",
             "status": "INACTIVE"
         },
         "play.video2.stream.vidzi.tv": {
