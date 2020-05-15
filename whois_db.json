@@ -315,9 +315,9 @@
         "state": "future"
     },
     "averoconnector.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "avualrhg9p.bid": {
         "epoch": 1574812800.0,
@@ -1105,8 +1105,8 @@
         "state": "past"
     },
     "datasecu.download": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "dataservices.download": {
@@ -1647,7 +1647,7 @@
     "gazanew.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "gemius.pl": {
         "epoch": 1621036800.0,
