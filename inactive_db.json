@@ -10481,6 +10481,13 @@
             "last_retested_at_iso": "2020-05-16T18:05:42.305965",
             "status": "INACTIVE"
         },
+        "cfcd.duckdns.org": {
+            "included_at_epoch": 1589738864.723894,
+            "included_at_iso": "2020-05-17T18:07:44.723894",
+            "last_retested_at_epoch": 1589738864.723894,
+            "last_retested_at_iso": "2020-05-17T18:07:44.723894",
+            "status": "INACTIVE"
+        },
         "cfcdist.gd": {
             "included_at_epoch": 1589652342.34475,
             "included_at_iso": "2020-05-16T18:05:42.344750",
@@ -10495,6 +10502,13 @@
             "last_retested_at_iso": "2020-05-16T18:05:42.384642",
             "status": "INACTIVE"
         },
+        "cfceu.duckdns.org": {
+            "included_at_epoch": 1589738864.811085,
+            "included_at_iso": "2020-05-17T18:07:44.811085",
+            "last_retested_at_epoch": 1589738864.811085,
+            "last_retested_at_iso": "2020-05-17T18:07:44.811085",
+            "status": "INACTIVE"
+        },
         "cfcnet.gdn": {
             "included_at_epoch": 1589652342.432084,
             "included_at_iso": "2020-05-16T18:05:42.432084",
@@ -10507,6 +10521,13 @@
             "included_at_iso": "2020-05-16T18:05:42.470542",
             "last_retested_at_epoch": 1589652342.470542,
             "last_retested_at_iso": "2020-05-16T18:05:42.470542",
+            "status": "INACTIVE"
+        },
+        "cfcs1.duckdns.org": {
+            "included_at_epoch": 1589738864.767097,
+            "included_at_iso": "2020-05-17T18:07:44.767097",
+            "last_retested_at_epoch": 1589738864.767097,
+            "last_retested_at_iso": "2020-05-17T18:07:44.767097",
             "status": "INACTIVE"
         },
         "ch.browsermine.com": {
