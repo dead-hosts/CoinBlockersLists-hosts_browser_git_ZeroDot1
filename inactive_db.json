@@ -11041,6 +11041,13 @@
             "last_retested_at_iso": "2020-05-17T18:22:39.330344",
             "status": "INACTIVE"
         },
+        "eu.hatevery.info": {
+            "included_at_epoch": 1589825189.830387,
+            "included_at_iso": "2020-05-18T18:06:29.830387",
+            "last_retested_at_epoch": 1589825189.830387,
+            "last_retested_at_iso": "2020-05-18T18:06:29.830387",
+            "status": "INACTIVE"
+        },
         "eu1.cfcnet.gdn": {
             "included_at_epoch": 1589652346.043272,
             "included_at_iso": "2020-05-16T18:05:46.043272",
