@@ -11895,6 +11895,13 @@
             "last_retested_at_iso": "2020-05-19T18:06:39.787580",
             "status": "INACTIVE"
         },
+        "likeminer.nablabee.com": {
+            "included_at_epoch": 1589998020.298453,
+            "included_at_iso": "2020-05-20T18:07:00.298453",
+            "last_retested_at_epoch": 1589998020.298453,
+            "last_retested_at_iso": "2020-05-20T18:07:00.298453",
+            "status": "INACTIVE"
+        },
         "listat.biz": {
             "included_at_epoch": 1589653071.049559,
             "included_at_iso": "2020-05-16T18:17:51.049559",
@@ -11949,6 +11956,13 @@
             "included_at_iso": "2020-05-16T18:17:51.330462",
             "last_retested_at_epoch": 1589911600.115714,
             "last_retested_at_iso": "2020-05-19T18:06:40.115714",
+            "status": "INACTIVE"
+        },
+        "losital.ru": {
+            "included_at_epoch": 1589998020.353272,
+            "included_at_iso": "2020-05-20T18:07:00.353272",
+            "last_retested_at_epoch": 1589998020.353272,
+            "last_retested_at_iso": "2020-05-20T18:07:00.353272",
             "status": "INACTIVE"
         },
         "m.anyfiles.ovh": {
@@ -13447,6 +13461,13 @@
             "included_at_iso": "2020-05-10T18:31:44.764810",
             "last_retested_at_epoch": 1589912336.285207,
             "last_retested_at_iso": "2020-05-19T18:18:56.285207",
+            "status": "INACTIVE"
+        },
+        "proxy-gbr-2.inf.nimiq.network": {
+            "included_at_epoch": 1589998021.353474,
+            "included_at_iso": "2020-05-20T18:07:01.353474",
+            "last_retested_at_epoch": 1589998021.353474,
+            "last_retested_at_iso": "2020-05-20T18:07:01.353474",
             "status": "INACTIVE"
         },
         "proxy-pol-1.inf.nimiq.net": {
