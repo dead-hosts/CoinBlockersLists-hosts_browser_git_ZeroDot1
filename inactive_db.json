@@ -10341,6 +10341,13 @@
             "last_retested_at_iso": "2020-05-21T19:16:34.477961",
             "status": "INACTIVE"
         },
+        "buyandfun.review": {
+            "included_at_epoch": 1590171218.668895,
+            "included_at_iso": "2020-05-22T18:13:38.668895",
+            "last_retested_at_epoch": 1590171218.668895,
+            "last_retested_at_iso": "2020-05-22T18:13:38.668895",
+            "status": "INACTIVE"
+        },
         "c0i8h8ac7e.bid": {
             "included_at_epoch": 1589652341.536615,
             "included_at_iso": "2020-05-16T18:05:41.536615",
@@ -11375,6 +11382,13 @@
             "included_at_iso": "2020-05-19T18:06:36.082371",
             "last_retested_at_epoch": 1590086398.213806,
             "last_retested_at_iso": "2020-05-21T18:39:58.213806",
+            "status": "INACTIVE"
+        },
+        "goredirect.party": {
+            "included_at_epoch": 1590171219.922022,
+            "included_at_iso": "2020-05-22T18:13:39.922022",
+            "last_retested_at_epoch": 1590171219.922022,
+            "last_retested_at_iso": "2020-05-22T18:13:39.922022",
             "status": "INACTIVE"
         },
         "gtg02.bestsecurepractice.com": {
