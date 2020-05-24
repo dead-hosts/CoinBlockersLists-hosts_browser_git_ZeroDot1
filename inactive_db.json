@@ -11398,6 +11398,13 @@
             "last_retested_at_iso": "2020-05-23T18:33:04.260506",
             "status": "INACTIVE"
         },
+        "greenindex.dynamic-dns.net": {
+            "included_at_epoch": 1590343785.03364,
+            "included_at_iso": "2020-05-24T18:09:45.033640",
+            "last_retested_at_epoch": 1590343785.03364,
+            "last_retested_at_iso": "2020-05-24T18:09:45.033640",
+            "status": "INACTIVE"
+        },
         "gtg02.bestsecurepractice.com": {
             "included_at_epoch": 1587927364.661165,
             "included_at_iso": "2020-04-26T18:56:04.661165",
