@@ -12672,6 +12672,13 @@
             "last_retested_at_iso": "2020-05-27T18:30:07.749001",
             "status": "INACTIVE"
         },
+        "new.minr.pw": {
+            "included_at_epoch": 1590689476.179066,
+            "included_at_iso": "2020-05-28T18:11:16.179066",
+            "last_retested_at_epoch": 1590689476.179066,
+            "last_retested_at_iso": "2020-05-28T18:11:16.179066",
+            "status": "INACTIVE"
+        },
         "newark01.monero.hashvault.pro": {
             "included_at_epoch": 1589653076.425545,
             "included_at_iso": "2020-05-16T18:17:56.425545",
