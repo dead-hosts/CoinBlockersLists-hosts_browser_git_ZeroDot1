@@ -11475,6 +11475,13 @@
             "last_retested_at_iso": "2020-06-02T18:13:19.906929",
             "status": "INACTIVE"
         },
+        "horrorscopeme.ml": {
+            "included_at_epoch": 1591208016.401647,
+            "included_at_iso": "2020-06-03T18:13:36.401647",
+            "last_retested_at_epoch": 1591208016.401647,
+            "last_retested_at_iso": "2020-06-03T18:13:36.401647",
+            "status": "INACTIVE"
+        },
         "host.d-ns.ga": {
             "included_at_epoch": 1589653068.070775,
             "included_at_iso": "2020-05-16T18:17:48.070775",
@@ -12064,10 +12071,10 @@
             "status": "INACTIVE"
         },
         "min.imageflux.cf": {
-            "included_at_epoch": 1588788074.05214,
-            "included_at_iso": "2020-05-06T18:01:14.052140",
-            "last_retested_at_epoch": 1591121604.137276,
-            "last_retested_at_iso": "2020-06-02T18:13:24.137276",
+            "included_at_epoch": 1591208016.92972,
+            "included_at_iso": "2020-06-03T18:13:36.929720",
+            "last_retested_at_epoch": 1591208016.92972,
+            "last_retested_at_iso": "2020-06-03T18:13:36.929720",
             "status": "INACTIVE"
         },
         "miner-1.team.nimiq.ag": {
@@ -18998,13 +19005,6 @@
             "included_at_iso": "2020-05-29T19:22:05.725285",
             "last_retested_at_epoch": 1591126491.230523,
             "last_retested_at_iso": "2020-06-02T19:34:51.230523",
-            "status": "INACTIVE"
-        },
-        "www.whereismommy.gq": {
-            "included_at_epoch": 1588707449.281773,
-            "included_at_iso": "2020-05-05T19:37:29.281773",
-            "last_retested_at_epoch": 1591126491.27731,
-            "last_retested_at_iso": "2020-06-02T19:34:51.277310",
             "status": "INACTIVE"
         },
         "www.whysoserius.club": {

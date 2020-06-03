@@ -1407,7 +1407,7 @@
     "fili.tv": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "financeforum.ru": {
         "epoch": "1582675200",
@@ -2475,8 +2475,8 @@
         "state": "future"
     },
     "minexmr.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1811980800.0,
+        "expiration_date": "03-jun-2027",
         "state": "future"
     },
     "minexmr.stream": {
