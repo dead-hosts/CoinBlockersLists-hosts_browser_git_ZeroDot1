@@ -3399,6 +3399,11 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "srcips.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "srcu.com": {
         "epoch": 1642118400.0,
         "expiration_date": "14-jan-2022",
@@ -3712,6 +3717,11 @@
     "ultra-cdn.pl": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
+        "state": "future"
+    },
+    "ultranote.org": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "unblockedtpb.pw": {
