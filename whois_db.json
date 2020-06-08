@@ -12,7 +12,7 @@
     "1q2w3.fun": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "1q2w3.me": {
         "epoch": 1573344000.0,
@@ -195,8 +195,8 @@
         "state": "past"
     },
     "allfontshere.press": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "altavista.ovh": {
@@ -392,6 +392,11 @@
     "becanium.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "beeppool.org": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "befirstcdn.com": {
@@ -635,8 +640,8 @@
         "state": "future"
     },
     "cdn-code.host": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "cdncounter.top": {
@@ -2195,8 +2200,8 @@
         "state": "future"
     },
     "kalipasindra.online": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "kdmkauchahynhrs.ru": {
@@ -2737,6 +2742,26 @@
     "nfwebminer.com": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "nimiq-network.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
+    "nimiq.agency": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "nimiq.com": {
+        "epoch": 1672531200.0,
+        "expiration_date": "01-jan-2023",
+        "state": "future"
+    },
+    "nimiq.network": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "nimiq.watch": {
