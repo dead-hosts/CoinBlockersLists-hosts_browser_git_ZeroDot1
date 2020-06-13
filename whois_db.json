@@ -2992,7 +2992,7 @@
     "pirateahoy.net": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "piratebay.tel": {
         "epoch": 1615248000.0,
@@ -3590,8 +3590,8 @@
         "state": "future"
     },
     "thepiratebay.wtf": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "thersprens.com": {
@@ -3717,7 +3717,7 @@
     "ulnawoyyzbljc.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "ultra-cdn.pl": {
         "epoch": 1576972800.0,
