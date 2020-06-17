@@ -1120,9 +1120,9 @@
         "state": "past"
     },
     "de-mi-nis-ner.info": {
-        "epoch": 1592265600.0,
-        "expiration_date": "16-jun-2020",
-        "state": "past"
+        "epoch": 1623801600.0,
+        "expiration_date": "16-jun-2021",
+        "state": "future"
     },
     "de-mi-nis-ner2.info": {
         "epoch": 1594252800.0,
@@ -1510,8 +1510,8 @@
         "state": "future"
     },
     "free4faucet.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "freebitco.in": {
@@ -1732,7 +1732,7 @@
     "gridcash.net": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "gridiogrid.com": {
         "epoch": 1614816000.0,
