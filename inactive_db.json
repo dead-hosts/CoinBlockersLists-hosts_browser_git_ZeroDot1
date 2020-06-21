@@ -11601,6 +11601,13 @@
             "last_retested_at_iso": "2020-06-20T19:23:16.171375",
             "status": "INACTIVE"
         },
+        "hostingcloud.science": {
+            "included_at_epoch": 1592764048.162361,
+            "included_at_iso": "2020-06-21T18:27:28.162361",
+            "last_retested_at_epoch": 1592764048.162361,
+            "last_retested_at_iso": "2020-06-21T18:27:28.162361",
+            "status": "INACTIVE"
+        },
         "hrfziiddxa.ru": {
             "included_at_epoch": 1592073662.666165,
             "included_at_iso": "2020-06-13T18:41:02.666165",
@@ -13524,6 +13531,13 @@
             "included_at_iso": "2020-06-07T18:28:19.089017",
             "last_retested_at_epoch": 1592678699.356473,
             "last_retested_at_iso": "2020-06-20T18:44:59.356473",
+            "status": "INACTIVE"
+        },
+        "pricefbcf.gq": {
+            "included_at_epoch": 1592764049.661455,
+            "included_at_iso": "2020-06-21T18:27:29.661455",
+            "last_retested_at_epoch": 1592764049.661455,
+            "last_retested_at_iso": "2020-06-21T18:27:29.661455",
             "status": "INACTIVE"
         },
         "proofly.win": {
