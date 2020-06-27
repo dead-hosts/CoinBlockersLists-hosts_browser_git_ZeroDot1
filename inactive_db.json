@@ -11111,6 +11111,13 @@
             "last_retested_at_iso": "2020-06-26T18:29:55.134749",
             "status": "INACTIVE"
         },
+        "eu2.monerise.com": {
+            "included_at_epoch": 1593282635.38248,
+            "included_at_iso": "2020-06-27T18:30:35.382480",
+            "last_retested_at_epoch": 1593282635.38248,
+            "last_retested_at_iso": "2020-06-27T18:30:35.382480",
+            "status": "INACTIVE"
+        },
         "evengparme.com": {
             "included_at_epoch": 1592072641.875684,
             "included_at_iso": "2020-06-13T18:24:01.875684",
