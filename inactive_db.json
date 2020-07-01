@@ -11560,10 +11560,10 @@
             "status": "INACTIVE"
         },
         "horrorscopeme.ml": {
-            "included_at_epoch": 1591208016.401647,
-            "included_at_iso": "2020-06-03T18:13:36.401647",
-            "last_retested_at_epoch": 1593545064.542597,
-            "last_retested_at_iso": "2020-06-30T19:24:24.542597",
+            "included_at_epoch": 1593628308.569733,
+            "included_at_iso": "2020-07-01T18:31:48.569733",
+            "last_retested_at_epoch": 1593628308.569733,
+            "last_retested_at_iso": "2020-07-01T18:31:48.569733",
             "status": "INACTIVE"
         },
         "host.d-ns.ga": {
@@ -11986,6 +11986,13 @@
             "last_retested_at_iso": "2020-06-30T19:51:24.818683",
             "status": "INACTIVE"
         },
+        "l-shop.nullrefexcep.com": {
+            "included_at_epoch": 1593628308.913735,
+            "included_at_iso": "2020-07-01T18:31:48.913735",
+            "last_retested_at_epoch": 1593628308.913735,
+            "last_retested_at_iso": "2020-07-01T18:31:48.913735",
+            "status": "INACTIVE"
+        },
         "l33tsite.info": {
             "included_at_epoch": 1592073664.764345,
             "included_at_iso": "2020-06-13T18:41:04.764345",
@@ -12190,10 +12197,10 @@
             "status": "INACTIVE"
         },
         "min.imageflux.cf": {
-            "included_at_epoch": 1591208016.92972,
-            "included_at_iso": "2020-06-03T18:13:36.929720",
-            "last_retested_at_epoch": 1593545064.962583,
-            "last_retested_at_iso": "2020-06-30T19:24:24.962583",
+            "included_at_epoch": 1593628309.162393,
+            "included_at_iso": "2020-07-01T18:31:49.162393",
+            "last_retested_at_epoch": 1593628309.162393,
+            "last_retested_at_iso": "2020-07-01T18:31:49.162393",
             "status": "INACTIVE"
         },
         "miner-1.team.nimiq.ag": {
