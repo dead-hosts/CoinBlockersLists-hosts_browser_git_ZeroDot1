@@ -649,6 +649,11 @@
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
+    "cdnfile.xyz": {
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
+        "state": "future"
+    },
     "cdns.ws": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
@@ -2945,8 +2950,8 @@
         "state": "future"
     },
     "pebx.pl": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "peerhash.com": {
