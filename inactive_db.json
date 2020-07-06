@@ -16431,6 +16431,13 @@
             "last_retested_at_iso": "2020-07-05T19:44:28.896507",
             "status": "INACTIVE"
         },
+        "ws2.g-content.bid": {
+            "included_at_epoch": 1594033645.906713,
+            "included_at_iso": "2020-07-06T11:07:25.906713",
+            "last_retested_at_epoch": 1594033645.906713,
+            "last_retested_at_iso": "2020-07-06T11:07:25.906713",
+            "status": "INACTIVE"
+        },
         "ws2.minr.pw": {
             "included_at_epoch": 1593112513.986213,
             "included_at_iso": "2020-06-25T19:15:13.986213",
