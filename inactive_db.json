@@ -9669,6 +9669,13 @@
             "last_retested_at_iso": "2020-07-09T18:36:05.950903",
             "status": "INACTIVE"
         },
+        "ad.g-content.bid": {
+            "included_at_epoch": 1594406085.9674,
+            "included_at_iso": "2020-07-10T18:34:45.967400",
+            "last_retested_at_epoch": 1594406085.9674,
+            "last_retested_at_iso": "2020-07-10T18:34:45.967400",
+            "status": "INACTIVE"
+        },
         "ad.jsecoin.com": {
             "included_at_epoch": 1592072632.141746,
             "included_at_iso": "2020-06-13T18:23:52.141746",
@@ -11130,6 +11137,13 @@
             "included_at_iso": "2020-06-13T18:24:01.974184",
             "last_retested_at_epoch": 1594319774.224985,
             "last_retested_at_iso": "2020-07-09T18:36:14.224985",
+            "status": "INACTIVE"
+        },
+        "external.monerise.com": {
+            "included_at_epoch": 1594406087.577831,
+            "included_at_iso": "2020-07-10T18:34:47.577831",
+            "last_retested_at_epoch": 1594406087.577831,
+            "last_retested_at_iso": "2020-07-10T18:34:47.577831",
             "status": "INACTIVE"
         },
         "fdtpyqqsnzxvt.ru": {
