@@ -11930,13 +11930,6 @@
             "last_retested_at_iso": "2020-07-10T18:52:08.256302",
             "status": "INACTIVE"
         },
-        "juststatic.info": {
-            "included_at_epoch": 1591987338.504433,
-            "included_at_iso": "2020-06-12T18:42:18.504433",
-            "last_retested_at_epoch": 1594407128.302225,
-            "last_retested_at_iso": "2020-07-10T18:52:08.302225",
-            "status": "INACTIVE"
-        },
         "jwduahujge.ru": {
             "included_at_epoch": 1592332558.170887,
             "included_at_iso": "2020-06-16T18:35:58.170887",
@@ -12841,24 +12834,24 @@
             "status": "INACTIVE"
         },
         "nkxdyorwbt.com": {
-            "included_at_epoch": 1591987339.462597,
-            "included_at_iso": "2020-06-12T18:42:19.462597",
-            "last_retested_at_epoch": 1594322350.636735,
-            "last_retested_at_iso": "2020-07-09T19:19:10.636735",
+            "included_at_epoch": 1594407711.025999,
+            "included_at_iso": "2020-07-10T19:01:51.025999",
+            "last_retested_at_epoch": 1594407711.025999,
+            "last_retested_at_iso": "2020-07-10T19:01:51.025999",
             "status": "INACTIVE"
         },
         "node.cfcdist.gd": {
-            "included_at_epoch": 1591987339.521363,
-            "included_at_iso": "2020-06-12T18:42:19.521363",
-            "last_retested_at_epoch": 1594322350.729277,
-            "last_retested_at_iso": "2020-07-09T19:19:10.729277",
+            "included_at_epoch": 1594407711.072508,
+            "included_at_iso": "2020-07-10T19:01:51.072508",
+            "last_retested_at_epoch": 1594407711.072508,
+            "last_retested_at_iso": "2020-07-10T19:01:51.072508",
             "status": "INACTIVE"
         },
         "node.cfcdist.gdn": {
-            "included_at_epoch": 1591987339.566704,
-            "included_at_iso": "2020-06-12T18:42:19.566704",
-            "last_retested_at_epoch": 1594322350.775571,
-            "last_retested_at_iso": "2020-07-09T19:19:10.775571",
+            "included_at_epoch": 1594407711.119465,
+            "included_at_iso": "2020-07-10T19:01:51.119465",
+            "last_retested_at_epoch": 1594407711.119465,
+            "last_retested_at_iso": "2020-07-10T19:01:51.119465",
             "status": "INACTIVE"
         },
         "node.philpool.com": {
@@ -19299,6 +19292,13 @@
             "included_at_iso": "2020-07-07T19:40:30.864469",
             "last_retested_at_epoch": 1594326092.764767,
             "last_retested_at_iso": "2020-07-09T20:21:32.764767",
+            "status": "INACTIVE"
+        },
+        "www.simpleco.in": {
+            "included_at_epoch": 1594407711.892069,
+            "included_at_iso": "2020-07-10T19:01:51.892069",
+            "last_retested_at_epoch": 1594407711.892069,
+            "last_retested_at_iso": "2020-07-10T19:01:51.892069",
             "status": "INACTIVE"
         },
         "www.siteverification.site": {
