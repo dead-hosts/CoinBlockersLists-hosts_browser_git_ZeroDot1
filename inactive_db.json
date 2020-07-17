@@ -10061,6 +10061,13 @@
             "last_retested_at_iso": "2020-07-17T18:36:42.559247",
             "status": "INACTIVE"
         },
+        "apib.monerise.com": {
+            "included_at_epoch": 1595025430.51004,
+            "included_at_iso": "2020-07-17T22:37:10.510040",
+            "last_retested_at_epoch": 1595025430.51004,
+            "last_retested_at_iso": "2020-07-17T22:37:10.510040",
+            "status": "INACTIVE"
+        },
         "appelamule.com": {
             "included_at_epoch": 1594493502.931388,
             "included_at_iso": "2020-07-11T18:51:42.931388",
@@ -10437,6 +10444,13 @@
             "included_at_iso": "2020-07-11T18:51:44.320336",
             "last_retested_at_epoch": 1595011005.455043,
             "last_retested_at_iso": "2020-07-17T18:36:45.455043",
+            "status": "INACTIVE"
+        },
+        "buyandfun.review": {
+            "included_at_epoch": 1595025430.921154,
+            "included_at_iso": "2020-07-17T22:37:10.921154",
+            "last_retested_at_epoch": 1595025430.921154,
+            "last_retested_at_iso": "2020-07-17T22:37:10.921154",
             "status": "INACTIVE"
         },
         "c0i8h8ac7e.bid": {
