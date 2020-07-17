@@ -15864,6 +15864,13 @@
             "last_retested_at_iso": "2020-07-17T19:24:28.120641",
             "status": "INACTIVE"
         },
+        "ws01.coinnebula.com": {
+            "included_at_epoch": 1595029701.136818,
+            "included_at_iso": "2020-07-17T23:48:21.136818",
+            "last_retested_at_epoch": 1595029701.136818,
+            "last_retested_at_iso": "2020-07-17T23:48:21.136818",
+            "status": "INACTIVE"
+        },
         "ws01.ppoi.org": {
             "included_at_epoch": 1593283659.114807,
             "included_at_iso": "2020-06-27T18:47:39.114807",
@@ -16086,6 +16093,13 @@
             "included_at_iso": "2020-06-27T18:47:40.027171",
             "last_retested_at_epoch": 1595013869.751236,
             "last_retested_at_iso": "2020-07-17T19:24:29.751236",
+            "status": "INACTIVE"
+        },
+        "ws02.1q2w3.website": {
+            "included_at_epoch": 1595029701.267436,
+            "included_at_iso": "2020-07-17T23:48:21.267436",
+            "last_retested_at_epoch": 1595029701.267436,
+            "last_retested_at_iso": "2020-07-17T23:48:21.267436",
             "status": "INACTIVE"
         },
         "ws02.ppoi.org": {
@@ -17598,6 +17612,13 @@
             "included_at_iso": "2020-06-26T19:16:36.544231",
             "last_retested_at_epoch": 1595014901.93537,
             "last_retested_at_iso": "2020-07-17T19:41:41.935370",
+            "status": "INACTIVE"
+        },
+        "www.coinhives.com": {
+            "included_at_epoch": 1595029701.768479,
+            "included_at_iso": "2020-07-17T23:48:21.768479",
+            "last_retested_at_epoch": 1595029701.768479,
+            "last_retested_at_iso": "2020-07-17T23:48:21.768479",
             "status": "INACTIVE"
         },
         "www.coinhove.com": {
