@@ -9662,6 +9662,13 @@
             "last_retested_at_iso": "2020-08-11T19:16:04.875446",
             "status": "INACTIVE"
         },
+        "acm.beeppool.org": {
+            "included_at_epoch": 1597258163.150408,
+            "included_at_iso": "2020-08-12T18:49:23.150408",
+            "last_retested_at_epoch": 1597258163.150408,
+            "last_retested_at_iso": "2020-08-12T18:49:23.150408",
+            "status": "INACTIVE"
+        },
         "ad.g-content.bi": {
             "included_at_epoch": 1596914138.859135,
             "included_at_iso": "2020-08-08T19:15:38.859135",
@@ -10269,6 +10276,13 @@
             "included_at_iso": "2020-08-08T19:15:41.372972",
             "last_retested_at_epoch": 1597171778.249201,
             "last_retested_at_iso": "2020-08-11T18:49:38.249201",
+            "status": "INACTIVE"
+        },
+        "bip.beeppool.org": {
+            "included_at_epoch": 1597258163.795224,
+            "included_at_iso": "2020-08-12T18:49:23.795224",
+            "last_retested_at_epoch": 1597258163.795224,
+            "last_retested_at_iso": "2020-08-12T18:49:23.795224",
             "status": "INACTIVE"
         },
         "bjorksta.me": {
@@ -10880,6 +10894,13 @@
             "last_retested_at_iso": "2020-08-11T18:49:41.200484",
             "status": "INACTIVE"
         },
+        "dcr-cd.beeppool.org": {
+            "included_at_epoch": 1597258164.584414,
+            "included_at_iso": "2020-08-12T18:49:24.584414",
+            "last_retested_at_epoch": 1597258164.584414,
+            "last_retested_at_iso": "2020-08-12T18:49:24.584414",
+            "status": "INACTIVE"
+        },
         "de1.eu.nimiqpool.com": {
             "included_at_epoch": 1595270308.862346,
             "included_at_iso": "2020-07-20T18:38:28.862346",
@@ -10957,6 +10978,13 @@
             "last_retested_at_iso": "2020-08-11T19:32:26.016455",
             "status": "INACTIVE"
         },
+        "dns11.beeppool.org": {
+            "included_at_epoch": 1597258164.726227,
+            "included_at_iso": "2020-08-12T18:49:24.726227",
+            "last_retested_at_epoch": 1597258164.726227,
+            "last_retested_at_iso": "2020-08-12T18:49:24.726227",
+            "status": "INACTIVE"
+        },
         "do69ifsly4.me": {
             "included_at_epoch": 1597085299.68367,
             "included_at_iso": "2020-08-10T18:48:19.683670",
@@ -10990,6 +11018,13 @@
             "included_at_iso": "2020-08-10T18:48:19.778686",
             "last_retested_at_epoch": 1597173367.424408,
             "last_retested_at_iso": "2020-08-11T19:16:07.424408",
+            "status": "INACTIVE"
+        },
+        "dsc.beeppool.org": {
+            "included_at_epoch": 1597258164.831579,
+            "included_at_iso": "2020-08-12T18:49:24.831579",
+            "last_retested_at_epoch": 1597258164.831579,
+            "last_retested_at_iso": "2020-08-12T18:49:24.831579",
             "status": "INACTIVE"
         },
         "dubester.si": {
@@ -11032,6 +11067,13 @@
             "included_at_iso": "2020-08-10T18:48:19.950118",
             "last_retested_at_epoch": 1597173367.512864,
             "last_retested_at_iso": "2020-08-11T19:16:07.512864",
+            "status": "INACTIVE"
+        },
+        "erp.beeppool.org": {
+            "included_at_epoch": 1597258164.946951,
+            "included_at_iso": "2020-08-12T18:49:24.946951",
+            "last_retested_at_epoch": 1597258164.946951,
+            "last_retested_at_iso": "2020-08-12T18:49:24.946951",
             "status": "INACTIVE"
         },
         "escobar.pr0gramm.com": {
@@ -11144,6 +11186,13 @@
             "included_at_iso": "2020-08-08T19:15:44.630890",
             "last_retested_at_epoch": 1597171782.665015,
             "last_retested_at_iso": "2020-08-11T18:49:42.665015",
+            "status": "INACTIVE"
+        },
+        "exit.beeppool.org": {
+            "included_at_epoch": 1597258165.06334,
+            "included_at_iso": "2020-08-12T18:49:25.063340",
+            "last_retested_at_epoch": 1597258165.06334,
+            "last_retested_at_iso": "2020-08-12T18:49:25.063340",
             "status": "INACTIVE"
         },
         "explorer.jsecoin.com": {
@@ -18739,13 +18788,6 @@
             "included_at_iso": "2020-07-26T19:10:48.684791",
             "last_retested_at_epoch": 1597174356.221605,
             "last_retested_at_iso": "2020-08-11T19:32:36.221605",
-            "status": "INACTIVE"
-        },
-        "www.moonsade.com": {
-            "included_at_epoch": 1594755728.643691,
-            "included_at_iso": "2020-07-14T19:42:08.643691",
-            "last_retested_at_epoch": 1597174356.272495,
-            "last_retested_at_iso": "2020-08-11T19:32:36.272495",
             "status": "INACTIVE"
         },
         "www.mu": {
