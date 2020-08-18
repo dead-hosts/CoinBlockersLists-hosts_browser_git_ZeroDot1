@@ -10362,6 +10362,13 @@
             "last_retested_at_iso": "2020-08-17T19:40:20.056070",
             "status": "INACTIVE"
         },
+        "bip.beeppool.org": {
+            "included_at_epoch": 1597776840.45307,
+            "included_at_iso": "2020-08-18T18:54:00.453070",
+            "last_retested_at_epoch": 1597776840.45307,
+            "last_retested_at_iso": "2020-08-18T18:54:00.453070",
+            "status": "INACTIVE"
+        },
         "bjorksta.me": {
             "included_at_epoch": 1597085297.584932,
             "included_at_iso": "2020-08-10T18:48:17.584932",
@@ -11076,6 +11083,13 @@
             "last_retested_at_iso": "2020-08-17T18:51:59.783110",
             "status": "INACTIVE"
         },
+        "dns7.beeppool.org": {
+            "included_at_epoch": 1597776841.324324,
+            "included_at_iso": "2020-08-18T18:54:01.324324",
+            "last_retested_at_epoch": 1597776841.324324,
+            "last_retested_at_iso": "2020-08-18T18:54:01.324324",
+            "status": "INACTIVE"
+        },
         "do69ifsly4.me": {
             "included_at_epoch": 1597085299.68367,
             "included_at_iso": "2020-08-10T18:48:19.683670",
@@ -11116,6 +11130,13 @@
             "included_at_iso": "2020-08-10T18:48:19.778686",
             "last_retested_at_epoch": 1597695435.36638,
             "last_retested_at_iso": "2020-08-17T20:17:15.366380",
+            "status": "INACTIVE"
+        },
+        "dsc.beeppool.org": {
+            "included_at_epoch": 1597776841.434492,
+            "included_at_iso": "2020-08-18T18:54:01.434492",
+            "last_retested_at_epoch": 1597776841.434492,
+            "last_retested_at_iso": "2020-08-18T18:54:01.434492",
             "status": "INACTIVE"
         },
         "dubester.si": {
@@ -11613,6 +11634,13 @@
             "included_at_iso": "2020-08-09T18:47:51.437572",
             "last_retested_at_epoch": 1597695436.989649,
             "last_retested_at_iso": "2020-08-17T20:17:16.989649",
+            "status": "INACTIVE"
+        },
+        "git.beeppool.org": {
+            "included_at_epoch": 1597776842.011533,
+            "included_at_iso": "2020-08-18T18:54:02.011533",
+            "last_retested_at_epoch": 1597776842.011533,
+            "last_retested_at_iso": "2020-08-18T18:54:02.011533",
             "status": "INACTIVE"
         },
         "global.crypto.csgocpu.com": {
@@ -12145,6 +12173,13 @@
             "included_at_iso": "2020-08-09T18:47:55.118375",
             "last_retested_at_epoch": 1597695440.417189,
             "last_retested_at_iso": "2020-08-17T20:17:20.417189",
+            "status": "INACTIVE"
+        },
+        "kallisto.beeppool.org": {
+            "included_at_epoch": 1597776842.476585,
+            "included_at_iso": "2020-08-18T18:54:02.476585",
+            "last_retested_at_epoch": 1597776842.476585,
+            "last_retested_at_iso": "2020-08-18T18:54:02.476585",
             "status": "INACTIVE"
         },
         "kdmkauchahynhrs.ru": {
