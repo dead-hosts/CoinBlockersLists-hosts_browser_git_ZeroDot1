@@ -170,8 +170,9 @@
         "state": "future"
     },
     "aleinvest.xyz": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "alemoney.xyz": {
@@ -667,6 +668,7 @@
     "cfcdist.gdn": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
+        "server": "whois.nic.gdn",
         "state": "past"
     },
     "cfcdist.loan": {
@@ -1707,6 +1709,7 @@
     "goodkino.biz": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "googleanalytcs.com": {
@@ -2990,8 +2993,9 @@
         "state": "past"
     },
     "pirataibay.in": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "pirateahoy.net": {
@@ -3177,6 +3181,7 @@
     "reservedoffers.club": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "retadint.com": {
@@ -3337,6 +3342,7 @@
     "simpleco.in": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "server": "whois.registry.in",
         "state": "past"
     },
     "simplemining.net": {
