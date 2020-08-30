@@ -10852,6 +10852,13 @@
             "last_retested_at_iso": "2020-08-28T19:11:23.010609",
             "status": "INACTIVE"
         },
+        "coiner.site": {
+            "included_at_epoch": 1598813995.706344,
+            "included_at_iso": "2020-08-30T18:59:55.706344",
+            "last_retested_at_epoch": 1598813995.706344,
+            "last_retested_at_iso": "2020-08-30T18:59:55.706344",
+            "status": "INACTIVE"
+        },
         "coinhive-proxy.party": {
             "included_at_epoch": 1596914142.906791,
             "included_at_iso": "2020-08-08T19:15:42.906791",
@@ -12383,6 +12390,13 @@
             "included_at_iso": "2020-08-09T18:47:55.357380",
             "last_retested_at_epoch": 1598641895.086631,
             "last_retested_at_iso": "2020-08-28T19:11:35.086631",
+            "status": "INACTIVE"
+        },
+        "krb.devphp.org.ua": {
+            "included_at_epoch": 1598813996.157019,
+            "included_at_iso": "2020-08-30T18:59:56.157019",
+            "last_retested_at_epoch": 1598813996.157019,
+            "last_retested_at_iso": "2020-08-30T18:59:56.157019",
             "status": "INACTIVE"
         },
         "ksimdw.ru": {
