@@ -11818,13 +11818,6 @@
             "last_retested_at_iso": "2020-08-28T19:11:30.750126",
             "status": "INACTIVE"
         },
-        "go.bestmobiworld.com": {
-            "included_at_epoch": 1596393944.209581,
-            "included_at_iso": "2020-08-02T18:45:44.209581",
-            "last_retested_at_epoch": 1598641890.79945,
-            "last_retested_at_iso": "2020-08-28T19:11:30.799450",
-            "status": "INACTIVE"
-        },
         "go.megabanners.cf": {
             "included_at_epoch": 1596998871.669528,
             "included_at_iso": "2020-08-09T18:47:51.669528",
@@ -19460,6 +19453,13 @@
             "included_at_iso": "2020-08-23T19:44:02.681846",
             "last_retested_at_epoch": 1598644257.340883,
             "last_retested_at_iso": "2020-08-28T19:50:57.340883",
+            "status": "INACTIVE"
+        },
+        "www.krb.devphp.org.ua": {
+            "included_at_epoch": 1598814757.980436,
+            "included_at_iso": "2020-08-30T19:12:37.980436",
+            "last_retested_at_epoch": 1598814757.980436,
+            "last_retested_at_iso": "2020-08-30T19:12:37.980436",
             "status": "INACTIVE"
         },
         "www.ksimdw.ru": {
