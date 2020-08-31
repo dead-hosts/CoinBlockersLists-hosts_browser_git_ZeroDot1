@@ -1888,8 +1888,9 @@
         "state": "past"
     },
     "hostingcloud.faith": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.faith",
         "state": "future"
     },
     "hostingcloud.loan": {
@@ -2718,8 +2719,9 @@
         "state": "future"
     },
     "nerdorium.org": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "nerohut.com": {
