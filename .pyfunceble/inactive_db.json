@@ -20904,6 +20904,13 @@
             "last_retested_at_iso": "2020-08-28T20:09:52.581496",
             "status": "INACTIVE"
         },
+        "www.xmr.cool": {
+            "included_at_epoch": 1598901316.850946,
+            "included_at_iso": "2020-08-31T19:15:16.850946",
+            "last_retested_at_epoch": 1598901316.850946,
+            "last_retested_at_iso": "2020-08-31T19:15:16.850946",
+            "status": "INACTIVE"
+        },
         "www.xmr.crypto-pool.fr": {
             "included_at_epoch": 1598212630.009248,
             "included_at_iso": "2020-08-23T19:57:10.009248",
