@@ -10250,6 +10250,13 @@
             "last_retested_at_iso": "2020-08-28T19:11:18.183180",
             "status": "INACTIVE"
         },
+        "authedmine.eu": {
+            "included_at_epoch": 1599073312.402616,
+            "included_at_iso": "2020-09-02T19:01:52.402616",
+            "last_retested_at_epoch": 1599073312.402616,
+            "last_retested_at_iso": "2020-09-02T19:01:52.402616",
+            "status": "INACTIVE"
+        },
         "autologica.ga": {
             "included_at_epoch": 1598296640.992021,
             "included_at_iso": "2020-08-24T19:17:20.992021",
@@ -13233,10 +13240,10 @@
             "status": "INACTIVE"
         },
         "myadstats.com": {
-            "included_at_epoch": 1596568438.262273,
-            "included_at_iso": "2020-08-04T19:13:58.262273",
-            "last_retested_at_epoch": 1598643187.637916,
-            "last_retested_at_iso": "2020-08-28T19:33:07.637916",
+            "included_at_epoch": 1599073313.206782,
+            "included_at_iso": "2020-09-02T19:01:53.206782",
+            "last_retested_at_epoch": 1599073313.206782,
+            "last_retested_at_iso": "2020-09-02T19:01:53.206782",
             "status": "INACTIVE"
         },
         "myfhology.sbhmn-miner.com": {
@@ -13492,10 +13499,10 @@
             "status": "INACTIVE"
         },
         "on.animeteatr.ru": {
-            "included_at_epoch": 1596568438.306765,
-            "included_at_iso": "2020-08-04T19:13:58.306765",
-            "last_retested_at_epoch": 1598643189.663822,
-            "last_retested_at_iso": "2020-08-28T19:33:09.663822",
+            "included_at_epoch": 1599073313.371742,
+            "included_at_iso": "2020-09-02T19:01:53.371742",
+            "last_retested_at_epoch": 1599073313.371742,
+            "last_retested_at_iso": "2020-09-02T19:01:53.371742",
             "status": "INACTIVE"
         },
         "onlinereserchstatistics.online": {
@@ -13758,10 +13765,10 @@
             "status": "INACTIVE"
         },
         "play.on.animeteatr.ru": {
-            "included_at_epoch": 1596568438.35102,
-            "included_at_iso": "2020-08-04T19:13:58.351020",
-            "last_retested_at_epoch": 1598643191.629817,
-            "last_retested_at_iso": "2020-08-28T19:33:11.629817",
+            "included_at_epoch": 1599073313.481744,
+            "included_at_iso": "2020-09-02T19:01:53.481744",
+            "last_retested_at_epoch": 1599073313.481744,
+            "last_retested_at_iso": "2020-09-02T19:01:53.481744",
             "status": "INACTIVE"
         },
         "play.pc.belicimo.pw": {
@@ -15666,13 +15673,6 @@
             "included_at_iso": "2020-08-22T19:33:57.384234",
             "last_retested_at_epoch": 1598643199.629318,
             "last_retested_at_iso": "2020-08-28T19:33:19.629318",
-            "status": "INACTIVE"
-        },
-        "traumasister.tk": {
-            "included_at_epoch": 1596568441.602657,
-            "included_at_iso": "2020-08-04T19:14:01.602657",
-            "last_retested_at_epoch": 1598645388.019909,
-            "last_retested_at_iso": "2020-08-28T20:09:48.019909",
             "status": "INACTIVE"
         },
         "trtl.beeppool.org": {
