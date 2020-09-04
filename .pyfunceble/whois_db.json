@@ -90,8 +90,9 @@
         "state": "future"
     },
     "adbtc.top": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "adconity.com": {
@@ -1450,7 +1451,8 @@
     "flightsy.bid": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.nic.bid",
+        "state": "past"
     },
     "flightsy.date": {
         "epoch": 1560816000,
@@ -1460,7 +1462,8 @@
     "flightsy.win": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.nic.win",
+        "state": "past"
     },
     "flightzy.bid": {
         "epoch": 1602288000.0,
@@ -1518,10 +1521,10 @@
         "state": "future"
     },
     "free4faucet.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "freebitco.in": {
         "epoch": 1760054400.0,
@@ -2621,8 +2624,9 @@
         "state": "future"
     },
     "munero.me": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "mutuza.win": {
@@ -2762,8 +2766,9 @@
         "state": "future"
     },
     "nimiq.agency": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.agency",
         "state": "future"
     },
     "nimiq.com": {
