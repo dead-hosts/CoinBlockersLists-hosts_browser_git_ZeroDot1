@@ -10712,6 +10712,13 @@
             "last_retested_at_iso": "2020-08-28T19:11:21.812039",
             "status": "INACTIVE"
         },
+        "cfcs1.duckdns.org": {
+            "included_at_epoch": 1599332547.370908,
+            "included_at_iso": "2020-09-05T19:02:27.370908",
+            "last_retested_at_epoch": 1599332547.370908,
+            "last_retested_at_iso": "2020-09-05T19:02:27.370908",
+            "status": "INACTIVE"
+        },
         "ch.browsermine.com": {
             "included_at_epoch": 1596914142.36378,
             "included_at_iso": "2020-08-08T19:15:42.363780",
@@ -13345,10 +13352,10 @@
             "status": "INACTIVE"
         },
         "nkxdyorwbt.com": {
-            "included_at_epoch": 1596829001.754702,
-            "included_at_iso": "2020-08-07T19:36:41.754702",
-            "last_retested_at_epoch": 1598643188.507834,
-            "last_retested_at_iso": "2020-08-28T19:33:08.507834",
+            "included_at_epoch": 1599332548.171627,
+            "included_at_iso": "2020-09-05T19:02:28.171627",
+            "last_retested_at_epoch": 1599332548.171627,
+            "last_retested_at_iso": "2020-09-05T19:02:28.171627",
             "status": "INACTIVE"
         },
         "noasic.beeppool.org": {
@@ -13366,17 +13373,17 @@
             "status": "INACTIVE"
         },
         "node.cfcdist.gd": {
-            "included_at_epoch": 1596829001.853801,
-            "included_at_iso": "2020-08-07T19:36:41.853801",
-            "last_retested_at_epoch": 1598643188.65786,
-            "last_retested_at_iso": "2020-08-28T19:33:08.657860",
+            "included_at_epoch": 1599332548.224514,
+            "included_at_iso": "2020-09-05T19:02:28.224514",
+            "last_retested_at_epoch": 1599332548.224514,
+            "last_retested_at_iso": "2020-09-05T19:02:28.224514",
             "status": "INACTIVE"
         },
         "node.cfcdist.gdn": {
-            "included_at_epoch": 1596829001.951791,
-            "included_at_iso": "2020-08-07T19:36:41.951791",
-            "last_retested_at_epoch": 1598643188.705032,
-            "last_retested_at_iso": "2020-08-28T19:33:08.705032",
+            "included_at_epoch": 1599332548.272197,
+            "included_at_iso": "2020-09-05T19:02:28.272197",
+            "last_retested_at_epoch": 1599332548.272197,
+            "last_retested_at_iso": "2020-09-05T19:02:28.272197",
             "status": "INACTIVE"
         },
         "node.nimiqpool.com": {
