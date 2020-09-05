@@ -15451,6 +15451,13 @@
             "last_retested_at_iso": "2020-08-28T20:09:47.215228",
             "status": "INACTIVE"
         },
+        "sumo.hashvault.pro": {
+            "included_at_epoch": 1599333324.092736,
+            "included_at_iso": "2020-09-05T19:15:24.092736",
+            "last_retested_at_epoch": 1599333324.092736,
+            "last_retested_at_iso": "2020-09-05T19:15:24.092736",
+            "status": "INACTIVE"
+        },
         "sunnimiq2.cf": {
             "included_at_epoch": 1598039089.23571,
             "included_at_iso": "2020-08-21T19:44:49.235710",
