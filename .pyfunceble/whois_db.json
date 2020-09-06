@@ -1434,8 +1434,9 @@
         "state": "future"
     },
     "flare-analytics.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flashx.co": {
@@ -1597,8 +1598,9 @@
         "state": "past"
     },
     "freeproxy.ro": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.rotld.ro",
         "state": "future"
     },
     "freshrefresher.com": {
