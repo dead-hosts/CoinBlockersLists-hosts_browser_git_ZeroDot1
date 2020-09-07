@@ -2248,7 +2248,8 @@
     "kissdoujin.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "kisshentai.net": {
         "epoch": 1620432000.0,
