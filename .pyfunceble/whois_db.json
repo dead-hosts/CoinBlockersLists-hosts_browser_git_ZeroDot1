@@ -911,7 +911,8 @@
     "coinhub.win": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
-        "state": "future"
+        "server": "whois.nic.win",
+        "state": "past"
     },
     "coinimp.com": {
         "epoch": 1605744000.0,
@@ -2246,10 +2247,10 @@
         "state": "future"
     },
     "kissdoujin.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "kisshentai.net": {
         "epoch": 1620432000.0,
