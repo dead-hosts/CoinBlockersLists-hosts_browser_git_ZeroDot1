@@ -15465,6 +15465,13 @@
             "last_retested_at_iso": "2020-09-05T19:15:24.092736",
             "status": "INACTIVE"
         },
+        "sunnimiq1.cf": {
+            "included_at_epoch": 1599679037.286316,
+            "included_at_iso": "2020-09-09T19:17:17.286316",
+            "last_retested_at_epoch": 1599679037.286316,
+            "last_retested_at_iso": "2020-09-09T19:17:17.286316",
+            "status": "INACTIVE"
+        },
         "sunnimiq2.cf": {
             "included_at_epoch": 1598039089.23571,
             "included_at_iso": "2020-08-21T19:44:49.235710",
@@ -17957,6 +17964,13 @@
             "last_retested_at_iso": "2020-08-28T19:50:46.104503",
             "status": "INACTIVE"
         },
+        "www.2giga.download": {
+            "included_at_epoch": 1599679037.997703,
+            "included_at_iso": "2020-09-09T19:17:17.997703",
+            "last_retested_at_epoch": 1599679037.997703,
+            "last_retested_at_iso": "2020-09-09T19:17:17.997703",
+            "status": "INACTIVE"
+        },
         "www.2giga.link": {
             "included_at_epoch": 1598211834.815028,
             "included_at_iso": "2020-08-23T19:43:54.815028",
@@ -19999,6 +20013,20 @@
             "included_at_iso": "2020-08-23T19:44:06.341303",
             "last_retested_at_epoch": 1598644260.977314,
             "last_retested_at_iso": "2020-08-28T19:51:00.977314",
+            "status": "INACTIVE"
+        },
+        "www.refreshnerer27.info": {
+            "included_at_epoch": 1599679038.656489,
+            "included_at_iso": "2020-09-09T19:17:18.656489",
+            "last_retested_at_epoch": 1599679038.656489,
+            "last_retested_at_iso": "2020-09-09T19:17:18.656489",
+            "status": "INACTIVE"
+        },
+        "www.refreshnerer27rb.info": {
+            "included_at_epoch": 1599679038.705693,
+            "included_at_iso": "2020-09-09T19:17:18.705693",
+            "last_retested_at_epoch": 1599679038.705693,
+            "last_retested_at_iso": "2020-09-09T19:17:18.705693",
             "status": "INACTIVE"
         },
         "www.rencohep.com": {
