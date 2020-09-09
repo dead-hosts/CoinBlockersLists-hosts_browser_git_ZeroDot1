@@ -113,7 +113,8 @@
     "adplusplus.fr": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.fr",
+        "state": "past"
     },
     "adrenali.gq": {
         "epoch": 1622764800.0,
