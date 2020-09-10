@@ -17320,6 +17320,27 @@
             "last_retested_at_iso": "2020-08-28T19:50:41.496937",
             "status": "INACTIVE"
         },
+        "ws23.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.658462,
+            "included_at_iso": "2020-09-10T19:17:16.658462",
+            "last_retested_at_epoch": 1599765436.658462,
+            "last_retested_at_iso": "2020-09-10T19:17:16.658462",
+            "status": "INACTIVE"
+        },
+        "ws24.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.710449,
+            "included_at_iso": "2020-09-10T19:17:16.710449",
+            "last_retested_at_epoch": 1599765436.710449,
+            "last_retested_at_iso": "2020-09-10T19:17:16.710449",
+            "status": "INACTIVE"
+        },
+        "ws25.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.759172,
+            "included_at_iso": "2020-09-10T19:17:16.759172",
+            "last_retested_at_epoch": 1599765436.759172,
+            "last_retested_at_iso": "2020-09-10T19:17:16.759172",
+            "status": "INACTIVE"
+        },
         "ws3.1beb2a44.space": {
             "included_at_epoch": 1598124848.545793,
             "included_at_iso": "2020-08-22T19:34:08.545793",
@@ -17502,6 +17523,27 @@
             "last_retested_at_iso": "2020-08-28T19:50:42.947140",
             "status": "INACTIVE"
         },
+        "ws42.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.839821,
+            "included_at_iso": "2020-09-10T19:17:16.839821",
+            "last_retested_at_epoch": 1599765436.839821,
+            "last_retested_at_iso": "2020-09-10T19:17:16.839821",
+            "status": "INACTIVE"
+        },
+        "ws48.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.904815,
+            "included_at_iso": "2020-09-10T19:17:16.904815",
+            "last_retested_at_epoch": 1599765436.904815,
+            "last_retested_at_iso": "2020-09-10T19:17:16.904815",
+            "status": "INACTIVE"
+        },
+        "ws49.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765436.951391,
+            "included_at_iso": "2020-09-10T19:17:16.951391",
+            "last_retested_at_epoch": 1599765436.951391,
+            "last_retested_at_iso": "2020-09-10T19:17:16.951391",
+            "status": "INACTIVE"
+        },
         "ws5.1beb2a44.space": {
             "included_at_epoch": 1598211832.118141,
             "included_at_iso": "2020-08-23T19:43:52.118141",
@@ -17584,6 +17626,13 @@
             "included_at_iso": "2020-08-23T19:43:52.619748",
             "last_retested_at_epoch": 1598644243.702577,
             "last_retested_at_iso": "2020-08-28T19:50:43.702577",
+            "status": "INACTIVE"
+        },
+        "ws50.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765437.001904,
+            "included_at_iso": "2020-09-10T19:17:17.001904",
+            "last_retested_at_epoch": 1599765437.001904,
+            "last_retested_at_iso": "2020-09-10T19:17:17.001904",
             "status": "INACTIVE"
         },
         "ws6.1beb2a44.space": {
@@ -18398,6 +18447,13 @@
             "last_retested_at_iso": "2020-08-28T19:50:49.504874",
             "status": "INACTIVE"
         },
+        "www.coinhive.net": {
+            "included_at_epoch": 1599765437.233371,
+            "included_at_iso": "2020-09-10T19:17:17.233371",
+            "last_retested_at_epoch": 1599765437.233371,
+            "last_retested_at_iso": "2020-09-10T19:17:17.233371",
+            "status": "INACTIVE"
+        },
         "www.coinhove.com": {
             "included_at_epoch": 1598124856.004662,
             "included_at_iso": "2020-08-22T19:34:16.004662",
@@ -18424,6 +18480,13 @@
             "included_at_iso": "2020-08-19T20:00:42.684216",
             "last_retested_at_epoch": 1598644249.745278,
             "last_retested_at_iso": "2020-08-28T19:50:49.745278",
+            "status": "INACTIVE"
+        },
+        "www.crypto.csgocpu.com": {
+            "included_at_epoch": 1599765437.322412,
+            "included_at_iso": "2020-09-10T19:17:17.322412",
+            "last_retested_at_epoch": 1599765437.322412,
+            "last_retested_at_iso": "2020-09-10T19:17:17.322412",
             "status": "INACTIVE"
         },
         "www.cryptocoinabout.com": {
@@ -19698,6 +19761,13 @@
             "included_at_iso": "2020-09-03T19:16:26.547880",
             "last_retested_at_epoch": 1599160586.54788,
             "last_retested_at_iso": "2020-09-03T19:16:26.547880",
+            "status": "INACTIVE"
+        },
+        "www.moonsade.com": {
+            "included_at_epoch": 1599765437.673241,
+            "included_at_iso": "2020-09-10T19:17:17.673241",
+            "last_retested_at_epoch": 1599765437.673241,
+            "last_retested_at_iso": "2020-09-10T19:17:17.673241",
             "status": "INACTIVE"
         },
         "www.mu": {
@@ -21070,6 +21140,13 @@
             "included_at_iso": "2020-08-23T19:57:11.094834",
             "last_retested_at_epoch": 1598645393.789334,
             "last_retested_at_iso": "2020-08-28T20:09:53.789334",
+            "status": "INACTIVE"
+        },
+        "xgefmxd.ru": {
+            "included_at_epoch": 1599765438.232231,
+            "included_at_iso": "2020-09-10T19:17:18.232231",
+            "last_retested_at_epoch": 1599765438.232231,
+            "last_retested_at_iso": "2020-09-10T19:17:18.232231",
             "status": "INACTIVE"
         },
         "xgmc6lu8fs.me": {
