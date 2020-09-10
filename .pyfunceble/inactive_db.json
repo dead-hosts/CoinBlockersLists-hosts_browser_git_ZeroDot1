@@ -12189,6 +12189,13 @@
             "last_retested_at_iso": "2020-09-08T19:03:51.515998",
             "status": "INACTIVE"
         },
+        "jlzebszkilcz.ru": {
+            "included_at_epoch": 1599764679.757707,
+            "included_at_iso": "2020-09-10T19:04:39.757707",
+            "last_retested_at_epoch": 1599764679.757707,
+            "last_retested_at_iso": "2020-09-10T19:04:39.757707",
+            "status": "INACTIVE"
+        },
         "jqassets.download": {
             "included_at_epoch": 1599678246.265665,
             "included_at_iso": "2020-09-09T19:04:06.265665",
@@ -15060,10 +15067,10 @@
             "status": "INACTIVE"
         },
         "seed-gbr-3.inf.nimiq.network": {
-            "included_at_epoch": 1597259219.024782,
-            "included_at_iso": "2020-08-12T19:06:59.024782",
-            "last_retested_at_epoch": 1598645384.401576,
-            "last_retested_at_iso": "2020-08-28T20:09:44.401576",
+            "included_at_epoch": 1599764680.61784,
+            "included_at_iso": "2020-09-10T19:04:40.617840",
+            "last_retested_at_epoch": 1599764680.61784,
+            "last_retested_at_iso": "2020-09-10T19:04:40.617840",
             "status": "INACTIVE"
         },
         "seed-gbr-4.inf.nimiq.net": {
@@ -15074,10 +15081,10 @@
             "status": "INACTIVE"
         },
         "seed-gbr-4.inf.nimiq.network": {
-            "included_at_epoch": 1597259219.117202,
-            "included_at_iso": "2020-08-12T19:06:59.117202",
-            "last_retested_at_epoch": 1598645384.495431,
-            "last_retested_at_iso": "2020-08-28T20:09:44.495431",
+            "included_at_epoch": 1599764680.664262,
+            "included_at_iso": "2020-09-10T19:04:40.664262",
+            "last_retested_at_epoch": 1599764680.664262,
+            "last_retested_at_iso": "2020-09-10T19:04:40.664262",
             "status": "INACTIVE"
         },
         "seed-pol-1.inf.nimiq.net": {
@@ -15242,10 +15249,10 @@
             "status": "INACTIVE"
         },
         "silver.crypto.csgocpu.com": {
-            "included_at_epoch": 1597259220.226713,
-            "included_at_iso": "2020-08-12T19:07:00.226713",
-            "last_retested_at_epoch": 1598645385.692084,
-            "last_retested_at_iso": "2020-08-28T20:09:45.692084",
+            "included_at_epoch": 1599764680.74544,
+            "included_at_iso": "2020-09-10T19:04:40.745440",
+            "last_retested_at_epoch": 1599764680.74544,
+            "last_retested_at_iso": "2020-09-10T19:04:40.745440",
             "status": "INACTIVE"
         },
         "singapore01.monero.hashvault.pro": {
@@ -15284,10 +15291,10 @@
             "status": "INACTIVE"
         },
         "smurf.crypto.csgocpu.com": {
-            "included_at_epoch": 1597259220.490163,
-            "included_at_iso": "2020-08-12T19:07:00.490163",
-            "last_retested_at_epoch": 1598645385.932878,
-            "last_retested_at_iso": "2020-08-28T20:09:45.932878",
+            "included_at_epoch": 1599764680.809513,
+            "included_at_iso": "2020-09-10T19:04:40.809513",
+            "last_retested_at_epoch": 1599764680.809513,
+            "last_retested_at_iso": "2020-09-10T19:04:40.809513",
             "status": "INACTIVE"
         },
         "snahome.com": {
@@ -17313,27 +17320,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:41.496937",
             "status": "INACTIVE"
         },
-        "ws23.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264173.610227,
-            "included_at_iso": "2020-08-12T20:29:33.610227",
-            "last_retested_at_epoch": 1598644241.551814,
-            "last_retested_at_iso": "2020-08-28T19:50:41.551814",
-            "status": "INACTIVE"
-        },
-        "ws24.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264173.660947,
-            "included_at_iso": "2020-08-12T20:29:33.660947",
-            "last_retested_at_epoch": 1598644241.601703,
-            "last_retested_at_iso": "2020-08-28T19:50:41.601703",
-            "status": "INACTIVE"
-        },
-        "ws25.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264173.711036,
-            "included_at_iso": "2020-08-12T20:29:33.711036",
-            "last_retested_at_epoch": 1598644241.651922,
-            "last_retested_at_iso": "2020-08-28T19:50:41.651922",
-            "status": "INACTIVE"
-        },
         "ws3.1beb2a44.space": {
             "included_at_epoch": 1598124848.545793,
             "included_at_iso": "2020-08-22T19:34:08.545793",
@@ -17516,27 +17502,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:42.947140",
             "status": "INACTIVE"
         },
-        "ws42.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264175.060175,
-            "included_at_iso": "2020-08-12T20:29:35.060175",
-            "last_retested_at_epoch": 1598644243.003132,
-            "last_retested_at_iso": "2020-08-28T19:50:43.003132",
-            "status": "INACTIVE"
-        },
-        "ws48.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264175.128201,
-            "included_at_iso": "2020-08-12T20:29:35.128201",
-            "last_retested_at_epoch": 1598644243.067925,
-            "last_retested_at_iso": "2020-08-28T19:50:43.067925",
-            "status": "INACTIVE"
-        },
-        "ws49.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264175.174433,
-            "included_at_iso": "2020-08-12T20:29:35.174433",
-            "last_retested_at_epoch": 1598644243.115032,
-            "last_retested_at_iso": "2020-08-28T19:50:43.115032",
-            "status": "INACTIVE"
-        },
         "ws5.1beb2a44.space": {
             "included_at_epoch": 1598211832.118141,
             "included_at_iso": "2020-08-23T19:43:52.118141",
@@ -17619,13 +17584,6 @@
             "included_at_iso": "2020-08-23T19:43:52.619748",
             "last_retested_at_epoch": 1598644243.702577,
             "last_retested_at_iso": "2020-08-28T19:50:43.702577",
-            "status": "INACTIVE"
-        },
-        "ws50.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264175.807998,
-            "included_at_iso": "2020-08-12T20:29:35.807998",
-            "last_retested_at_epoch": 1598644243.749186,
-            "last_retested_at_iso": "2020-08-28T19:50:43.749186",
             "status": "INACTIVE"
         },
         "ws6.1beb2a44.space": {
@@ -18466,13 +18424,6 @@
             "included_at_iso": "2020-08-19T20:00:42.684216",
             "last_retested_at_epoch": 1598644249.745278,
             "last_retested_at_iso": "2020-08-28T19:50:49.745278",
-            "status": "INACTIVE"
-        },
-        "www.crypto.csgocpu.com": {
-            "included_at_epoch": 1597264181.775864,
-            "included_at_iso": "2020-08-12T20:29:41.775864",
-            "last_retested_at_epoch": 1598644249.80334,
-            "last_retested_at_iso": "2020-08-28T19:50:49.803340",
             "status": "INACTIVE"
         },
         "www.cryptocoinabout.com": {
@@ -19747,13 +19698,6 @@
             "included_at_iso": "2020-09-03T19:16:26.547880",
             "last_retested_at_epoch": 1599160586.54788,
             "last_retested_at_iso": "2020-09-03T19:16:26.547880",
-            "status": "INACTIVE"
-        },
-        "www.moonsade.com": {
-            "included_at_epoch": 1597264191.159435,
-            "included_at_iso": "2020-08-12T20:29:51.159435",
-            "last_retested_at_epoch": 1598644259.034681,
-            "last_retested_at_iso": "2020-08-28T19:50:59.034681",
             "status": "INACTIVE"
         },
         "www.mu": {
