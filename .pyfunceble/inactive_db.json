@@ -9690,13 +9690,6 @@
             "last_retested_at_iso": "2020-09-06T19:05:50.091909",
             "status": "INACTIVE"
         },
-        "ad.g-content.bid": {
-            "included_at_epoch": 1597517476.770248,
-            "included_at_iso": "2020-08-15T18:51:16.770248",
-            "last_retested_at_epoch": 1598641874.167912,
-            "last_retested_at_iso": "2020-08-28T19:11:14.167912",
-            "status": "INACTIVE"
-        },
         "ad.jsecoin.com": {
             "included_at_epoch": 1599505396.946419,
             "included_at_iso": "2020-09-07T19:03:16.946419",
@@ -10535,13 +10528,6 @@
             "included_at_iso": "2020-08-17T18:51:58.919924",
             "last_retested_at_epoch": 1598641880.487517,
             "last_retested_at_iso": "2020-08-28T19:11:20.487517",
-            "status": "INACTIVE"
-        },
-        "buyandfun.review": {
-            "included_at_epoch": 1597517480.385247,
-            "included_at_iso": "2020-08-15T18:51:20.385247",
-            "last_retested_at_epoch": 1598641880.536842,
-            "last_retested_at_iso": "2020-08-28T19:11:20.536842",
             "status": "INACTIVE"
         },
         "c0i8h8ac7e.bid": {
@@ -11879,13 +11865,6 @@
             "included_at_iso": "2020-08-22T19:16:58.256904",
             "last_retested_at_epoch": 1598643185.858412,
             "last_retested_at_iso": "2020-08-28T19:33:05.858412",
-            "status": "INACTIVE"
-        },
-        "goredirect.party": {
-            "included_at_epoch": 1597517485.421661,
-            "included_at_iso": "2020-08-15T18:51:25.421661",
-            "last_retested_at_epoch": 1598641891.025515,
-            "last_retested_at_iso": "2020-08-28T19:11:31.025515",
             "status": "INACTIVE"
         },
         "gustaver.ddns.ne": {
@@ -19336,6 +19315,13 @@
             "last_retested_at_iso": "2020-08-28T19:50:55.957598",
             "status": "INACTIVE"
         },
+        "www.jscoinminer.com": {
+            "included_at_epoch": 1599938169.429778,
+            "included_at_iso": "2020-09-12T19:16:09.429778",
+            "last_retested_at_epoch": 1599938169.429778,
+            "last_retested_at_iso": "2020-09-12T19:16:09.429778",
+            "status": "INACTIVE"
+        },
         "www.jshosting.bi": {
             "included_at_epoch": 1598211841.517589,
             "included_at_iso": "2020-08-23T19:44:01.517589",
@@ -21210,6 +21196,13 @@
             "included_at_iso": "2020-08-23T19:57:11.653815",
             "last_retested_at_epoch": 1598645394.264382,
             "last_retested_at_iso": "2020-08-28T20:09:54.264382",
+            "status": "INACTIVE"
+        },
+        "xmr.omine.org": {
+            "included_at_epoch": 1599938170.076108,
+            "included_at_iso": "2020-09-12T19:16:10.076108",
+            "last_retested_at_epoch": 1599938170.076108,
+            "last_retested_at_iso": "2020-09-12T19:16:10.076108",
             "status": "INACTIVE"
         },
         "xmr10.crypto-pool.fr": {
