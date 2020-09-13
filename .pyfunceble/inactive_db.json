@@ -9690,6 +9690,13 @@
             "last_retested_at_iso": "2020-09-06T19:05:50.091909",
             "status": "INACTIVE"
         },
+        "ad.g-content.bid": {
+            "included_at_epoch": 1600023963.213538,
+            "included_at_iso": "2020-09-13T19:06:03.213538",
+            "last_retested_at_epoch": 1600023963.213538,
+            "last_retested_at_iso": "2020-09-13T19:06:03.213538",
+            "status": "INACTIVE"
+        },
         "ad.jsecoin.com": {
             "included_at_epoch": 1599505396.946419,
             "included_at_iso": "2020-09-07T19:03:16.946419",
@@ -10530,6 +10537,13 @@
             "last_retested_at_iso": "2020-08-28T19:11:20.487517",
             "status": "INACTIVE"
         },
+        "buyandfun.review": {
+            "included_at_epoch": 1600023963.420266,
+            "included_at_iso": "2020-09-13T19:06:03.420266",
+            "last_retested_at_epoch": 1600023963.420266,
+            "last_retested_at_iso": "2020-09-13T19:06:03.420266",
+            "status": "INACTIVE"
+        },
         "c0i8h8ac7e.bid": {
             "included_at_epoch": 1599591828.911916,
             "included_at_iso": "2020-09-08T19:03:48.911916",
@@ -11350,10 +11364,10 @@
             "status": "INACTIVE"
         },
         "estream.nu": {
-            "included_at_epoch": 1597519111.594248,
-            "included_at_iso": "2020-08-15T19:18:31.594248",
-            "last_retested_at_epoch": 1598641887.011159,
-            "last_retested_at_iso": "2020-08-28T19:11:27.011159",
+            "included_at_epoch": 1600023963.769586,
+            "included_at_iso": "2020-09-13T19:06:03.769586",
+            "last_retested_at_epoch": 1600023963.769586,
+            "last_retested_at_iso": "2020-09-13T19:06:03.769586",
             "status": "INACTIVE"
         },
         "etc-eu.beeppool.org": {
@@ -11865,6 +11879,13 @@
             "included_at_iso": "2020-08-22T19:16:58.256904",
             "last_retested_at_epoch": 1598643185.858412,
             "last_retested_at_iso": "2020-08-28T19:33:05.858412",
+            "status": "INACTIVE"
+        },
+        "goredirect.party": {
+            "included_at_epoch": 1600023963.96033,
+            "included_at_iso": "2020-09-13T19:06:03.960330",
+            "last_retested_at_epoch": 1600023963.96033,
+            "last_retested_at_iso": "2020-09-13T19:06:03.960330",
             "status": "INACTIVE"
         },
         "gustaver.ddns.ne": {
@@ -17187,13 +17208,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:40.612758",
             "status": "INACTIVE"
         },
-        "ws1.g-content.bid": {
-            "included_at_epoch": 1597520273.648816,
-            "included_at_iso": "2020-08-15T19:37:53.648816",
-            "last_retested_at_epoch": 1598644240.665235,
-            "last_retested_at_iso": "2020-08-28T19:50:40.665235",
-            "status": "INACTIVE"
-        },
         "ws1.statistic.date": {
             "included_at_epoch": 1598124847.617486,
             "included_at_iso": "2020-08-22T19:34:07.617486",
@@ -17290,13 +17304,6 @@
             "included_at_iso": "2020-08-22T19:34:08.251860",
             "last_retested_at_epoch": 1598644241.393786,
             "last_retested_at_iso": "2020-08-28T19:50:41.393786",
-            "status": "INACTIVE"
-        },
-        "ws2.g-content.bid": {
-            "included_at_epoch": 1597520274.409926,
-            "included_at_iso": "2020-08-15T19:37:54.409926",
-            "last_retested_at_epoch": 1598644241.440594,
-            "last_retested_at_iso": "2020-08-28T19:50:41.440594",
             "status": "INACTIVE"
         },
         "ws2.statistic.date": {
@@ -17409,13 +17416,6 @@
             "included_at_iso": "2020-08-23T19:43:51.407977",
             "last_retested_at_epoch": 1598644242.242285,
             "last_retested_at_iso": "2020-08-28T19:50:42.242285",
-            "status": "INACTIVE"
-        },
-        "ws3.g-content.bid": {
-            "included_at_epoch": 1597520275.251107,
-            "included_at_iso": "2020-08-15T19:37:55.251107",
-            "last_retested_at_epoch": 1598644242.290299,
-            "last_retested_at_iso": "2020-08-28T19:50:42.290299",
             "status": "INACTIVE"
         },
         "ws3.statistic.date": {
