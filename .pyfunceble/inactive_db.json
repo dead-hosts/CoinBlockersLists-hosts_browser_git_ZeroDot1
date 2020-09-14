@@ -9985,10 +9985,10 @@
             "status": "INACTIVE"
         },
         "api.aalbbh84.info": {
-            "included_at_epoch": 1597605799.360549,
-            "included_at_iso": "2020-08-16T19:23:19.360549",
-            "last_retested_at_epoch": 1598641876.399743,
-            "last_retested_at_iso": "2020-08-28T19:11:16.399743",
+            "included_at_epoch": 1600110401.544621,
+            "included_at_iso": "2020-09-14T19:06:41.544621",
+            "last_retested_at_epoch": 1600110401.544621,
+            "last_retested_at_iso": "2020-09-14T19:06:41.544621",
             "status": "INACTIVE"
         },
         "api.aeon.hashvault.pro": {
@@ -14101,10 +14101,10 @@
             "status": "INACTIVE"
         },
         "pricefbcf.gq": {
-            "included_at_epoch": 1597605807.806685,
-            "included_at_iso": "2020-08-16T19:23:27.806685",
-            "last_retested_at_epoch": 1598643193.851067,
-            "last_retested_at_iso": "2020-08-28T19:33:13.851067",
+            "included_at_epoch": 1600110402.618297,
+            "included_at_iso": "2020-09-14T19:06:42.618297",
+            "last_retested_at_epoch": 1600110402.618297,
+            "last_retested_at_iso": "2020-09-14T19:06:42.618297",
             "status": "INACTIVE"
         },
         "proofly.win": {
@@ -17957,13 +17957,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:45.959129",
             "status": "INACTIVE"
         },
-        "www.1q2w3.fun": {
-            "included_at_epoch": 1597608202.341913,
-            "included_at_iso": "2020-08-16T20:03:22.341913",
-            "last_retested_at_epoch": 1598644246.006417,
-            "last_retested_at_iso": "2020-08-28T19:50:46.006417",
-            "status": "INACTIVE"
-        },
         "www.1q2w3.me": {
             "included_at_epoch": 1598211834.721098,
             "included_at_iso": "2020-08-23T19:43:54.721098",
@@ -19985,13 +19978,6 @@
             "included_at_iso": "2020-08-23T19:44:05.972932",
             "last_retested_at_epoch": 1598644260.550642,
             "last_retested_at_iso": "2020-08-28T19:51:00.550642",
-            "status": "INACTIVE"
-        },
-        "www.pricefbcf.gq": {
-            "included_at_epoch": 1597608206.715157,
-            "included_at_iso": "2020-08-16T20:03:26.715157",
-            "last_retested_at_epoch": 1598644260.652684,
-            "last_retested_at_iso": "2020-08-28T19:51:00.652684",
             "status": "INACTIVE"
         },
         "www.proj2018.xyz": {

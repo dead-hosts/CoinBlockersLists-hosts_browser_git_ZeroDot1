@@ -295,7 +295,8 @@
     "auroramine.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "authcaptcha.com": {
         "epoch": 1624665600.0,
