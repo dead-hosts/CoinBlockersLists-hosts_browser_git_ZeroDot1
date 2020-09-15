@@ -60,8 +60,9 @@
         "state": "future"
     },
     "8000plus.si": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1694736000.0,
+        "expiration_date": "15-sep-2023",
+        "server": "whois.register.si",
         "state": "future"
     },
     "803mine.com": {
@@ -293,10 +294,10 @@
         "state": "future"
     },
     "auroramine.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "authcaptcha.com": {
         "epoch": 1624665600.0,
@@ -1145,7 +1146,8 @@
     "de-ner-mi-nis4.info": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "de-nis-ner-mi-5.info": {
         "epoch": 1602720000.0,
@@ -2940,7 +2942,8 @@
     "panelsave.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "papoto.com": {
         "epoch": 1601856000.0,

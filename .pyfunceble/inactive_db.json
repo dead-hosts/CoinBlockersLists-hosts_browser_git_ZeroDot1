@@ -9613,6 +9613,13 @@
             "last_retested_at_iso": "2020-09-07T19:03:16.675194",
             "status": "INACTIVE"
         },
+        "50-50-pool.burst.beeppool.org": {
+            "included_at_epoch": 1600196853.202271,
+            "included_at_iso": "2020-09-15T19:07:33.202271",
+            "last_retested_at_epoch": 1600196853.202271,
+            "last_retested_at_iso": "2020-09-15T19:07:33.202271",
+            "status": "INACTIVE"
+        },
         "5vz3cfs0yd.me": {
             "included_at_epoch": 1599419149.874164,
             "included_at_iso": "2020-09-06T19:05:49.874164",
@@ -9667,6 +9674,13 @@
             "included_at_iso": "2020-09-07T19:03:16.891902",
             "last_retested_at_epoch": 1599505396.891902,
             "last_retested_at_iso": "2020-09-07T19:03:16.891902",
+            "status": "INACTIVE"
+        },
+        "acm.beeppool.org": {
+            "included_at_epoch": 1600196853.273648,
+            "included_at_iso": "2020-09-15T19:07:33.273648",
+            "last_retested_at_epoch": 1600196853.273648,
+            "last_retested_at_iso": "2020-09-15T19:07:33.273648",
             "status": "INACTIVE"
         },
         "ad.g-content.bi": {
@@ -9845,10 +9859,24 @@
             "status": "INACTIVE"
         },
         "alpha.nimiqpool.com": {
-            "included_at_epoch": 1597691946.191482,
-            "included_at_iso": "2020-08-17T19:19:06.191482",
-            "last_retested_at_epoch": 1598643185.764639,
-            "last_retested_at_iso": "2020-08-28T19:33:05.764639",
+            "included_at_epoch": 1600196853.398696,
+            "included_at_iso": "2020-09-15T19:07:33.398696",
+            "last_retested_at_epoch": 1600196853.398696,
+            "last_retested_at_iso": "2020-09-15T19:07:33.398696",
+            "status": "INACTIVE"
+        },
+        "alpha3.beeppool.org": {
+            "included_at_epoch": 1600196853.353529,
+            "included_at_iso": "2020-09-15T19:07:33.353529",
+            "last_retested_at_epoch": 1600196853.353529,
+            "last_retested_at_iso": "2020-09-15T19:07:33.353529",
+            "status": "INACTIVE"
+        },
+        "alpha5.beeppool.org": {
+            "included_at_epoch": 1600196853.447615,
+            "included_at_iso": "2020-09-15T19:07:33.447615",
+            "last_retested_at_epoch": 1600196853.447615,
+            "last_retested_at_iso": "2020-09-15T19:07:33.447615",
             "status": "INACTIVE"
         },
         "amhixwqagiz.ru": {
@@ -9999,10 +10027,10 @@
             "status": "INACTIVE"
         },
         "api.jsecoin.com": {
-            "included_at_epoch": 1597693218.561255,
-            "included_at_iso": "2020-08-17T19:40:18.561255",
-            "last_retested_at_epoch": 1598641876.652955,
-            "last_retested_at_iso": "2020-08-28T19:11:16.652955",
+            "included_at_epoch": 1600196853.516409,
+            "included_at_iso": "2020-09-15T19:07:33.516409",
+            "last_retested_at_epoch": 1600196853.516409,
+            "last_retested_at_iso": "2020-09-15T19:07:33.516409",
             "status": "INACTIVE"
         },
         "api.l33tsite.info": {
@@ -10138,6 +10166,13 @@
             "last_retested_at_iso": "2020-08-28T19:11:17.617362",
             "status": "INACTIVE"
         },
+        "asia.x11.beeppool.org": {
+            "included_at_epoch": 1600196853.580089,
+            "included_at_iso": "2020-09-15T19:07:33.580089",
+            "last_retested_at_epoch": 1600196853.580089,
+            "last_retested_at_iso": "2020-09-15T19:07:33.580089",
+            "status": "INACTIVE"
+        },
         "asia1.cpufan.club": {
             "included_at_epoch": 1599505398.236966,
             "included_at_iso": "2020-09-07T19:03:18.236966",
@@ -10166,6 +10201,13 @@
             "last_retested_at_iso": "2020-09-06T19:05:51.838010",
             "status": "INACTIVE"
         },
+        "at02.beeppool.org": {
+            "included_at_epoch": 1600196853.629455,
+            "included_at_iso": "2020-09-15T19:07:33.629455",
+            "last_retested_at_epoch": 1600196853.629455,
+            "last_retested_at_iso": "2020-09-15T19:07:33.629455",
+            "status": "INACTIVE"
+        },
         "atlanta01.monero.hashvault.pro": {
             "included_at_epoch": 1599419151.884101,
             "included_at_iso": "2020-09-06T19:05:51.884101",
@@ -10178,6 +10220,20 @@
             "included_at_iso": "2020-08-19T19:02:20.439186",
             "last_retested_at_epoch": 1598641878.0344,
             "last_retested_at_iso": "2020-08-28T19:11:18.034400",
+            "status": "INACTIVE"
+        },
+        "au2.beeppool.org": {
+            "included_at_epoch": 1600196853.722677,
+            "included_at_iso": "2020-09-15T19:07:33.722677",
+            "last_retested_at_epoch": 1600196853.722677,
+            "last_retested_at_iso": "2020-09-15T19:07:33.722677",
+            "status": "INACTIVE"
+        },
+        "au5.beeppool.org": {
+            "included_at_epoch": 1600196853.675547,
+            "included_at_iso": "2020-09-15T19:07:33.675547",
+            "last_retested_at_epoch": 1600196853.675547,
+            "last_retested_at_iso": "2020-09-15T19:07:33.675547",
             "status": "INACTIVE"
         },
         "augvtjtnsfnxg.ru": {
@@ -10250,6 +10306,13 @@
             "last_retested_at_iso": "2020-09-06T19:05:52.176996",
             "status": "INACTIVE"
         },
+        "backupexplorer.beeppool.org": {
+            "included_at_epoch": 1600196853.796147,
+            "included_at_iso": "2020-09-15T19:07:33.796147",
+            "last_retested_at_epoch": 1600196853.796147,
+            "last_retested_at_iso": "2020-09-15T19:07:33.796147",
+            "status": "INACTIVE"
+        },
         "bauersagtnein.myeffect.net": {
             "included_at_epoch": 1599505398.390811,
             "included_at_iso": "2020-09-07T19:03:18.390811",
@@ -10276,6 +10339,13 @@
             "included_at_iso": "2020-09-06T19:05:52.275984",
             "last_retested_at_epoch": 1599419152.275984,
             "last_retested_at_iso": "2020-09-06T19:05:52.275984",
+            "status": "INACTIVE"
+        },
+        "bci-eu.beeppool.org": {
+            "included_at_epoch": 1600196853.854855,
+            "included_at_iso": "2020-09-15T19:07:33.854855",
+            "last_retested_at_epoch": 1600196853.854855,
+            "last_retested_at_iso": "2020-09-15T19:07:33.854855",
             "status": "INACTIVE"
         },
         "bcn.cpufan.club": {
@@ -10356,10 +10426,10 @@
             "status": "INACTIVE"
         },
         "blockchain.jsecoin.com": {
-            "included_at_epoch": 1597693220.105007,
-            "included_at_iso": "2020-08-17T19:40:20.105007",
-            "last_retested_at_epoch": 1598641879.732447,
-            "last_retested_at_iso": "2020-08-28T19:11:19.732447",
+            "included_at_epoch": 1600196853.925501,
+            "included_at_iso": "2020-09-15T19:07:33.925501",
+            "last_retested_at_epoch": 1600196853.925501,
+            "last_retested_at_iso": "2020-09-15T19:07:33.925501",
             "status": "INACTIVE"
         },
         "blockchained.party": {
@@ -10451,6 +10521,20 @@
             "included_at_iso": "2020-09-06T19:05:52.966524",
             "last_retested_at_epoch": 1599419152.966524,
             "last_retested_at_iso": "2020-09-06T19:05:52.966524",
+            "status": "INACTIVE"
+        },
+        "business.beeppool.org": {
+            "included_at_epoch": 1600196853.987346,
+            "included_at_iso": "2020-09-15T19:07:33.987346",
+            "last_retested_at_epoch": 1600196853.987346,
+            "last_retested_at_iso": "2020-09-15T19:07:33.987346",
+            "status": "INACTIVE"
+        },
+        "buy.beeppool.org": {
+            "included_at_epoch": 1600196854.033215,
+            "included_at_iso": "2020-09-15T19:07:34.033215",
+            "last_retested_at_epoch": 1600196854.033215,
+            "last_retested_at_iso": "2020-09-15T19:07:34.033215",
             "status": "INACTIVE"
         },
         "buyandfun.review": {
@@ -10776,10 +10860,10 @@
             "status": "INACTIVE"
         },
         "coin-services.info": {
-            "included_at_epoch": 1597693221.78963,
-            "included_at_iso": "2020-08-17T19:40:21.789630",
-            "last_retested_at_epoch": 1598641883.010609,
-            "last_retested_at_iso": "2020-08-28T19:11:23.010609",
+            "included_at_epoch": 1600196854.179519,
+            "included_at_iso": "2020-09-15T19:07:34.179519",
+            "last_retested_at_epoch": 1600196854.179519,
+            "last_retested_at_iso": "2020-09-15T19:07:34.179519",
             "status": "INACTIVE"
         },
         "coiner.site": {
@@ -11028,10 +11112,10 @@
             "status": "INACTIVE"
         },
         "de1.eu.nimiqpool.com": {
-            "included_at_epoch": 1597691946.238725,
-            "included_at_iso": "2020-08-17T19:19:06.238725",
-            "last_retested_at_epoch": 1598643185.809718,
-            "last_retested_at_iso": "2020-08-28T19:33:05.809718",
+            "included_at_epoch": 1600196854.356717,
+            "included_at_iso": "2020-09-15T19:07:34.356717",
+            "last_retested_at_epoch": 1600196854.356717,
+            "last_retested_at_iso": "2020-09-15T19:07:34.356717",
             "status": "INACTIVE"
         },
         "depttake.ga": {
@@ -11111,6 +11195,13 @@
             "last_retested_at_iso": "2020-09-09T19:04:05.797515",
             "status": "INACTIVE"
         },
+        "dns11.beeppool.org": {
+            "included_at_epoch": 1600196854.437036,
+            "included_at_iso": "2020-09-15T19:07:34.437036",
+            "last_retested_at_epoch": 1600196854.437036,
+            "last_retested_at_iso": "2020-09-15T19:07:34.437036",
+            "status": "INACTIVE"
+        },
         "dns7.beeppool.org": {
             "included_at_epoch": 1597776841.324324,
             "included_at_iso": "2020-08-18T18:54:01.324324",
@@ -11144,6 +11235,13 @@
             "included_at_iso": "2020-09-01T19:01:32.592951",
             "last_retested_at_epoch": 1598986892.592951,
             "last_retested_at_iso": "2020-09-01T19:01:32.592951",
+            "status": "INACTIVE"
+        },
+        "drm.beeppool.org": {
+            "included_at_epoch": 1600196854.494514,
+            "included_at_iso": "2020-09-15T19:07:34.494514",
+            "last_retested_at_epoch": 1600196854.494514,
+            "last_retested_at_iso": "2020-09-15T19:07:34.494514",
             "status": "INACTIVE"
         },
         "dronml.ml": {
@@ -11195,11 +11293,25 @@
             "last_retested_at_iso": "2020-09-06T19:05:55.533310",
             "status": "INACTIVE"
         },
+        "easy.beeppool.org": {
+            "included_at_epoch": 1600196854.548202,
+            "included_at_iso": "2020-09-15T19:07:34.548202",
+            "last_retested_at_epoch": 1600196854.548202,
+            "last_retested_at_iso": "2020-09-15T19:07:34.548202",
+            "status": "INACTIVE"
+        },
         "ebt.beeppool.org": {
             "included_at_epoch": 1597863748.341968,
             "included_at_iso": "2020-08-19T19:02:28.341968",
             "last_retested_at_epoch": 1598641886.529112,
             "last_retested_at_iso": "2020-08-28T19:11:26.529112",
+            "status": "INACTIVE"
+        },
+        "ecportaluat.beeppool.org": {
+            "included_at_epoch": 1600196854.596635,
+            "included_at_iso": "2020-09-15T19:07:34.596635",
+            "last_retested_at_epoch": 1600196854.596635,
+            "last_retested_at_iso": "2020-09-15T19:07:34.596635",
             "status": "INACTIVE"
         },
         "eflbruwqt.ru": {
@@ -11214,6 +11326,13 @@
             "included_at_iso": "2020-08-19T19:02:28.459261",
             "last_retested_at_epoch": 1598641886.700246,
             "last_retested_at_iso": "2020-08-28T19:11:26.700246",
+            "status": "INACTIVE"
+        },
+        "emp.beeppool.org": {
+            "included_at_epoch": 1600196854.653215,
+            "included_at_iso": "2020-09-15T19:07:34.653215",
+            "last_retested_at_epoch": 1600196854.653215,
+            "last_retested_at_iso": "2020-09-15T19:07:34.653215",
             "status": "INACTIVE"
         },
         "enjoyableoffers.club": {
@@ -11384,11 +11503,25 @@
             "last_retested_at_iso": "2020-08-28T19:11:28.022054",
             "status": "INACTIVE"
         },
+        "exp-api.beeppool.org": {
+            "included_at_epoch": 1600196854.744903,
+            "included_at_iso": "2020-09-15T19:07:34.744903",
+            "last_retested_at_epoch": 1600196854.744903,
+            "last_retested_at_iso": "2020-09-15T19:07:34.744903",
+            "status": "INACTIVE"
+        },
         "explorer.jsecoin.com": {
             "included_at_epoch": 1599419156.299669,
             "included_at_iso": "2020-09-06T19:05:56.299669",
             "last_retested_at_epoch": 1599419156.299669,
             "last_retested_at_iso": "2020-09-06T19:05:56.299669",
+            "status": "INACTIVE"
+        },
+        "fch.beeppool.org": {
+            "included_at_epoch": 1600196854.798876,
+            "included_at_iso": "2020-09-15T19:07:34.798876",
+            "last_retested_at_epoch": 1600196854.798876,
+            "last_retested_at_iso": "2020-09-15T19:07:34.798876",
             "status": "INACTIVE"
         },
         "fdtpyqqsnzxvt.ru": {
@@ -11494,6 +11627,13 @@
             "included_at_iso": "2020-09-06T19:05:57.027478",
             "last_retested_at_epoch": 1599419157.027478,
             "last_retested_at_iso": "2020-09-06T19:05:57.027478",
+            "status": "INACTIVE"
+        },
+        "fr.wdc.beeppool.org": {
+            "included_at_epoch": 1600196854.885063,
+            "included_at_iso": "2020-09-15T19:07:34.885063",
+            "last_retested_at_epoch": 1600196854.885063,
+            "last_retested_at_iso": "2020-09-15T19:07:34.885063",
             "status": "INACTIVE"
         },
         "fra-rbx-c1-s1.inf.nimiq.network": {
@@ -11637,10 +11777,10 @@
             "status": "INACTIVE"
         },
         "gate.hws.ru": {
-            "included_at_epoch": 1597693224.43675,
-            "included_at_iso": "2020-08-17T19:40:24.436750",
-            "last_retested_at_epoch": 1598641890.298686,
-            "last_retested_at_iso": "2020-08-28T19:11:30.298686",
+            "included_at_epoch": 1600196854.974235,
+            "included_at_iso": "2020-09-15T19:07:34.974235",
+            "last_retested_at_epoch": 1600196854.974235,
+            "last_retested_at_iso": "2020-09-15T19:07:34.974235",
             "status": "INACTIVE"
         },
         "gbr-eri-c2-s1.inf.nimiq.network": {
@@ -12372,17 +12512,17 @@
             "status": "INACTIVE"
         },
         "load.jsecoin.com": {
-            "included_at_epoch": 1597693224.631992,
-            "included_at_iso": "2020-08-17T19:40:24.631992",
-            "last_retested_at_epoch": 1598641895.794176,
-            "last_retested_at_iso": "2020-08-28T19:11:35.794176",
+            "included_at_epoch": 1600196855.200806,
+            "included_at_iso": "2020-09-15T19:07:35.200806",
+            "last_retested_at_epoch": 1600196855.200806,
+            "last_retested_at_iso": "2020-09-15T19:07:35.200806",
             "status": "INACTIVE"
         },
         "load.nimiqpool.com": {
-            "included_at_epoch": 1597691947.128268,
-            "included_at_iso": "2020-08-17T19:19:07.128268",
-            "last_retested_at_epoch": 1598643185.906377,
-            "last_retested_at_iso": "2020-08-28T19:33:05.906377",
+            "included_at_epoch": 1600196855.251513,
+            "included_at_iso": "2020-09-15T19:07:35.251513",
+            "last_retested_at_epoch": 1600196855.251513,
+            "last_retested_at_iso": "2020-09-15T19:07:35.251513",
             "status": "INACTIVE"
         },
         "london01.monero.hashvault.pro": {
@@ -13065,10 +13205,10 @@
             "status": "INACTIVE"
         },
         "money-maker-default.info": {
-            "included_at_epoch": 1597693224.681728,
-            "included_at_iso": "2020-08-17T19:40:24.681728",
-            "last_retested_at_epoch": 1598643187.165557,
-            "last_retested_at_iso": "2020-08-28T19:33:07.165557",
+            "included_at_epoch": 1600196855.485934,
+            "included_at_iso": "2020-09-15T19:07:35.485934",
+            "last_retested_at_epoch": 1600196855.485934,
+            "last_retested_at_iso": "2020-09-15T19:07:35.485934",
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
@@ -13240,10 +13380,10 @@
             "status": "INACTIVE"
         },
         "node.alpha.nimiqpool.com": {
-            "included_at_epoch": 1597691948.049116,
-            "included_at_iso": "2020-08-17T19:19:08.049116",
-            "last_retested_at_epoch": 1598643188.611844,
-            "last_retested_at_iso": "2020-08-28T19:33:08.611844",
+            "included_at_epoch": 1600196855.622303,
+            "included_at_iso": "2020-09-15T19:07:35.622303",
+            "last_retested_at_epoch": 1600196855.622303,
+            "last_retested_at_iso": "2020-09-15T19:07:35.622303",
             "status": "INACTIVE"
         },
         "node.cfcdist.gd": {
@@ -13261,10 +13401,10 @@
             "status": "INACTIVE"
         },
         "node.nimiqpool.com": {
-            "included_at_epoch": 1597691948.095986,
-            "included_at_iso": "2020-08-17T19:19:08.095986",
-            "last_retested_at_epoch": 1598643188.75459,
-            "last_retested_at_iso": "2020-08-28T19:33:08.754590",
+            "included_at_epoch": 1600196855.671299,
+            "included_at_iso": "2020-09-15T19:07:35.671299",
+            "last_retested_at_epoch": 1600196855.671299,
+            "last_retested_at_iso": "2020-09-15T19:07:35.671299",
             "status": "INACTIVE"
         },
         "node.philpool.com": {
@@ -13275,17 +13415,17 @@
             "status": "INACTIVE"
         },
         "nodeb.nimiqpool.com": {
-            "included_at_epoch": 1597691948.159168,
-            "included_at_iso": "2020-08-17T19:19:08.159168",
-            "last_retested_at_epoch": 1598643188.863716,
-            "last_retested_at_iso": "2020-08-28T19:33:08.863716",
+            "included_at_epoch": 1600196855.782603,
+            "included_at_iso": "2020-09-15T19:07:35.782603",
+            "last_retested_at_epoch": 1600196855.782603,
+            "last_retested_at_iso": "2020-09-15T19:07:35.782603",
             "status": "INACTIVE"
         },
         "nodeone.nimiqpool.com": {
-            "included_at_epoch": 1597691948.203921,
-            "included_at_iso": "2020-08-17T19:19:08.203921",
-            "last_retested_at_epoch": 1598643188.910605,
-            "last_retested_at_iso": "2020-08-28T19:33:08.910605",
+            "included_at_epoch": 1600196855.736457,
+            "included_at_iso": "2020-09-15T19:07:35.736457",
+            "last_retested_at_epoch": 1600196855.736457,
+            "last_retested_at_iso": "2020-09-15T19:07:35.736457",
             "status": "INACTIVE"
         },
         "noobnoob.ro": {
@@ -13303,10 +13443,10 @@
             "status": "INACTIVE"
         },
         "ns.hws.ru": {
-            "included_at_epoch": 1597693224.782645,
-            "included_at_iso": "2020-08-17T19:40:24.782645",
-            "last_retested_at_epoch": 1598643189.070563,
-            "last_retested_at_iso": "2020-08-28T19:33:09.070563",
+            "included_at_epoch": 1600196855.843233,
+            "included_at_iso": "2020-09-15T19:07:35.843233",
+            "last_retested_at_epoch": 1600196855.843233,
+            "last_retested_at_iso": "2020-09-15T19:07:35.843233",
             "status": "INACTIVE"
         },
         "ns1.mutuza.win": {
@@ -13590,10 +13730,10 @@
             "status": "INACTIVE"
         },
         "play.estream.xyz": {
-            "included_at_epoch": 1597693225.667908,
-            "included_at_iso": "2020-08-17T19:40:25.667908",
-            "last_retested_at_epoch": 1598643191.232701,
-            "last_retested_at_iso": "2020-08-28T19:33:11.232701",
+            "included_at_epoch": 1600196855.999693,
+            "included_at_iso": "2020-09-15T19:07:35.999693",
+            "last_retested_at_epoch": 1600196855.999693,
+            "last_retested_at_iso": "2020-09-15T19:07:35.999693",
             "status": "INACTIVE"
         },
         "play.flowplayer.space": {
@@ -13674,10 +13814,10 @@
             "status": "INACTIVE"
         },
         "play.play.estream.xyz": {
-            "included_at_epoch": 1597693226.3079,
-            "included_at_iso": "2020-08-17T19:40:26.307900",
-            "last_retested_at_epoch": 1598643191.825967,
-            "last_retested_at_iso": "2020-08-28T19:33:11.825967",
+            "included_at_epoch": 1600196856.0623,
+            "included_at_iso": "2020-09-15T19:07:36.062300",
+            "last_retested_at_epoch": 1600196856.0623,
+            "last_retested_at_iso": "2020-09-15T19:07:36.062300",
             "status": "INACTIVE"
         },
         "play.play.tainiesonline.pw": {
@@ -13807,10 +13947,10 @@
             "status": "INACTIVE"
         },
         "playe.vidto.se": {
-            "included_at_epoch": 1597693227.144957,
-            "included_at_iso": "2020-08-17T19:40:27.144957",
-            "last_retested_at_epoch": 1598643192.732908,
-            "last_retested_at_iso": "2020-08-28T19:33:12.732908",
+            "included_at_epoch": 1600196856.150567,
+            "included_at_iso": "2020-09-15T19:07:36.150567",
+            "last_retested_at_epoch": 1600196856.150567,
+            "last_retested_at_iso": "2020-09-15T19:07:36.150567",
             "status": "INACTIVE"
         },
         "playerassets.info": {
@@ -13898,10 +14038,10 @@
             "status": "INACTIVE"
         },
         "pool.hws.ru": {
-            "included_at_epoch": 1597693227.43804,
-            "included_at_iso": "2020-08-17T19:40:27.438040",
-            "last_retested_at_epoch": 1598643193.426701,
-            "last_retested_at_iso": "2020-08-28T19:33:13.426701",
+            "included_at_epoch": 1600196856.216372,
+            "included_at_iso": "2020-09-15T19:07:36.216372",
+            "last_retested_at_epoch": 1600196856.216372,
+            "last_retested_at_iso": "2020-09-15T19:07:36.216372",
             "status": "INACTIVE"
         },
         "pool.intense.hashvault.pro": {
@@ -14164,10 +14304,10 @@
             "status": "INACTIVE"
         },
         "reasedoper.pw": {
-            "included_at_epoch": 1597693227.535994,
-            "included_at_iso": "2020-08-17T19:40:27.535994",
-            "last_retested_at_epoch": 1598643195.34509,
-            "last_retested_at_iso": "2020-08-28T19:33:15.345090",
+            "included_at_epoch": 1600196856.332666,
+            "included_at_iso": "2020-09-15T19:07:36.332666",
+            "last_retested_at_epoch": 1600196856.332666,
+            "last_retested_at_iso": "2020-09-15T19:07:36.332666",
             "status": "INACTIVE"
         },
         "rencohep.com": {
@@ -14458,10 +14598,10 @@
             "status": "INACTIVE"
         },
         "s2.play.estream.xyz": {
-            "included_at_epoch": 1597693227.585402,
-            "included_at_iso": "2020-08-17T19:40:27.585402",
-            "last_retested_at_epoch": 1598645381.702514,
-            "last_retested_at_iso": "2020-08-28T20:09:41.702514",
+            "included_at_epoch": 1600196856.460532,
+            "included_at_iso": "2020-09-15T19:07:36.460532",
+            "last_retested_at_epoch": 1600196856.460532,
+            "last_retested_at_iso": "2020-09-15T19:07:36.460532",
             "status": "INACTIVE"
         },
         "s2.play.tainiesonline.pw": {
@@ -14542,10 +14682,10 @@
             "status": "INACTIVE"
         },
         "s3.play.estream.xyz": {
-            "included_at_epoch": 1597693227.634222,
-            "included_at_iso": "2020-08-17T19:40:27.634222",
-            "last_retested_at_epoch": 1598645381.845502,
-            "last_retested_at_iso": "2020-08-28T20:09:41.845502",
+            "included_at_epoch": 1600196856.537263,
+            "included_at_iso": "2020-09-15T19:07:36.537263",
+            "last_retested_at_epoch": 1600196856.537263,
+            "last_retested_at_iso": "2020-09-15T19:07:36.537263",
             "status": "INACTIVE"
         },
         "s3.play.tainiesonline.pw": {
@@ -14626,10 +14766,10 @@
             "status": "INACTIVE"
         },
         "script.nimiqpool.com": {
-            "included_at_epoch": 1597691949.163587,
-            "included_at_iso": "2020-08-17T19:19:09.163587",
-            "last_retested_at_epoch": 1598645382.269575,
-            "last_retested_at_iso": "2020-08-28T20:09:42.269575",
+            "included_at_epoch": 1600196856.622437,
+            "included_at_iso": "2020-09-15T19:07:36.622437",
+            "last_retested_at_epoch": 1600196856.622437,
+            "last_retested_at_iso": "2020-09-15T19:07:36.622437",
             "status": "INACTIVE"
         },
         "sea.cryptoloot.pro": {
@@ -15053,10 +15193,10 @@
             "status": "INACTIVE"
         },
         "seedrs.nimiqpool.com": {
-            "included_at_epoch": 1597693227.683584,
-            "included_at_iso": "2020-08-17T19:40:27.683584",
-            "last_retested_at_epoch": 1598645385.253523,
-            "last_retested_at_iso": "2020-08-28T20:09:45.253523",
+            "included_at_epoch": 1600196856.819467,
+            "included_at_iso": "2020-09-15T19:07:36.819467",
+            "last_retested_at_epoch": 1600196856.819467,
+            "last_retested_at_iso": "2020-09-15T19:07:36.819467",
             "status": "INACTIVE"
         },
         "sen-to-zdrowie.ml": {
@@ -15470,13 +15610,6 @@
             "included_at_iso": "2020-08-22T19:33:56.779268",
             "last_retested_at_epoch": 1598643198.878308,
             "last_retested_at_iso": "2020-08-28T19:33:18.878308",
-            "status": "INACTIVE"
-        },
-        "testnet.nimiqpool.com": {
-            "included_at_epoch": 1597693228.348241,
-            "included_at_iso": "2020-08-17T19:40:28.348241",
-            "last_retested_at_epoch": 1598645387.924687,
-            "last_retested_at_iso": "2020-08-28T20:09:47.924687",
             "status": "INACTIVE"
         },
         "thatresha.com": {
@@ -16394,13 +16527,6 @@
             "included_at_iso": "2020-08-22T19:34:02.944028",
             "last_retested_at_epoch": 1598644235.707151,
             "last_retested_at_iso": "2020-08-28T19:50:35.707151",
-            "status": "INACTIVE"
-        },
-        "ws009.beeppool.org": {
-            "included_at_epoch": 1597693229.155158,
-            "included_at_iso": "2020-08-17T19:40:29.155158",
-            "last_retested_at_epoch": 1598644235.75417,
-            "last_retested_at_iso": "2020-08-28T19:50:35.754170",
             "status": "INACTIVE"
         },
         "ws009.coinhive.com": {
@@ -17796,13 +17922,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:45.787137",
             "status": "INACTIVE"
         },
-        "ww1.beeppool.org": {
-            "included_at_epoch": 1597693229.654499,
-            "included_at_iso": "2020-08-17T19:40:29.654499",
-            "last_retested_at_epoch": 1598644245.860505,
-            "last_retested_at_iso": "2020-08-28T19:50:45.860505",
-            "status": "INACTIVE"
-        },
         "ww3.beeppool.org": {
             "included_at_epoch": 1597867238.854143,
             "included_at_iso": "2020-08-19T20:00:38.854143",
@@ -17999,13 +18118,6 @@
             "last_retested_at_iso": "2020-08-28T19:50:47.208938",
             "status": "INACTIVE"
         },
-        "www.assetscdn.stream": {
-            "included_at_epoch": 1597693229.795978,
-            "included_at_iso": "2020-08-17T19:40:29.795978",
-            "last_retested_at_epoch": 1598644247.259193,
-            "last_retested_at_iso": "2020-08-28T19:50:47.259193",
-            "status": "INACTIVE"
-        },
         "www.asvoxod.ru": {
             "included_at_epoch": 1598124853.868936,
             "included_at_iso": "2020-08-22T19:34:13.868936",
@@ -18046,13 +18158,6 @@
             "included_at_iso": "2020-08-22T19:34:14.114429",
             "last_retested_at_epoch": 1598644247.576985,
             "last_retested_at_iso": "2020-08-28T19:50:47.576985",
-            "status": "INACTIVE"
-        },
-        "www.beeppool.org": {
-            "included_at_epoch": 1597693229.875469,
-            "included_at_iso": "2020-08-17T19:40:29.875469",
-            "last_retested_at_epoch": 1598644247.627991,
-            "last_retested_at_iso": "2020-08-28T19:50:47.627991",
             "status": "INACTIVE"
         },
         "www.bitcoiner.win": {
@@ -20995,13 +21100,6 @@
             "last_retested_at_iso": "2020-08-28T20:09:53.743039",
             "status": "INACTIVE"
         },
-        "xcoin.beeppool.org": {
-            "included_at_epoch": 1597696735.002425,
-            "included_at_iso": "2020-08-17T20:38:55.002425",
-            "last_retested_at_epoch": 1598645393.836611,
-            "last_retested_at_iso": "2020-08-28T20:09:53.836611",
-            "status": "INACTIVE"
-        },
         "xdn.cpufan.club": {
             "included_at_epoch": 1598212631.094834,
             "included_at_iso": "2020-08-23T19:57:11.094834",
@@ -21023,25 +21121,11 @@
             "last_retested_at_iso": "2020-08-28T20:09:53.893776",
             "status": "INACTIVE"
         },
-        "xhv-au.beeppool.org": {
-            "included_at_epoch": 1597696735.151789,
-            "included_at_iso": "2020-08-17T20:38:55.151789",
-            "last_retested_at_epoch": 1598645393.940849,
-            "last_retested_at_iso": "2020-08-28T20:09:53.940849",
-            "status": "INACTIVE"
-        },
         "xml.mining.best": {
             "included_at_epoch": 1598212631.253162,
             "included_at_iso": "2020-08-23T19:57:11.253162",
             "last_retested_at_epoch": 1598645393.998343,
             "last_retested_at_iso": "2020-08-28T20:09:53.998343",
-            "status": "INACTIVE"
-        },
-        "xmr-useast1.beeppool.org": {
-            "included_at_epoch": 1597696735.260789,
-            "included_at_iso": "2020-08-17T20:38:55.260789",
-            "last_retested_at_epoch": 1598645394.044911,
-            "last_retested_at_iso": "2020-08-28T20:09:54.044911",
             "status": "INACTIVE"
         },
         "xmr.cpufan.club": {
@@ -21112,13 +21196,6 @@
             "included_at_iso": "2020-08-23T19:57:11.876145",
             "last_retested_at_epoch": 1598645394.580031,
             "last_retested_at_iso": "2020-08-28T20:09:54.580031",
-            "status": "INACTIVE"
-        },
-        "xrn.beeppool.org": {
-            "included_at_epoch": 1597696735.865,
-            "included_at_iso": "2020-08-17T20:38:55.865000",
-            "last_retested_at_epoch": 1598645394.636531,
-            "last_retested_at_iso": "2020-08-28T20:09:54.636531",
             "status": "INACTIVE"
         },
         "xsecurity.fblaster.com": {
@@ -21198,13 +21275,6 @@
             "last_retested_at_iso": "2020-08-28T20:09:55.238332",
             "status": "INACTIVE"
         },
-        "zano.beeppool.org": {
-            "included_at_epoch": 1597696736.422186,
-            "included_at_iso": "2020-08-17T20:38:56.422186",
-            "last_retested_at_epoch": 1598645395.286673,
-            "last_retested_at_iso": "2020-08-28T20:09:55.286673",
-            "status": "INACTIVE"
-        },
         "zavzlen.ru": {
             "included_at_epoch": 1598212632.626329,
             "included_at_iso": "2020-08-23T19:57:12.626329",
@@ -21212,32 +21282,11 @@
             "last_retested_at_iso": "2020-08-28T20:09:55.381090",
             "status": "INACTIVE"
         },
-        "zcl-eu.beeppool.org": {
-            "included_at_epoch": 1597696736.469475,
-            "included_at_iso": "2020-08-17T20:38:56.469475",
-            "last_retested_at_epoch": 1598645395.333976,
-            "last_retested_at_iso": "2020-08-28T20:09:55.333976",
-            "status": "INACTIVE"
-        },
-        "zclassic.beeppool.org": {
-            "included_at_epoch": 1597696736.517682,
-            "included_at_iso": "2020-08-17T20:38:56.517682",
-            "last_retested_at_epoch": 1598645395.429257,
-            "last_retested_at_iso": "2020-08-28T20:09:55.429257",
-            "status": "INACTIVE"
-        },
         "zeit.beeppool.org": {
             "included_at_epoch": 1597867935.483032,
             "included_at_iso": "2020-08-19T20:12:15.483032",
             "last_retested_at_epoch": 1598645395.477232,
             "last_retested_at_iso": "2020-08-28T20:09:55.477232",
-            "status": "INACTIVE"
-        },
-        "zen-tw.beeppool.org": {
-            "included_at_epoch": 1597696736.570261,
-            "included_at_iso": "2020-08-17T20:38:56.570261",
-            "last_retested_at_epoch": 1598645395.572385,
-            "last_retested_at_iso": "2020-08-28T20:09:55.572385",
             "status": "INACTIVE"
         },
         "zgdfz6h7po.me": {
