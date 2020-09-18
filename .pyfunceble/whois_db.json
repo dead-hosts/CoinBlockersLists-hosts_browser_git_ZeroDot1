@@ -898,8 +898,9 @@
         "state": "future"
     },
     "coinhiver.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinhives.com": {
@@ -1265,8 +1266,9 @@
         "state": "past"
     },
     "easyhash.io": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "easypc.io": {
