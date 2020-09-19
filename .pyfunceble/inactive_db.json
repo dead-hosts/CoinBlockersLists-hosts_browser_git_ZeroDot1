@@ -18811,6 +18811,13 @@
             "last_retested_at_iso": "2020-08-28T19:50:49.572991",
             "status": "INACTIVE"
         },
+        "www.coinjive.com": {
+            "included_at_epoch": 1600543224.219486,
+            "included_at_iso": "2020-09-19T19:20:24.219486",
+            "last_retested_at_epoch": 1600543224.219486,
+            "last_retested_at_iso": "2020-09-19T19:20:24.219486",
+            "status": "INACTIVE"
+        },
         "www.coinrail.io": {
             "included_at_epoch": 1598124856.06601,
             "included_at_iso": "2020-08-22T19:34:16.066010",
@@ -20909,6 +20916,13 @@
             "included_at_iso": "2020-09-01T19:14:55.437191",
             "last_retested_at_epoch": 1598987695.437191,
             "last_retested_at_iso": "2020-09-01T19:14:55.437191",
+            "status": "INACTIVE"
+        },
+        "www.videoplayer2.xyz": {
+            "included_at_epoch": 1600543224.86379,
+            "included_at_iso": "2020-09-19T19:20:24.863790",
+            "last_retested_at_epoch": 1600543224.86379,
+            "last_retested_at_iso": "2020-09-19T19:20:24.863790",
             "status": "INACTIVE"
         },
         "www.voumxy.ru": {
