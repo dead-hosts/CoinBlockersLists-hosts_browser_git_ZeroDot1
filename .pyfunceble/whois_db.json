@@ -3921,6 +3921,12 @@
         "expiration_date": "22-feb-2019",
         "state": "future"
     },
+    "webassembly.st": {
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.nic.st",
+        "state": "future"
+    },
     "webassembly.stream": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
