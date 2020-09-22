@@ -573,7 +573,8 @@
     "brominer.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "browsermine.com": {
         "epoch": 1632182400.0,
@@ -713,8 +714,9 @@
         "state": "future"
     },
     "cieh.mx": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.mx",
         "state": "future"
     },
     "clgserv.pro": {
@@ -3574,10 +3576,10 @@
         "state": "future"
     },
     "template-download.top": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.nic.top",
-        "state": "past"
+        "state": "future"
     },
     "tercabilis.info": {
         "epoch": 1601596800.0,
