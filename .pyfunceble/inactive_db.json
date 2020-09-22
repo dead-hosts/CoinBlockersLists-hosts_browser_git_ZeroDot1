@@ -12056,13 +12056,6 @@
             "last_retested_at_iso": "2020-09-06T19:05:57.858984",
             "status": "INACTIVE"
         },
-        "gobba.myeffect.net": {
-            "included_at_epoch": 1598382032.044179,
-            "included_at_iso": "2020-08-25T19:00:32.044179",
-            "last_retested_at_epoch": 1598645381.414228,
-            "last_retested_at_iso": "2020-08-28T20:09:41.414228",
-            "status": "INACTIVE"
-        },
         "goldnova.crypto.csgocpu.com": {
             "included_at_epoch": 1599678246.118284,
             "included_at_iso": "2020-09-09T19:04:06.118284",
@@ -12082,13 +12075,6 @@
             "included_at_iso": "2020-09-06T19:05:57.972528",
             "last_retested_at_epoch": 1599419157.972528,
             "last_retested_at_iso": "2020-09-06T19:05:57.972528",
-            "status": "INACTIVE"
-        },
-        "gustaver.ddns.net": {
-            "included_at_epoch": 1598382032.158454,
-            "included_at_iso": "2020-08-25T19:00:32.158454",
-            "last_retested_at_epoch": 1598645381.463027,
-            "last_retested_at_iso": "2020-08-28T20:09:41.463027",
             "status": "INACTIVE"
         },
         "hash.minexmr.stream": {
@@ -13429,10 +13415,10 @@
             "status": "INACTIVE"
         },
         "money-maker-script.info": {
-            "included_at_epoch": 1598382033.07498,
-            "included_at_iso": "2020-08-25T19:00:33.074980",
-            "last_retested_at_epoch": 1598645381.604019,
-            "last_retested_at_iso": "2020-08-28T20:09:41.604019",
+            "included_at_epoch": 1600802492.651715,
+            "included_at_iso": "2020-09-22T19:21:32.651715",
+            "last_retested_at_epoch": 1600802492.651715,
+            "last_retested_at_iso": "2020-09-22T19:21:32.651715",
             "status": "INACTIVE"
         },
         "moscow05.electroneum.hashvault.pro": {
@@ -15424,17 +15410,17 @@
             "status": "INACTIVE"
         },
         "sen-to-zdrowie.ml": {
-            "included_at_epoch": 1598382034.358701,
-            "included_at_iso": "2020-08-25T19:00:34.358701",
-            "last_retested_at_epoch": 1598645385.351289,
-            "last_retested_at_iso": "2020-08-28T20:09:45.351289",
+            "included_at_epoch": 1600802492.764098,
+            "included_at_iso": "2020-09-22T19:21:32.764098",
+            "last_retested_at_epoch": 1600802492.764098,
+            "last_retested_at_iso": "2020-09-22T19:21:32.764098",
             "status": "INACTIVE"
         },
         "sentemanactri.com": {
-            "included_at_epoch": 1598382034.405362,
-            "included_at_iso": "2020-08-25T19:00:34.405362",
-            "last_retested_at_epoch": 1598645385.300358,
-            "last_retested_at_iso": "2020-08-28T20:09:45.300358",
+            "included_at_epoch": 1600802492.706412,
+            "included_at_iso": "2020-09-22T19:21:32.706412",
+            "last_retested_at_epoch": 1600802492.706412,
+            "last_retested_at_iso": "2020-09-22T19:21:32.706412",
             "status": "INACTIVE"
         },
         "server.jsecoin.com": {
@@ -18482,6 +18468,13 @@
             "last_retested_at_iso": "2020-09-20T19:23:20.062473",
             "status": "INACTIVE"
         },
+        "www.autologica.ga": {
+            "included_at_epoch": 1600802493.638507,
+            "included_at_iso": "2020-09-22T19:21:33.638507",
+            "last_retested_at_epoch": 1600802493.638507,
+            "last_retested_at_iso": "2020-09-22T19:21:33.638507",
+            "status": "INACTIVE"
+        },
         "www.avero.xyz": {
             "included_at_epoch": 1599592646.02482,
             "included_at_iso": "2020-09-08T19:17:26.024820",
@@ -19334,6 +19327,13 @@
             "included_at_iso": "2020-09-20T19:23:24.140618",
             "last_retested_at_epoch": 1600629804.140618,
             "last_retested_at_iso": "2020-09-20T19:23:24.140618",
+            "status": "INACTIVE"
+        },
+        "www.graftpool.ovh": {
+            "included_at_epoch": 1600802494.0011,
+            "included_at_iso": "2020-09-22T19:21:34.001100",
+            "last_retested_at_epoch": 1600802494.0011,
+            "last_retested_at_iso": "2020-09-22T19:21:34.001100",
             "status": "INACTIVE"
         },
         "www.gridiogrid.com": {
@@ -20720,6 +20720,13 @@
             "included_at_iso": "2020-09-03T19:16:28.118475",
             "last_retested_at_epoch": 1599160588.118475,
             "last_retested_at_iso": "2020-09-03T19:16:28.118475",
+            "status": "INACTIVE"
+        },
+        "www.simpleco.in": {
+            "included_at_epoch": 1600802494.43737,
+            "included_at_iso": "2020-09-22T19:21:34.437370",
+            "last_retested_at_epoch": 1600802494.43737,
+            "last_retested_at_iso": "2020-09-22T19:21:34.437370",
             "status": "INACTIVE"
         },
         "www.siteverification.site": {
