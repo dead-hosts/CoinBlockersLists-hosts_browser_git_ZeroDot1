@@ -12056,6 +12056,13 @@
             "last_retested_at_iso": "2020-09-06T19:05:57.858984",
             "status": "INACTIVE"
         },
+        "gobba.myeffect.net": {
+            "included_at_epoch": 1600888223.451666,
+            "included_at_iso": "2020-09-23T19:10:23.451666",
+            "last_retested_at_epoch": 1600888223.451666,
+            "last_retested_at_iso": "2020-09-23T19:10:23.451666",
+            "status": "INACTIVE"
+        },
         "goldnova.crypto.csgocpu.com": {
             "included_at_epoch": 1599678246.118284,
             "included_at_iso": "2020-09-09T19:04:06.118284",
@@ -12075,6 +12082,13 @@
             "included_at_iso": "2020-09-06T19:05:57.972528",
             "last_retested_at_epoch": 1599419157.972528,
             "last_retested_at_iso": "2020-09-06T19:05:57.972528",
+            "status": "INACTIVE"
+        },
+        "gustaver.ddns.net": {
+            "included_at_epoch": 1600888223.535523,
+            "included_at_iso": "2020-09-23T19:10:23.535523",
+            "last_retested_at_epoch": 1600888223.535523,
+            "last_retested_at_iso": "2020-09-23T19:10:23.535523",
             "status": "INACTIVE"
         },
         "hash.minexmr.stream": {
@@ -15893,10 +15907,10 @@
             "status": "INACTIVE"
         },
         "tokyodrift.ga": {
-            "included_at_epoch": 1598383065.828639,
-            "included_at_iso": "2020-08-25T19:17:45.828639",
-            "last_retested_at_epoch": 1598643199.361287,
-            "last_retested_at_iso": "2020-08-28T19:33:19.361287",
+            "included_at_epoch": 1600888224.918028,
+            "included_at_iso": "2020-09-23T19:10:24.918028",
+            "last_retested_at_epoch": 1600888224.918028,
+            "last_retested_at_iso": "2020-09-23T19:10:24.918028",
             "status": "INACTIVE"
         },
         "tpbpiratbay.cl": {
@@ -17411,13 +17425,6 @@
             "last_retested_at_iso": "2020-09-20T19:23:17.959929",
             "status": "INACTIVE"
         },
-        "ws1.bmcm.ml": {
-            "included_at_epoch": 1598383077.034798,
-            "included_at_iso": "2020-08-25T19:17:57.034798",
-            "last_retested_at_epoch": 1598644240.554957,
-            "last_retested_at_iso": "2020-08-28T19:50:40.554957",
-            "status": "INACTIVE"
-        },
         "ws1.coin-have.com": {
             "included_at_epoch": 1600629798.017283,
             "included_at_iso": "2020-09-20T19:23:18.017283",
@@ -17521,13 +17528,6 @@
             "included_at_iso": "2020-09-20T19:23:18.616111",
             "last_retested_at_epoch": 1600629798.616111,
             "last_retested_at_iso": "2020-09-20T19:23:18.616111",
-            "status": "INACTIVE"
-        },
-        "ws2.bmcm.ml": {
-            "included_at_epoch": 1598383077.803945,
-            "included_at_iso": "2020-08-25T19:17:57.803945",
-            "last_retested_at_epoch": 1598644241.34183,
-            "last_retested_at_iso": "2020-08-28T19:50:41.341830",
             "status": "INACTIVE"
         },
         "ws2.coin-have.com": {
@@ -19014,13 +19014,6 @@
             "last_retested_at_iso": "2020-09-20T19:23:22.745718",
             "status": "INACTIVE"
         },
-        "www.etacontent.com": {
-            "included_at_epoch": 1598383082.073096,
-            "included_at_iso": "2020-08-25T19:18:02.073096",
-            "last_retested_at_epoch": 1598644250.891799,
-            "last_retested_at_iso": "2020-08-28T19:50:50.891799",
-            "status": "INACTIVE"
-        },
         "www.etlrsq.ru": {
             "included_at_epoch": 1600629802.855196,
             "included_at_iso": "2020-09-20T19:23:22.855196",
@@ -19236,20 +19229,6 @@
             "included_at_iso": "2020-09-17T19:08:39.302141",
             "last_retested_at_epoch": 1600369719.302141,
             "last_retested_at_iso": "2020-09-17T19:08:39.302141",
-            "status": "INACTIVE"
-        },
-        "www.freshrefreshnerer186.info": {
-            "included_at_epoch": 1598383082.238633,
-            "included_at_iso": "2020-08-25T19:18:02.238633",
-            "last_retested_at_epoch": 1598644252.471709,
-            "last_retested_at_iso": "2020-08-28T19:50:52.471709",
-            "status": "INACTIVE"
-        },
-        "www.freshrefreshnerer186rb.info": {
-            "included_at_epoch": 1598383082.188453,
-            "included_at_iso": "2020-08-25T19:18:02.188453",
-            "last_retested_at_epoch": 1598644252.567814,
-            "last_retested_at_iso": "2020-08-28T19:50:52.567814",
             "status": "INACTIVE"
         },
         "www.fruitice.realnetwrk.com": {
@@ -20862,13 +20841,6 @@
             "last_retested_at_iso": "2020-09-21T19:23:51.150237",
             "status": "INACTIVE"
         },
-        "www.tokyodrift.ga": {
-            "included_at_epoch": 1598384057.519518,
-            "included_at_iso": "2020-08-25T19:34:17.519518",
-            "last_retested_at_epoch": 1598645388.290419,
-            "last_retested_at_iso": "2020-08-28T20:09:48.290419",
-            "status": "INACTIVE"
-        },
         "www.traumasister.tk": {
             "included_at_epoch": 1599160588.368628,
             "included_at_iso": "2020-09-03T19:16:28.368628",
@@ -21784,13 +21756,6 @@
             "included_at_iso": "2020-08-28T20:09:55.079415",
             "last_retested_at_epoch": 1598645395.079415,
             "last_retested_at_iso": "2020-08-28T20:09:55.079415",
-            "status": "INACTIVE"
-        },
-        "yourloganalytics.com": {
-            "included_at_epoch": 1598384062.215627,
-            "included_at_iso": "2020-08-25T19:34:22.215627",
-            "last_retested_at_epoch": 1598645395.135866,
-            "last_retested_at_iso": "2020-08-28T20:09:55.135866",
             "status": "INACTIVE"
         },
         "yqaywudifu.date": {
