@@ -244,8 +244,9 @@
         "state": "future"
     },
     "anybest.site": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "anybest.space": {
@@ -3493,9 +3494,10 @@
         "state": "future"
     },
     "statistic.date": {
-        "epoch": "1544572800",
-        "expiration_date": "12-dec-2018",
-        "state": "past"
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.nic.date",
+        "state": "future"
     },
     "statpipe.ru": {
         "epoch": 1603065600.0,
