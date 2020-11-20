@@ -3385,8 +3385,9 @@
         "state": "future"
     },
     "serv1swork.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "service4refresh.info": {
@@ -3425,10 +3426,10 @@
         "state": "future"
     },
     "simpleco.in": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
         "server": "whois.registry.in",
-        "state": "past"
+        "state": "future"
     },
     "simplemining.net": {
         "epoch": 1719792000,
@@ -3567,13 +3568,15 @@
         "state": "future"
     },
     "str1kee.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "streamdream.ws": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.website.ws",
         "state": "future"
     },
     "streamplay.me": {
@@ -3603,8 +3606,9 @@
         "state": "past"
     },
     "sweetbook.net": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "swiftmining.win": {
@@ -3706,8 +3710,9 @@
         "state": "past"
     },
     "thewhizmarketing.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thewhizproducts.com": {
@@ -4002,8 +4007,9 @@
         "state": "future"
     },
     "webmine.cz": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.nic.cz",
         "state": "future"
     },
     "webmine.pro": {
@@ -4012,8 +4018,9 @@
         "state": "future"
     },
     "webminepool.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webminer.pro": {
@@ -4029,7 +4036,8 @@
     "webmining.co": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "webxmr.com": {
         "epoch": 1618099200.0,
@@ -4255,10 +4263,10 @@
         "state": "past"
     },
     "zlx.com.br": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1666051200.0,
+        "expiration_date": "18-oct-2022",
         "server": "whois.registro.br",
-        "state": "past"
+        "state": "future"
     },
     "zndaowjdnf.stream": {
         "epoch": 1562803200,
