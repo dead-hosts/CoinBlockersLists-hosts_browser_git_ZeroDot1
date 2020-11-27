@@ -419,10 +419,10 @@
         "state": "future"
     },
     "belicimo.pw": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "server": "whois.nic.pw",
-        "state": "past"
+        "state": "future"
     },
     "berateveng.ru": {
         "epoch": 1625875200.0,
@@ -435,8 +435,9 @@
         "state": "future"
     },
     "besocial.online": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "besstahete.info": {
@@ -564,8 +565,9 @@
         "state": "future"
     },
     "bmnr.pw": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "bmpx.pw": {
@@ -1143,8 +1145,9 @@
         "state": "future"
     },
     "cuev.in": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "d8acddffe978b5dfcae6.date": {
@@ -1370,8 +1373,9 @@
         "state": "future"
     },
     "eth-pocket.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ether.cards": {
@@ -2439,8 +2443,9 @@
         "state": "future"
     },
     "machieved.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "malictuiar.com": {
