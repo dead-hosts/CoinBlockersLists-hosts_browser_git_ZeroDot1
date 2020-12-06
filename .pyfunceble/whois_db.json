@@ -150,8 +150,9 @@
         "state": "past"
     },
     "airproxyproxy.pw": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "airproxyunblocked.org": {
@@ -176,14 +177,15 @@
         "state": "future"
     },
     "aleinvest.xyz": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.nic.xyz",
         "state": "future"
     },
     "alemoney.xyz": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "alflying.bid": {
@@ -802,8 +804,9 @@
         "state": "future"
     },
     "cnt.st": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.nic.st",
         "state": "future"
     },
     "code.ws": {
@@ -896,8 +899,9 @@
         "state": "past"
     },
     "coinhive.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinhive.info": {
@@ -1085,8 +1089,9 @@
         "state": "future"
     },
     "crypto-webminer.com": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cryptobara.com": {
@@ -1303,7 +1308,7 @@
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
         "server": "whois.nic.io",
-        "state": "future"
+        "state": "past"
     },
     "easypc.io": {
         "epoch": 1591315200,
@@ -1493,8 +1498,9 @@
         "state": "future"
     },
     "flashx.pw": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "flightsy.bid": {
@@ -1976,8 +1982,9 @@
         "state": "future"
     },
     "hzsod71wov.me": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "iaheyftbsn.review": {
@@ -2791,8 +2798,8 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -2940,8 +2947,9 @@
         "state": "future"
     },
     "olecintri.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oload.tv": {
