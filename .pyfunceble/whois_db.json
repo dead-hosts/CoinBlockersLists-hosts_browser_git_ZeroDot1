@@ -144,10 +144,10 @@
         "state": "past"
     },
     "airproxyboat.in": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
         "server": "whois.registry.in",
-        "state": "past"
+        "state": "future"
     },
     "airproxyproxy.pw": {
         "epoch": 1638144000.0,
@@ -443,8 +443,8 @@
         "state": "future"
     },
     "besstahete.info": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -943,10 +943,10 @@
         "state": "future"
     },
     "coinhub.win": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "server": "whois.nic.win",
-        "state": "past"
+        "state": "future"
     },
     "coinimp.com": {
         "epoch": 1637280000.0,
@@ -955,8 +955,9 @@
         "state": "future"
     },
     "coinimp.net": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinive.com": {
@@ -1125,8 +1126,9 @@
         "state": "future"
     },
     "cryptonoter.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cryptosearch.site": {
@@ -1305,10 +1307,10 @@
         "state": "past"
     },
     "easyhash.io": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
         "server": "whois.nic.io",
-        "state": "past"
+        "state": "future"
     },
     "easypc.io": {
         "epoch": 1591315200,
@@ -1850,13 +1852,14 @@
         "state": "future"
     },
     "hashing.win": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.win",
         "state": "future"
     },
     "hashto.cash": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "server": "whois.nic.cash",
         "state": "future"
     },
@@ -1911,8 +1914,9 @@
         "state": "future"
     },
     "hk.rs": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.rnids.rs",
         "state": "future"
     },
     "hlpidkr.ru": {
@@ -2003,8 +2007,9 @@
         "state": "past"
     },
     "igrid.org": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ihdvilappuxpgiv.ru": {
@@ -2109,8 +2114,9 @@
         "state": "future"
     },
     "jlzebszkilcz.ru": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "jqassets.download": {
@@ -2526,8 +2532,9 @@
         "state": "future"
     },
     "minemytraffic.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "miner.hosting": {
@@ -2820,8 +2827,8 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2902,8 +2909,9 @@
         "state": "future"
     },
     "notmining.org": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "npdaqy6x1j.me": {
