@@ -3461,8 +3461,8 @@
         "state": "future"
     },
     "siteverification.online": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
         "server": "whois.nic.online",
         "state": "future"
     },
@@ -3604,8 +3604,9 @@
         "state": "future"
     },
     "streamplay.me": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "sunhd.info": {
@@ -3672,8 +3673,8 @@
         "state": "future"
     },
     "tercabilis.info": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -3740,18 +3741,21 @@
         "state": "future"
     },
     "thewhizproducts.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thewise.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tidafors.xyz": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "todogecoin.biz": {
@@ -3865,8 +3869,9 @@
         "state": "future"
     },
     "unblockedtpb.pw": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.pw",
         "state": "future"
     },
     "unblocktheship.org": {
@@ -4010,8 +4015,9 @@
         "state": "past"
     },
     "wasm.stream": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "wasm24.ru": {
@@ -4026,8 +4032,9 @@
         "state": "future"
     },
     "webassembly.stream": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "webmine.cz": {
@@ -4058,10 +4065,10 @@
         "state": "future"
     },
     "webmining.co": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "webxmr.com": {
         "epoch": 1618099200.0,
@@ -4086,7 +4093,8 @@
     "whchsvlxch.site": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
-        "state": "future"
+        "server": "whois.nic.site",
+        "state": "past"
     },
     "whysoserius.club": {
         "epoch": 1614556800.0,
