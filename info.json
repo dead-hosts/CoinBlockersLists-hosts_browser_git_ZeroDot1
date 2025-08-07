@@ -14,7 +14,14 @@
     "name": "CoinBlockersLists-hosts_browser_git_ZeroDot1",
     "own_management": false,
     "ping": [],
+    "ping_enabled": false,
+    "platform_container_id": null,
+    "platform_container_name": "coinblockerslists-hosts_browser_git_zerodot1",
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
     "raw_link": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+    "repo": "dead-hosts/CoinBlockersLists-hosts_browser_git_ZeroDot1",
     "start_datetime": "2020-12-28T19:45:52.041079",
     "start_timestamp": 1609184752.041079
 }
